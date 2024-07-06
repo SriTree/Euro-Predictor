@@ -1,4 +1,3 @@
-#server.py
 import os
 import sys
 from flask import Flask, request, jsonify
@@ -12,15 +11,17 @@ from sklearn.metrics import accuracy_score, precision_score
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
+# Global variables to store model and performance metrics
+bst = None
+accuracy = 0
+precision = 0
+
 # Loading datasets
 nations_one = pd.read_csv("nations_league_1.csv", index_col=0)
 nations_two = pd.read_csv("nations_league_2.csv", index_col=0)
 world_cup = pd.read_csv("world_cup.csv", index_col=0)
 euro_qual = pd.read_csv("euro_qual.csv", index_col=0)
 euro_2022 = pd.read_csv("euro_2022.csv", index_col=0)
-
-accuracy = 0
-precision = 0
 
 # Function to predict match outcomes
 def predict_match_outcomes(match_data, model, features):
@@ -32,7 +33,7 @@ def predict_match_outcomes(match_data, model, features):
 def remove_abbreviation(opponent):
     return opponent.split(' ', 1)[1]
 
-# Combining all df into one combined df, cleaning up data 
+# Combining all df into one combined df, cleaning up data
 combined = pd.concat([nations_one, nations_two, world_cup, euro_qual, euro_2022])
 combined['Opponent'] = combined['Opponent'].apply(remove_abbreviation)
 combined = combined[combined['Comp'] != 'Friendlies (M)']
@@ -42,11 +43,11 @@ combined.to_csv("matches.csv")
 def adjust_result(row):
     gf = row['GF']
     ga = row['GA']
-    
+
     if re.search(r'\(\d+\)', gf) and re.search(r'\(\d+\)', ga):
         gf_shootout = int(re.search(r'\((\d+)\)', gf).group(1))
         ga_shootout = int(re.search(r'\((\d+)\)', ga).group(1))
-        
+
         if gf_shootout > ga_shootout:
             return 'W'
         elif gf_shootout < ga_shootout:
@@ -163,6 +164,10 @@ def train_model():
 
 @app.route('/simulate', methods=['POST'])
 def simulate():
+    global bst
+    if bst is None:
+        train_model()
+
     group_stage_matches = {
         'date': [
             '2024-06-14', '2024-06-15', '2024-06-15', '2024-06-15', '2024-06-16', '2024-06-16', '2024-06-16',
@@ -249,7 +254,7 @@ def simulate():
 
     # Simulate the knockout rounds
     final_winner, knockout_data = simulate_knockout_rounds(top_2_teams, best_4_third_placed, combined_rolling, new_cols, features)
-    
+
     return jsonify({
         "group_stage_results": group_stage_results,
         "group_standings": group_standings,
@@ -290,18 +295,18 @@ def display_match_results_and_determine_winners(df, stage_name):
 def determine_group_standings(results):
     groups = {'A': [], 'B': [], 'C': [], 'D': [], 'E': [], 'F': []}
     standings = {group: {} for group in groups.keys()}
-    
+
     for result in results:
         group = result['group']
         match = result['match']
         winner = result['winner']
         nation, opponent = match.split(' vs ')
-        
+
         if nation not in standings[group]:
             standings[group][nation] = {'points': 0, 'goals_for': 0, 'goals_against': 0}
         if opponent not in standings[group]:
             standings[group][opponent] = {'points': 0, 'goals_for': 0, 'goals_against': 0}
-        
+
         if winner == 'Draw':
             standings[group][nation]['points'] += 1
             standings[group][opponent]['points'] += 1
@@ -310,11 +315,11 @@ def determine_group_standings(results):
 
         standings[group][nation]['goals_for'] += 1
         standings[group][opponent]['goals_against'] += 1
-    
+
     for group in standings:
         sorted_standings = sorted(standings[group].items(), key=lambda item: (-item[1]['points'], item[1]['goals_for'] - item[1]['goals_against']))
         groups[group] = [(team, stats) for team, stats in sorted_standings]
-    
+
     return groups
 
 def simulate_knockout_rounds(top_2_teams, best_4_third_placed, combined_rolling, new_cols, features):
