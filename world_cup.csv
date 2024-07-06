@@ -1,0 +1,387 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Sh,SoT,PK,PKatt,Saves,CS,Nation
+0,2021-03-24,20:00,WCQ,First round,Wed,Away,L,2,4,tr Türkiye,,,66.0,,Georginio Wijnaldum,4-3-3,Michael Oliver,Match Report,,20.0,9.0,0,1,1.0,0,Netherlands
+1,2021-03-27,18:00,WCQ,First round,Sat,Home,W,2,0,lv Latvia,,,77.0,5000.0,Georginio Wijnaldum,4-3-3,Stéphanie Frappart,Match Report,,36.0,11.0,0,0,0.0,1,Netherlands
+2,2021-03-30,20:45,WCQ,First round,Tue,Away,W,7,0,gi Gibraltar,,,80.0,335.0,Georginio Wijnaldum,4-3-3,João Pinheiro,Match Report,,35.0,16.0,0,0,0.0,1,Netherlands
+3,2021-09-01,20:45,WCQ,First round,Wed,Away,D,1,1,no Norway,,,65.0,6711.0,Virgil van Dijk,4-3-3,Szymon Marciniak,Match Report,,17.0,6.0,0,0,1.0,0,Netherlands
+4,2021-09-04,20:45,WCQ,First round,Sat,Home,W,4,0,me Montenegro,,,72.0,20458.0,Georginio Wijnaldum,4-3-3,Jesús Gil,Match Report,,28.0,12.0,1,1,1.0,1,Netherlands
+5,2021-09-07,20:45,WCQ,First round,Tue,Home,W,6,1,tr Türkiye,,,67.0,31389.0,Virgil van Dijk,4-3-3,Daniele Orsato,Match Report,,29.0,12.0,1,1,1.0,0,Netherlands
+6,2021-10-08,21:45,WCQ,First round,Fri,Away,W,1,0,lv Latvia,,,78.0,4711.0,Virgil van Dijk,4-3-3,Andy Madley,Match Report,,19.0,4.0,0,0,1.0,1,Netherlands
+7,2021-10-11,20:45,WCQ,First round,Mon,Home,W,6,0,gi Gibraltar,,,82.0,31583.0,Virgil van Dijk,4-3-3,Vitaly Meshkov,Match Report,,31.0,12.0,1,2,0.0,1,Netherlands
+8,2021-11-13,20:45,WCQ,First round,Sat,Away,D,2,2,me Montenegro,,,74.0,1844.0,Virgil van Dijk,4-3-3,Carlos del Cerro,Match Report,,9.0,3.0,1,1,1.0,0,Netherlands
+9,2021-11-16,20:45,WCQ,First round,Tue,Home,W,2,0,no Norway,,,65.0,,Virgil van Dijk,4-3-3,Clément Turpin,Match Report,,10.0,5.0,0,0,0.0,1,Netherlands
+10,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Neutral,W,4,2,dk Denmark,,,,,Virgil van Dijk,3-4-1-2,Lawrence Visser,Match Report,,,,1,1,,0,Netherlands
+11,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,de Germany,,,,50387.0,Virgil van Dijk,3-4-1-2,Craig Pawson,Match Report,,,,0,0,,0,Netherlands
+12,2022-11-21,19:00,World Cup,Group stage,Mon,Neutral,W,2,0,sn Senegal,0.7,0.9,54.0,41721.0,Virgil van Dijk,3-4-1-2,Wilton Sampaio,Match Report,,10.0,3.0,0,0,4.0,1,Netherlands
+13,2022-11-25,19:00,World Cup,Group stage,Fri,Neutral,D,1,1,ec Ecuador,0.1,1.7,54.0,44833.0,Virgil van Dijk,3-4-1-2,Mustapha Ghorbal,Match Report,,2.0,1.0,0,0,3.0,0,Netherlands
+14,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,W,2,0,qa Qatar,1.6,0.1,63.0,66784.0,Virgil van Dijk,3-4-1-2,Bakary Papa Gassama,Match Report,,13.0,4.0,0,0,3.0,1,Netherlands
+15,2022-12-03,18:00,World Cup,Round of 16,Sat,Neutral,W,3,1,us United States,1.7,1.5,42.0,44846.0,Virgil van Dijk,3-4-1-2,Wilton Sampaio,Match Report,,11.0,6.0,0,0,5.0,0,Netherlands
+16,2022-12-09,22:00,World Cup,Quarter-finals,Fri,Neutral,D,2 (3),2 (4),ar Argentina,0.6,1.9,52.0,88235.0,Virgil van Dijk,3-4-1-2,Antonio Matéu,Match Report,Argentina won on penalty kicks following extra time,6.0,2.0,0,0,3.0,0,Netherlands
+17,2021-03-25,19:45,WCQ,First round,Thu,Home,W,5,0,sm San Marino,,,85.0,,Raheem Sterling,4-2-3-1,Kirill Levnikov,Match Report,,32.0,15.0,0,0,0.0,1,England
+18,2021-03-28,18:00,WCQ,First round,Sun,Away,W,2,0,al Albania,,,71.0,200.0,Harry Kane,4-3-3,Orel Grinfeeld,Match Report,,9.0,4.0,0,0,0.0,1,England
+19,2021-03-31,19:45,WCQ,First round,Wed,Home,W,2,1,pl Poland,,,63.0,,Harry Kane,4-3-3,Björn Kuipers,Match Report,,10.0,4.0,1,1,0.0,0,England
+20,2021-09-02,20:45,WCQ,First round,Thu,Away,W,4,0,hu Hungary,,,64.0,58260.0,Harry Kane,4-2-3-1,Cüneyt Çakιr,Match Report,,12.0,8.0,0,0,1.0,1,England
+21,2021-09-05,17:00,WCQ,First round,Sun,Home,W,4,0,ad Andorra,,,88.0,67171.0,Jordan Henderson,4-3-3,Anastasios Papapetrou,Match Report,,20.0,6.0,1,1,1.0,1,England
+22,2021-09-08,20:45,WCQ,First round,Wed,Away,D,1,1,pl Poland,,,63.0,56212.0,Harry Kane,4-2-3-1,Daniel Siebert,Match Report,,13.0,2.0,0,0,3.0,0,England
+23,2021-10-09,20:45,WCQ,First round,Sat,Away,W,5,0,ad Andorra,,,86.0,2285.0,Kieran Trippier,4-3-3,Kateryna Monzul,Match Report,,17.0,8.0,0,1,0.0,1,England
+24,2021-10-12,19:45,WCQ,First round,Tue,Home,D,1,1,hu Hungary,,,64.0,69380.0,Harry Kane,4-3-3,Alejandro Hernández,Match Report,,11.0,5.0,0,0,0.0,0,England
+25,2021-11-12,19:45,WCQ,First round,Fri,Home,W,5,0,al Albania,,,64.0,80366.0,Harry Kane,3-4-3,Ruddy Buquet,Match Report,,15.0,6.0,0,0,4.0,1,England
+26,2021-11-15,20:45,WCQ,First round,Mon,Away,W,10,0,sm San Marino,,,85.0,,Harry Kane,4-3-3,Rade Obrenović,Match Report,,22.0,13.0,2,2,1.0,1,England
+27,2022-03-26,17:30,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,1,ch Switzerland,,,,,Harry Kane,3-4-3,Andreas Ekberg,Match Report,,,,1,1,,0,England
+28,2022-03-29,19:45,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,ci Côte d'Ivoire,,,,,Raheem Sterling,4-2-3-1,Erik Lambrechts,Match Report,,,,0,0,,1,England
+29,2022-11-21,16:00,World Cup,Group stage,Mon,Neutral,W,6,2,ir IR Iran,2.1,1.4,77.0,45334.0,Harry Kane,4-2-3-1,Raphael Claus,Match Report,,13.0,7.0,0,0,1.0,0,England
+30,2022-11-25,22:00,World Cup,Group stage,Fri,Neutral,D,0,0,us United States,0.8,0.6,55.0,68463.0,Harry Kane,4-2-3-1,Jesús Valenzuela,Match Report,,8.0,3.0,0,0,1.0,1,England
+31,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,W,3,0,wls Wales,2.4,0.3,64.0,44297.0,Harry Kane,4-3-3,Slavko Vinčič,Match Report,,18.0,7.0,0,0,1.0,1,England
+32,2022-12-04,22:00,World Cup,Round of 16,Sun,Neutral,W,3,0,sn Senegal,0.9,0.7,61.0,65985.0,Harry Kane,4-3-3,Iván Barton,Match Report,,8.0,4.0,0,0,1.0,1,England
+33,2022-12-10,22:00,World Cup,Quarter-finals,Sat,Neutral,L,1,2,fr France,2.4,0.9,57.0,68895.0,Harry Kane,4-3-3,Wilton Sampaio,Match Report,,14.0,6.0,1,2,3.0,0,England
+34,2021-03-25,20:45,WCQ,First round,Thu,Away,D,3.0,3.0,hu Hungary,,,64.0,,Robert Lewandowski,4-4-2,Felix Brych,Match Report,,10.0,3.0,0,0,1.0,0,Poland
+35,2021-03-28,20:45,WCQ,First round,Sun,Home,W,3.0,0.0,ad Andorra,,,85.0,,Robert Lewandowski,4-4-2◆,Erik Lambrechts,Match Report,,26.0,6.0,0,0,0.0,1,Poland
+36,2021-03-31,19:45,WCQ,First round,Wed,Away,L,1.0,2.0,eng England,,,37.0,,Kamil Glik,3-4-3,Björn Kuipers,Match Report,,4.0,1.0,0,0,2.0,0,Poland
+37,2021-09-02,20:45,WCQ,First round,Thu,Home,W,4.0,1.0,al Albania,,,49.0,38254.0,Robert Lewandowski,4-4-2,Maurizio Mariani,Match Report,,6.0,4.0,0,0,3.0,0,Poland
+38,2021-09-05,20:45,WCQ,First round,Sun,Away,W,7.0,1.0,sm San Marino,,,76.0,500.0,Robert Lewandowski,4-4-2,Mattias Gestranius,Match Report,,24.0,11.0,0,0,2.0,0,Poland
+39,2021-09-08,20:45,WCQ,First round,Wed,Home,D,1.0,1.0,eng England,,,37.0,56212.0,Robert Lewandowski,4-4-2,Daniel Siebert,Match Report,,11.0,4.0,0,0,1.0,0,Poland
+40,2021-10-09,20:45,WCQ,First round,Sat,Home,W,5.0,0.0,sm San Marino,,,83.0,56128.0,Robert Lewandowski,4-4-2,Fran Jović,Match Report,,31.0,12.0,0,0,1.0,2,Poland
+41,2021-10-12,20:45,WCQ,First round,Tue,Away,W,1.0,0.0,al Albania,,,60.0,21000.0,Robert Lewandowski,4-4-2,Clément Turpin,Match Report,,5.0,2.0,0,0,1.0,1,Poland
+42,2021-11-12,20:45,WCQ,First round,Fri,Away,W,4.0,1.0,ad Andorra,,,79.0,1049.0,Robert Lewandowski,3-4-1-2,John Beaton,Match Report,,18.0,8.0,0,0,0.0,0,Poland
+43,2021-11-15,20:45,WCQ,First round,Mon,Home,L,1.0,2.0,hu Hungary,,,63.0,,Wojciech Szczęsny,4-4-2,Tiago Martins,Match Report,,15.0,6.0,0,0,2.0,0,Poland
+44,2022-03-24,20:00,WCQ,Semi-finals,Thu,Away,,,,ru Russia,,,,,,,,Match Report,Match Cancelled,,,1,1,,0,Poland
+45,2022-03-24,19:45,Friendlies (M),Friendlies (M),Thu,Neutral,D,1.0,1.0,sct Scotland,,,,,Kamil Glik,3-4-3,Robert Hennessy,Match Report,,,,1,1,,0,Poland
+46,2022-03-29,20:45,WCQ,Finals,Tue,Home,W,2.0,0.0,se Sweden,,,39.0,54078.0,Robert Lewandowski,3-4-3,Daniele Orsato,Match Report,,10.0,8.0,1,1,6.0,1,Poland
+47,2022-11-16,18:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1.0,0.0,cl Chile,,,,27968.0,Kamil Glik,3-5-2,Harm Osmers,Match Report,,,,0,0,,1,Poland
+48,2022-11-22,19:00,World Cup,Group stage,Tue,Neutral,D,0.0,0.0,mx Mexico,0.9,0.7,40.0,39369.0,Robert Lewandowski,4-1-4-1,Chris Beath,Match Report,,5.0,1.0,0,1,4.0,1,Poland
+49,2022-11-26,16:00,World Cup,Group stage,Sat,Neutral,W,2.0,0.0,sa Saudi Arabia,1.6,1.7,37.0,44259.0,Robert Lewandowski,4-4-2,Wilton Sampaio,Match Report,,9.0,3.0,0,0,4.0,1,Poland
+50,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,L,0.0,2.0,ar Argentina,0.3,3.5,27.0,44089.0,Robert Lewandowski,4-4-2,Danny Makkelie,Match Report,,4.0,0.0,0,0,8.0,0,Poland
+51,2022-12-04,18:00,World Cup,Round of 16,Sun,Neutral,L,1.0,3.0,fr France,1.7,1.4,45.0,40989.0,Robert Lewandowski,4-1-4-1,Jesús Valenzuela,Match Report,,11.0,1.0,1,1,5.0,0,Poland
+52,2021-03-24,20:45,WCQ,First round,Wed,Home,D,1,1,ua Ukraine,,,63.0,,Hugo Lloris,4-2-2-2,Tobias Stieler,Match Report,,18.0,3.0,0,0,0.0,0,France
+53,2021-03-28,19:00,WCQ,First round,Sun,Away,W,2,0,kz Kazakhstan,,,63.0,,Hugo Lloris,4-2-3-1,Aliaksei Kulbakou,Match Report,,15.0,9.0,0,1,0.0,1,France
+54,2021-03-31,20:45,WCQ,First round,Wed,Away,W,1,0,ba Bosnia & Herz'na,,,56.0,,Hugo Lloris,4-4-2,Daniele Orsato,Match Report,,13.0,2.0,0,0,2.0,1,France
+55,2021-09-01,20:45,WCQ,First round,Wed,Home,D,1,1,ba Bosnia & Herz'na,,,54.0,21754.0,Hugo Lloris,4-3-3,Sandro Schärer,Match Report,,9.0,2.0,0,0,1.0,0,France
+56,2021-09-04,21:45,WCQ,First round,Sat,Away,D,1,1,ua Ukraine,,,62.0,48000.0,Hugo Lloris,4-4-2,Slavko Vinčič,Match Report,,16.0,5.0,0,0,2.0,0,France
+57,2021-09-07,20:45,WCQ,First round,Tue,Home,W,2,0,fi Finland,,,64.0,57057.0,Hugo Lloris,5-2-1-2,Deniz Aytekin,Match Report,,20.0,6.0,0,0,1.0,1,France
+58,2021-11-13,20:45,WCQ,First round,Sat,Home,W,8,0,kz Kazakhstan,,,66.0,45551.0,Hugo Lloris,3-4-1-2,Glenn Nyberg,Match Report,,20.0,14.0,1,1,3.0,1,France
+59,2021-11-16,21:45,WCQ,First round,Tue,Away,W,2,0,fi Finland,,,53.0,31890.0,Hugo Lloris,3-4-3,Marco Guida,Match Report,,8.0,5.0,0,0,1.0,1,France
+60,2022-03-25,21:15,Friendlies (M),Friendlies (M),Fri,Neutral,W,2,1,ci Côte d'Ivoire,,,,62510.0,Hugo Lloris,3-4-1-2,Vitor Ferreira Fernandes,Match Report,,,,0,0,,0,France
+61,2022-03-29,21:15,Friendlies (M),Friendlies (M),Tue,Neutral,W,5,0,za South Africa,,,,48120.0,Raphaël Varane,3-4-1-2,Sandro Schärer,Match Report,,,,1,1,,1,France
+62,2022-11-22,22:00,World Cup,Group stage,Tue,Neutral,W,4,1,au Australia,4.0,0.5,62.0,40875.0,Hugo Lloris,4-2-3-1,Victor Gomes,Match Report,,23.0,6.0,0,0,0.0,0,France
+63,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,W,2,1,dk Denmark,2.4,0.6,49.0,42860.0,Hugo Lloris,4-2-3-1,Szymon Marciniak,Match Report,,21.0,6.0,0,0,1.0,0,France
+64,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,L,0,1,tn Tunisia,0.8,0.5,65.0,43627.0,Raphaël Varane,4-3-3,Matt Conger,Match Report,,10.0,3.0,0,0,2.0,0,France
+65,2022-12-04,18:00,World Cup,Round of 16,Sun,Neutral,W,3,1,pl Poland,1.4,1.7,55.0,40989.0,Hugo Lloris,4-2-3-1,Jesús Valenzuela,Match Report,,16.0,8.0,0,0,1.0,0,France
+66,2022-12-10,22:00,World Cup,Quarter-finals,Sat,Neutral,W,2,1,eng England,0.9,2.4,43.0,68895.0,Hugo Lloris,4-2-3-1,Wilton Sampaio,Match Report,,8.0,5.0,0,0,6.0,0,France
+67,2022-12-14,22:00,World Cup,Semi-finals,Wed,Neutral,W,2,0,ma Morocco,2.0,0.9,39.0,68294.0,Hugo Lloris,4-2-3-1,César Arturo Ramos,Match Report,,14.0,2.0,0,0,2.0,1,France
+68,2022-12-18,18:00,World Cup,Final,Sun,Neutral,D,3 (2),3 (4),ar Argentina,2.2,3.2,46.0,88966.0,Hugo Lloris,4-2-3-1,Szymon Marciniak,Match Report,Argentina won on penalty kicks following extra time,8.0,3.0,2,2,7.0,0,France
+69,2021-03-25,19:00,WCQ,First round,Thu,Away,W,2,0,il Israel,,,50.0,5000.0,Simon Kjær,4-2-3-1,Craig Pawson,Match Report,,14.0,7.0,0,0,2.0,1,Denmark
+70,2021-03-28,18:00,WCQ,First round,Sun,Home,W,8,0,md Moldova,,,75.0,,Kasper Schmeichel,4-3-3,Aghayev Aliyev,Match Report,,18.0,11.0,1,1,2.0,1,Denmark
+71,2021-03-31,20:45,WCQ,First round,Wed,Away,W,4,0,at Austria,,,48.0,,Simon Kjær,4-4-1-1,Artur Dias,Match Report,,11.0,6.0,0,0,0.0,1,Denmark
+72,2021-09-01,20:45,WCQ,First round,Wed,Home,W,2,0,sct Scotland,,,61.0,34562.0,Simon Kjær,4-3-3,Ovidiu Hațegan,Match Report,,11.0,5.0,0,0,2.0,1,Denmark
+73,2021-09-04,19:45,WCQ,First round,Sat,Away,W,1,0,fo Faroe Islands,,,80.0,4620.0,Kasper Schmeichel,3-4-3,Fran Jović,Match Report,,19.0,8.0,0,0,3.0,1,Denmark
+74,2021-09-07,20:45,WCQ,First round,Tue,Home,W,5,0,il Israel,,,62.0,35158.0,Simon Kjær,4-3-3,Tobias Stieler,Match Report,,15.0,10.0,0,0,0.0,1,Denmark
+75,2021-10-09,21:45,WCQ,First round,Sat,Away,W,4,0,md Moldova,,,69.0,2642.0,Simon Kjær,3-4-3,João Pinheiro,Match Report,,21.0,10.0,1,1,0.0,1,Denmark
+76,2021-10-12,20:45,WCQ,First round,Tue,Home,W,1,0,at Austria,,,49.0,35843.0,Simon Kjær,3-4-3,Ivan Kružliak,Match Report,,9.0,4.0,0,0,0.0,1,Denmark
+77,2021-11-12,20:45,WCQ,First round,Fri,Home,W,3,1,fo Faroe Islands,,,68.0,35531.0,Simon Kjær,3-4-3,Radu Petrescu,Match Report,,19.0,4.0,0,0,1.0,0,Denmark
+78,2021-11-15,19:45,WCQ,First round,Mon,Away,L,0,2,sct Scotland,,,59.0,,Simon Kjær,4-3-3,Alejandro Hernández,Match Report,,10.0,2.0,0,0,2.0,0,Denmark
+79,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Neutral,L,2,4,nl Netherlands,,,,,Kasper Schmeichel,3-4-3,Lawrence Visser,Match Report,,,,0,0,,0,Denmark
+80,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,rs Serbia,,,,,Christian Eriksen,4-3-3,Felix Zwayer,Match Report,,,,0,0,,1,Denmark
+81,2022-11-22,16:00,World Cup,Group stage,Tue,Neutral,D,0,0,tn Tunisia,1.4,0.9,61.0,42925.0,Simon Kjær,3-5-2,César Arturo Ramos,Match Report,,11.0,5.0,0,0,1.0,1,Denmark
+82,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,L,1,2,fr France,0.6,2.4,51.0,42860.0,Kasper Schmeichel,3-4-3,Szymon Marciniak,Match Report,,10.0,2.0,0,0,4.0,0,Denmark
+83,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,L,0,1,au Australia,0.6,0.6,68.0,41232.0,Christian Eriksen,4-3-3,Mustapha Ghorbal,Match Report,,13.0,3.0,0,0,3.0,0,Denmark
+84,2021-03-25,20:45,WCQ,First round,Thu,Home,D,1,1,gr Greece,,,80.0,,Sergio Ramos,4-3-3,Marco Guida,Match Report,,9.0,2.0,0,0,0.0,0,Spain
+85,2021-03-28,20:00,WCQ,First round,Sun,Away,W,2,1,ge Georgia,,,79.0,,Sergio Busquets,4-3-3,Radu Petrescu,Match Report,,9.0,3.0,0,0,1.0,0,Spain
+86,2021-03-31,20:45,WCQ,First round,Wed,Home,W,3,1,xk Kosovo,,,81.0,,Sergio Busquets,4-3-3,Jakob Kehlet,Match Report,,24.0,11.0,0,0,0.0,0,Spain
+87,2021-09-02,20:45,WCQ,First round,Thu,Away,L,1,2,se Sweden,,,75.0,16901.0,Sergio Busquets,4-3-3,Anthony Taylor,Match Report,,12.0,4.0,0,0,2.0,0,Spain
+88,2021-09-05,20:45,WCQ,First round,Sun,Home,W,4,0,ge Georgia,,,75.0,8444.0,César Azpilicueta,4-3-3,Tiago Martins,Match Report,,14.0,8.0,0,0,2.0,2,Spain
+89,2021-09-08,20:45,WCQ,First round,Wed,Away,W,2,0,xk Kosovo,,,73.0,1200.0,Sergio Busquets,4-3-3,Bobby Madden,Match Report,,19.0,4.0,0,0,3.0,1,Spain
+90,2021-11-11,21:45,WCQ,First round,Thu,Away,W,1,0,gr Greece,,,73.0,7825.0,Koke,4-3-3,Szymon Marciniak,Match Report,,12.0,3.0,1,1,1.0,1,Spain
+91,2021-11-14,20:45,WCQ,First round,Sun,Home,W,1,0,se Sweden,,,72.0,51844.0,Sergio Busquets,4-3-3,Felix Brych,Match Report,,12.0,4.0,0,0,0.0,1,Spain
+92,2022-03-26,19:45,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,1,al Albania,,,,,Álvaro Morata,4-3-3,Trustin Farrugia Cann,Match Report,,,,0,0,,0,Spain
+93,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Neutral,W,5,0,is Iceland,,,,34600.0,Jordi Alba,4-3-3,Horațiu Fesnic,Match Report,,,,1,1,,1,Spain
+94,2022-11-23,19:00,World Cup,Group stage,Wed,Neutral,W,7,0,cr Costa Rica,3.5,0.0,81.0,40013.0,Sergio Busquets,4-3-3,Mohammed Abdulla Hassan,Match Report,,16.0,7.0,1,1,0.0,1,Spain
+95,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,D,1,1,de Germany,0.6,1.3,64.0,68895.0,Sergio Busquets,4-3-3,Danny Makkelie,Match Report,,7.0,3.0,0,0,3.0,0,Spain
+96,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,L,1,2,jp Japan,1.0,1.4,82.0,44851.0,Sergio Busquets,4-3-3,Victor Gomes,Match Report,,12.0,5.0,0,0,1.0,0,Spain
+97,2022-12-06,18:00,World Cup,Round of 16,Tue,Neutral,D,0 (0),0 (3),ma Morocco,1.0,0.7,76.0,44667.0,Sergio Busquets,4-3-3,Fernando Rapallini,Match Report,Morocco won on penalty kicks following extra time,13.0,1.0,0,0,2.0,1,Spain
+98,2021-03-25,20:45,WCQ,First round,Thu,Home,W,3,0,is Iceland,,,82.0,,Manuel Neuer,4-3-3,Srđan Jovanović,Match Report,,15.0,5.0,0,0,2.0,1,Germany
+99,2021-03-28,21:45,WCQ,First round,Sun,Away,W,1,0,ro Romania,,,66.0,,Manuel Neuer,4-3-3,Clément Turpin,Match Report,,18.0,9.0,0,0,2.0,1,Germany
+100,2021-03-31,20:45,WCQ,First round,Wed,Home,L,1,2,mk N. Macedonia,,,70.0,,İlkay Gündoğan,4-3-3,Sergey Karasev,Match Report,,11.0,2.0,1,1,1.0,0,Germany
+101,2021-09-02,20:45,WCQ,First round,Thu,Away,W,2,0,li Liechtenstein,,,85.0,7958.0,Joshua Kimmich,4-2-3-1,Fábio Veríssimo,Match Report,,30.0,7.0,0,0,0.0,1,Germany
+102,2021-09-05,20:45,WCQ,First round,Sun,Home,W,6,0,am Armenia,,,76.0,18086.0,Manuel Neuer,4-2-3-1,William Collum,Match Report,,23.0,12.0,0,0,1.0,1,Germany
+103,2021-09-08,18:45,WCQ,First round,Wed,Away,W,4,0,is Iceland,,,71.0,3505.0,Manuel Neuer,4-2-3-1,Andreas Ekberg,Match Report,,19.0,8.0,0,0,2.0,1,Germany
+104,2021-10-08,20:45,WCQ,First round,Fri,Home,W,2,1,ro Romania,,,77.0,25000.0,Joshua Kimmich,4-2-3-1,Cüneyt Çakιr,Match Report,,22.0,6.0,0,0,0.0,0,Germany
+105,2021-10-11,20:45,WCQ,First round,Mon,Away,W,4,0,mk N. Macedonia,,,74.0,16182.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,24.0,10.0,0,0,1.0,1,Germany
+106,2021-11-11,20:45,WCQ,First round,Thu,Home,W,9,0,li Liechtenstein,,,82.0,25984.0,Manuel Neuer,4-2-3-1,Ivana Martinčić,Match Report,,42.0,23.0,1,1,0.0,1,Germany
+107,2021-11-14,21:00,WCQ,First round,Sun,Away,W,4,1,am Armenia,,,75.0,7200.0,Thomas Müller,3-5-2,François Letexier,Match Report,,20.0,9.0,1,1,0.0,0,Germany
+108,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,0,il Israel,,,,,İlkay Gündoğan,4-4-2,Maurizio Mariani,Match Report,,,,0,1,,2,Germany
+109,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,nl Netherlands,,,,50387.0,Manuel Neuer,4-2-3-1,Craig Pawson,Match Report,,,,0,0,,0,Germany
+110,2022-11-16,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1,0,om Oman,,,,,Manuel Neuer,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,,,0,0,,1,Germany
+111,2022-11-23,16:00,World Cup,Group stage,Wed,Neutral,L,1,2,jp Japan,3.1,1.5,74.0,42608.0,Manuel Neuer,4-2-3-1,Iván Barton,Match Report,,25.0,8.0,1,1,2.0,0,Germany
+112,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,D,1,1,es Spain,1.3,0.6,36.0,68895.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,11.0,4.0,0,0,2.0,0,Germany
+113,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,W,4,2,cr Costa Rica,5.7,1.3,68.0,67054.0,Manuel Neuer,4-2-3-1,Stéphanie Frappart,Match Report,,32.0,11.0,0,0,4.0,0,Germany
+114,2021-03-24,20:45,WCQ,First round,Wed,Away,L,0,1,si Slovenia,,,69.0,,Luka Modrić,4-2-3-1,Antonio Matéu Lahoz,Match Report,,11.0,3.0,0,0,3.0,0,Croatia
+115,2021-03-27,18:00,WCQ,First round,Sat,Home,W,1,0,cy Cyprus,,,69.0,,Luka Modrić,4-1-4-1,Kristo Tohver,Match Report,,17.0,3.0,0,0,2.0,1,Croatia
+116,2021-03-30,20:45,WCQ,First round,Tue,Home,W,3,0,mt Malta,,,67.0,,Domagoj Vida,4-2-3-1,Lionel Tschudi,Match Report,,15.0,6.0,1,1,1.0,1,Croatia
+117,2021-09-01,21:45,WCQ,First round,Wed,Away,D,0,0,ru Russia,,,60.0,18708.0,Ivan Perišić,4-2-3-1,Roi Reinshreiber,Match Report,,15.0,2.0,0,0,3.0,1,Croatia
+118,2021-09-04,20:45,WCQ,First round,Sat,Away,W,1,0,sk Slovakia,,,55.0,9047.0,Domagoj Vida,4-1-4-1,Bartosz Frankowski,Match Report,,13.0,3.0,0,0,4.0,1,Croatia
+119,2021-09-07,20:45,WCQ,First round,Tue,Home,W,3,0,si Slovenia,,,64.0,16237.0,Ivan Perišić,4-2-3-1,Clément Turpin,Match Report,,22.0,10.0,0,0,2.0,1,Croatia
+120,2021-10-08,21:45,WCQ,First round,Fri,Away,W,3,0,cy Cyprus,,,75.0,2333.0,Luka Modrić,4-1-4-1,Michael Oliver,Match Report,,27.0,11.0,0,1,1.0,1,Croatia
+121,2021-10-11,20:45,WCQ,First round,Mon,Home,D,2,2,sk Slovakia,,,69.0,9926.0,Luka Modrić,4-1-4-1,Ovidiu Hațegan,Match Report,,21.0,10.0,0,0,0.0,0,Croatia
+122,2021-11-11,20:45,WCQ,First round,Thu,Away,W,7,1,mt Malta,,,67.0,4581.0,Luka Modrić,4-3-3,Deniz Aytekin,Match Report,,20.0,12.0,0,0,0.0,0,Croatia
+123,2021-11-14,15:00,WCQ,First round,Sun,Home,W,1,0,ru Russia,,,68.0,30257.0,Luka Modrić,4-3-3,Danny Makkelie,Match Report,,19.0,5.0,0,0,0.0,1,Croatia
+124,2022-03-26,17:00,Friendlies (M),Friendlies (M),Sat,Neutral,D,1,1,si Slovenia,,,,,Luka Modrić,3-5-2,Abdullah Jamali,Match Report,,,,0,0,,0,Croatia
+125,2022-03-29,17:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,2,1,bg Bulgaria,,,,,Domagoj Vida,3-1-4-2,Khamis Mohammed Al Marri,Match Report,,,,1,1,,0,Croatia
+126,2022-11-16,15:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1,0,sa Saudi Arabia,,,,8287.0,Dejan Lovren,4-1-4-1,Adham Makhadmeh,Match Report,,,,0,0,,1,Croatia
+127,2022-11-23,13:00,World Cup,Group stage,Wed,Neutral,D,0,0,ma Morocco,0.5,0.4,64.0,59407.0,Luka Modrić,4-3-3,Fernando Rapallini,Match Report,,5.0,1.0,0,0,2.0,1,Croatia
+128,2022-11-27,19:00,World Cup,Group stage,Sun,Neutral,W,4,1,ca Canada,2.6,0.4,49.0,44374.0,Luka Modrić,4-3-3,Andrés Matonte,Match Report,,13.0,10.0,0,0,1.0,0,Croatia
+129,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,D,0,0,be Belgium,0.7,3.0,49.0,43984.0,Luka Modrić,4-3-3,Anthony Taylor,Match Report,,11.0,4.0,0,0,3.0,1,Croatia
+130,2022-12-05,18:00,World Cup,Round of 16,Mon,Neutral,D,1 (3),1 (1),jp Japan,1.4,1.2,58.0,42523.0,Luka Modrić,4-3-3,Ismail Elfath,Match Report,Croatia won on penalty kicks following extra time,17.0,4.0,0,0,3.0,0,Croatia
+131,2022-12-09,18:00,World Cup,Quarter-finals,Fri,Neutral,D,1 (4),1 (2),br Brazil,0.6,2.5,50.0,43893.0,Luka Modrić,4-3-3,Michael Oliver,Match Report,Croatia won on penalty kicks following extra time,9.0,1.0,0,0,10.0,0,Croatia
+132,2022-12-13,22:00,World Cup,Semi-finals,Tue,Neutral,L,0,3,ar Argentina,0.5,2.3,60.0,88966.0,Luka Modrić,4-3-3,Daniele Orsato,Match Report,,12.0,2.0,0,0,4.0,0,Croatia
+133,2022-12-17,18:00,World Cup,Third-place match,Sat,Neutral,W,2,1,ma Morocco,0.7,1.2,50.0,44137.0,Luka Modrić,4-2-3-1,Abdulrahman Ibrahim Al Jassim,Match Report,,12.0,4.0,0,0,1.0,0,Croatia
+134,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,1,wls Wales,,,75.0,,Jan Vertonghen,3-4-3,Cüneyt Çakιr,Match Report,,12.0,4.0,1,1,0.0,0,Belgium
+135,2021-03-27,20:45,WCQ,First round,Sat,Away,D,1,1,cz Czechia,,,62.0,,Jan Vertonghen,3-4-3,William Collum,Match Report,,9.0,4.0,0,0,4.0,0,Belgium
+136,2021-03-30,20:45,WCQ,First round,Tue,Home,W,8,0,by Belarus,,,68.0,,Jan Vertonghen,3-4-3,Donatas Rumšas,Match Report,,21.0,15.0,0,0,0.0,1,Belgium
+137,2021-09-02,21:45,WCQ,First round,Thu,Away,W,5,2,ee Estonia,,,73.0,6685.0,Eden Hazard,3-4-3,Guillermo Cuadra,Match Report,,25.0,9.0,0,0,1.0,0,Belgium
+138,2021-09-05,20:45,WCQ,First round,Sun,Home,W,3,0,cz Czechia,,,54.0,21416.0,Eden Hazard,3-4-3,Michael Oliver,Match Report,,16.0,6.0,0,0,4.0,1,Belgium
+139,2021-09-08,21:45,WCQ,First round,Wed,Away,W,1,0,by Belarus,,,75.0,,Toby Alderweireld,3-4-3,Paweł Raczkowski,Match Report,,12.0,5.0,0,0,2.0,1,Belgium
+140,2021-11-13,20:45,WCQ,First round,Sat,Home,W,3,1,ee Estonia,,,81.0,29895.0,Eden Hazard,3-4-3,Halil Umut Meler,Match Report,,20.0,10.0,0,0,4.0,0,Belgium
+141,2021-11-16,19:45,WCQ,First round,Tue,Away,D,1,1,wls Wales,,,76.0,32343.0,Kevin De Bruyne,3-4-3,Artur Dias,Match Report,,16.0,4.0,0,0,2.0,0,Belgium
+142,2022-03-26,17:00,Friendlies (M),Friendlies (M),Sat,Neutral,D,2,2,ie Rep. of Ireland,,,,,Youri Tielemans,3-4-3,Nick Walsh,Match Report,,,,0,0,,0,Belgium
+143,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,bf Burkina Faso,,,,,Youri Tielemans,3-4-3,Dennis Higler,Match Report,,,,0,0,,1,Belgium
+144,2022-11-18,18:00,Friendlies (M),Friendlies (M),Fri,Neutral,L,1,2,eg Egypt,,,,,Eden Hazard,3-4-3,Ali Mahmoud,Match Report,,,,0,0,,0,Belgium
+145,2022-11-23,22:00,World Cup,Group stage,Wed,Neutral,W,1,0,ca Canada,0.8,2.4,53.0,40432.0,Eden Hazard,3-4-3,Janny Sikazwe,Match Report,,9.0,3.0,0,0,2.0,1,Belgium
+146,2022-11-27,16:00,World Cup,Group stage,Sun,Neutral,L,0,2,ma Morocco,1.0,1.5,67.0,43738.0,Eden Hazard,4-2-3-1,César Arturo Ramos,Match Report,,10.0,3.0,0,0,2.0,0,Belgium
+147,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,D,0,0,hr Croatia,3.0,0.7,51.0,43984.0,Kevin De Bruyne,4-2-3-1,Anthony Taylor,Match Report,,16.0,3.0,0,0,4.0,1,Belgium
+148,2021-03-25,19:00,WCQ,First round,Thu,Away,W,3,1,bg Bulgaria,,,70.0,,Granit Xhaka,3-4-1-2,Nikola Dabanović,Match Report,,13.0,5.0,0,0,1.0,0,Switzerland
+149,2021-03-28,20:45,WCQ,First round,Sun,Home,W,1,0,lt Lithuania,,,69.0,,Granit Xhaka,3-4-1-2,Mattias Gestranius,Match Report,,21.0,9.0,0,0,1.0,1,Switzerland
+150,2021-09-05,20:45,WCQ,First round,Sun,Home,D,0,0,it Italy,,,48.0,31500.0,Yann Sommer,4-3-2-1,Carlos del Cerro,Match Report,,6.0,2.0,0,0,7.0,1,Switzerland
+151,2021-09-08,19:45,WCQ,First round,Wed,Away,D,0,0,nir Northern Ireland,,,75.0,15660.0,Yann Sommer,4-3-2-1,Harald Lechner,Match Report,,8.0,3.0,0,1,0.0,1,Switzerland
+152,2021-10-09,20:45,WCQ,First round,Sat,Home,W,2,0,nir Northern Ireland,,,72.0,19129.0,Xherdan Shaqiri,4-3-1-2,Slavko Vinčič,Match Report,,27.0,8.0,0,0,1.0,1,Switzerland
+153,2021-10-12,21:45,WCQ,First round,Tue,Away,W,4,0,lt Lithuania,,,70.0,1806.0,Xherdan Shaqiri,4-2-3-1,Tiago Martins,Match Report,,22.0,11.0,0,0,0.0,1,Switzerland
+154,2021-11-12,20:45,WCQ,First round,Fri,Away,D,1,1,it Italy,,,36.0,45699.0,Xherdan Shaqiri,4-2-3-1,Anthony Taylor,Match Report,,10.0,2.0,0,0,3.0,0,Switzerland
+155,2021-11-15,20:45,WCQ,First round,Mon,Home,W,4,0,bg Bulgaria,,,69.0,,Xherdan Shaqiri,4-2-3-1,Benoît Bastien,Match Report,,18.0,9.0,0,0,0.0,1,Switzerland
+156,2022-03-26,17:30,Friendlies (M),Friendlies (M),Sat,Neutral,L,1,2,eng England,,,,,Granit Xhaka,4-2-3-1,Andreas Ekberg,Match Report,,,,0,0,,0,Switzerland
+157,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,xk Kosovo,,,,,Granit Xhaka,4-2-3-1,Ruddy Buquet,Match Report,,,,0,0,,0,Switzerland
+158,2022-11-17,14:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,2,gh Ghana,,,,,Granit Xhaka,3-3-2-2,Ahmed Eisa Mohamed,Match Report,,,,0,0,,0,Switzerland
+159,2022-11-24,13:00,World Cup,Group stage,Thu,Neutral,W,1,0,cm Cameroon,1.4,0.7,51.0,39089.0,Granit Xhaka,4-2-3-1,Facundo Tello,Match Report,,7.0,3.0,0,0,5.0,1,Switzerland
+160,2022-11-28,19:00,World Cup,Group stage,Mon,Neutral,L,0,1,br Brazil,0.3,1.0,46.0,43649.0,Granit Xhaka,4-2-3-1,Iván Barton,Match Report,,6.0,0.0,0,0,4.0,0,Switzerland
+161,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,W,3,2,rs Serbia,2.7,1.3,46.0,41378.0,Granit Xhaka,4-2-3-1,Fernando Rapallini,Match Report,,14.0,7.0,0,0,2.0,0,Switzerland
+162,2022-12-06,22:00,World Cup,Round of 16,Tue,Neutral,L,1,6,pt Portugal,1.1,2.3,53.0,83720.0,Granit Xhaka,3-1-4-2,César Arturo Ramos,Match Report,,10.0,2.0,0,0,3.0,0,Switzerland
+163,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,2,ie Rep. of Ireland,,,56.0,,Dušan Tadić,3-4-3,Davide Massa,Match Report,,14.0,4.0,0,0,0.0,0,Serbia
+164,2021-03-27,20:45,WCQ,First round,Sat,Home,D,2,2,pt Portugal,,,44.0,,Dušan Tadić,3-4-1-2,Danny Makkelie,Match Report,,16.0,5.0,0,0,1.0,0,Serbia
+165,2021-03-30,20:00,WCQ,First round,Tue,Away,W,2,1,az Azerbaijan,,,67.0,,Dušan Tadić,3-4-3,Roi Reinshreiber,Match Report,,18.0,7.0,0,0,1.0,0,Serbia
+166,2021-09-04,18:00,WCQ,First round,Sat,Home,W,4,1,lu Luxembourg,,,54.0,10078.0,Dušan Tadić,3-4-3,Halil Umut Meler,Match Report,,17.0,8.0,0,0,0.0,0,Serbia
+167,2021-09-07,19:45,WCQ,First round,Tue,Away,D,1,1,ie Rep. of Ireland,,,58.0,25415.0,Dušan Tadić,3-5-2,José Sánchez,Match Report,,18.0,10.0,0,0,2.0,0,Serbia
+168,2021-10-09,20:45,WCQ,First round,Sat,Away,W,1,0,lu Luxembourg,,,48.0,2000.0,Dušan Tadić,3-4-1-2,William Collum,Match Report,,11.0,4.0,0,0,1.0,1,Serbia
+169,2021-10-12,20:45,WCQ,First round,Tue,Home,W,3,1,az Azerbaijan,,,57.0,5890.0,Matija Nastasić,3-4-1-2,Erik Lambrechts,Match Report,,22.0,11.0,2,2,0.0,0,Serbia
+170,2021-11-14,19:45,WCQ,First round,Sun,Away,W,2,1,pt Portugal,,,57.0,58873.0,Dušan Tadić,3-5-1-1,Daniele Orsato,Match Report,,11.0,3.0,0,0,2.0,0,Serbia
+171,2022-03-24,19:30,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,hu Hungary,,,,,Dušan Tadić,3-2-4-1,Filip Glova,Match Report,,,,0,0,,1,Serbia
+172,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,0,3,dk Denmark,,,,,Dušan Tadić,3-4-3,Felix Zwayer,Match Report,,,,0,0,,0,Serbia
+173,2022-11-18,18:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,5,1,bh Bahrain,,,,,Dušan Tadić,4-1-4-1,Khalid Saleh Al Turais,Match Report,,,,0,0,,0,Serbia
+174,2022-11-24,22:00,World Cup,Group stage,Thu,Neutral,L,0,2,br Brazil,0.2,2.4,41.0,88103.0,Dušan Tadić,3-4-3,Alireza Faghani,Match Report,,5.0,0.0,0,0,7.0,0,Serbia
+175,2022-11-28,13:00,World Cup,Group stage,Mon,Neutral,D,3,3,cm Cameroon,1.9,2.2,59.0,39789.0,Dušan Tadić,3-4-3,Mohammed Abdulla Hassan,Match Report,,15.0,5.0,0,0,5.0,0,Serbia
+176,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,L,2,3,ch Switzerland,1.3,2.7,54.0,41378.0,Dušan Tadić,3-4-1-2,Fernando Rapallini,Match Report,,12.0,4.0,0,0,4.0,0,Serbia
+177,2021-03-24,19:45,WCQ,First round,Wed,Home,W,1,0,az Azerbaijan,,,67.0,,Cristiano Ronaldo,4-3-3,Daniel Siebert,Match Report,,29.0,14.0,0,0,0.0,1,Portugal
+178,2021-03-27,20:45,WCQ,First round,Sat,Away,D,2,2,rs Serbia,,,56.0,,Cristiano Ronaldo,4-3-3,Danny Makkelie,Match Report,,12.0,5.0,0,0,3.0,0,Portugal
+179,2021-03-30,20:45,WCQ,First round,Tue,Away,W,3,1,lu Luxembourg,,,57.0,,Cristiano Ronaldo,4-3-3,Sergey Ivanov,Match Report,,20.0,11.0,0,0,0.0,0,Portugal
+180,2021-09-01,19:45,WCQ,First round,Wed,Home,W,2,1,ie Rep. of Ireland,,,72.0,7831.0,Cristiano Ronaldo,4-3-3,Matej Jug,Match Report,,29.0,7.0,0,1,1.0,0,Portugal
+181,2021-09-07,20:00,WCQ,First round,Tue,Away,W,3,0,az Azerbaijan,,,67.0,20574.0,João Moutinho,4-3-3,Marco Guida,Match Report,,21.0,7.0,0,0,0.0,1,Portugal
+182,2021-10-12,19:45,WCQ,First round,Tue,Home,W,5,0,lu Luxembourg,,,55.0,18553.0,Cristiano Ronaldo,4-3-3,Benoît Bastien,Match Report,,21.0,11.0,2,2,2.0,1,Portugal
+183,2021-11-11,19:45,WCQ,First round,Thu,Away,D,0,0,ie Rep. of Ireland,,,51.0,50737.0,Cristiano Ronaldo,4-3-3,Jesús Gil,Match Report,,12.0,3.0,0,0,2.0,1,Portugal
+184,2021-11-14,19:45,WCQ,First round,Sun,Home,L,1,2,rs Serbia,,,43.0,58873.0,Cristiano Ronaldo,4-3-3,Daniele Orsato,Match Report,,9.0,3.0,0,0,1.0,0,Portugal
+185,2022-03-24,19:45,WCQ,Semi-finals,Thu,Home,W,3,1,tr Türkiye,,,60.0,48010.0,Cristiano Ronaldo,4-3-3,Daniel Siebert,Match Report,,16.0,8.0,0,0,4.0,0,Portugal
+186,2022-03-29,19:45,WCQ,Finals,Tue,Home,W,2,0,mk N. Macedonia,,,64.0,48010.0,Cristiano Ronaldo,4-3-3,Anthony Taylor,Match Report,,11.0,3.0,0,0,0.0,1,Portugal
+187,2022-11-17,18:45,Friendlies (M),Friendlies (M),Thu,Neutral,W,4,0,ng Nigeria,,,,,Rui Patrício,4-2-3-1,Chrysovalantis Theouli,Match Report,,,,1,1,,1,Portugal
+188,2022-11-24,19:00,World Cup,Group stage,Thu,Neutral,W,3,2,gh Ghana,2.0,0.9,62.0,42662.0,Cristiano Ronaldo,4-3-3,Ismail Elfath,Match Report,,10.0,4.0,1,1,1.0,0,Portugal
+189,2022-11-28,22:00,World Cup,Group stage,Mon,Neutral,W,2,0,uy Uruguay,1.3,1.3,59.0,88668.0,Cristiano Ronaldo,4-1-2-1-2◆,Alireza Faghani,Match Report,,14.0,2.0,1,1,3.0,1,Portugal
+190,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,L,1,2,kr Korea Republic,1.3,1.7,61.0,44097.0,Cristiano Ronaldo,4-3-3,Facundo Tello,Match Report,,13.0,6.0,0,0,4.0,0,Portugal
+191,2022-12-06,22:00,World Cup,Round of 16,Tue,Neutral,W,6,1,ch Switzerland,2.3,1.1,47.0,83720.0,Pepe,4-3-3,César Arturo Ramos,Match Report,,15.0,9.0,0,0,1.0,0,Portugal
+192,2022-12-10,18:00,World Cup,Quarter-finals,Sat,Neutral,L,0,1,ma Morocco,0.9,1.4,73.0,44198.0,Pepe,4-3-3,Facundo Tello,Match Report,,12.0,3.0,0,0,2.0,0,Portugal
+193,2021-03-24,20:45,WCQ,First round,Wed,Home,D,1,1,ua Ukraine,,,63.0,,Hugo Lloris,4-2-2-2,Tobias Stieler,Match Report,,18.0,3.0,0,0,0.0,0,France
+194,2021-03-28,19:00,WCQ,First round,Sun,Away,W,2,0,kz Kazakhstan,,,63.0,,Hugo Lloris,4-2-3-1,Aliaksei Kulbakou,Match Report,,15.0,9.0,0,1,0.0,1,France
+195,2021-03-31,20:45,WCQ,First round,Wed,Away,W,1,0,ba Bosnia & Herz'na,,,56.0,,Hugo Lloris,4-4-2,Daniele Orsato,Match Report,,13.0,2.0,0,0,2.0,1,France
+196,2021-09-01,20:45,WCQ,First round,Wed,Home,D,1,1,ba Bosnia & Herz'na,,,54.0,21754.0,Hugo Lloris,4-3-3,Sandro Schärer,Match Report,,9.0,2.0,0,0,1.0,0,France
+197,2021-09-04,21:45,WCQ,First round,Sat,Away,D,1,1,ua Ukraine,,,62.0,48000.0,Hugo Lloris,4-4-2,Slavko Vinčič,Match Report,,16.0,5.0,0,0,2.0,0,France
+198,2021-09-07,20:45,WCQ,First round,Tue,Home,W,2,0,fi Finland,,,64.0,57057.0,Hugo Lloris,5-2-1-2,Deniz Aytekin,Match Report,,20.0,6.0,0,0,1.0,1,France
+199,2021-11-13,20:45,WCQ,First round,Sat,Home,W,8,0,kz Kazakhstan,,,66.0,45551.0,Hugo Lloris,3-4-1-2,Glenn Nyberg,Match Report,,20.0,14.0,1,1,3.0,1,France
+200,2021-11-16,21:45,WCQ,First round,Tue,Away,W,2,0,fi Finland,,,53.0,31890.0,Hugo Lloris,3-4-3,Marco Guida,Match Report,,8.0,5.0,0,0,1.0,1,France
+201,2022-03-25,21:15,Friendlies (M),Friendlies (M),Fri,Neutral,W,2,1,ci Côte d'Ivoire,,,,62510.0,Hugo Lloris,3-4-1-2,Vitor Ferreira Fernandes,Match Report,,,,0,0,,0,France
+202,2022-03-29,21:15,Friendlies (M),Friendlies (M),Tue,Neutral,W,5,0,za South Africa,,,,48120.0,Raphaël Varane,3-4-1-2,Sandro Schärer,Match Report,,,,1,1,,1,France
+203,2022-11-22,22:00,World Cup,Group stage,Tue,Neutral,W,4,1,au Australia,4.0,0.5,62.0,40875.0,Hugo Lloris,4-2-3-1,Victor Gomes,Match Report,,23.0,6.0,0,0,0.0,0,France
+204,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,W,2,1,dk Denmark,2.4,0.6,49.0,42860.0,Hugo Lloris,4-2-3-1,Szymon Marciniak,Match Report,,21.0,6.0,0,0,1.0,0,France
+205,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,L,0,1,tn Tunisia,0.8,0.5,65.0,43627.0,Raphaël Varane,4-3-3,Matt Conger,Match Report,,10.0,3.0,0,0,2.0,0,France
+206,2022-12-04,18:00,World Cup,Round of 16,Sun,Neutral,W,3,1,pl Poland,1.4,1.7,55.0,40989.0,Hugo Lloris,4-2-3-1,Jesús Valenzuela,Match Report,,16.0,8.0,0,0,1.0,0,France
+207,2022-12-10,22:00,World Cup,Quarter-finals,Sat,Neutral,W,2,1,eng England,0.9,2.4,43.0,68895.0,Hugo Lloris,4-2-3-1,Wilton Sampaio,Match Report,,8.0,5.0,0,0,6.0,0,France
+208,2022-12-14,22:00,World Cup,Semi-finals,Wed,Neutral,W,2,0,ma Morocco,2.0,0.9,39.0,68294.0,Hugo Lloris,4-2-3-1,César Arturo Ramos,Match Report,,14.0,2.0,0,0,2.0,1,France
+209,2022-12-18,18:00,World Cup,Final,Sun,Neutral,D,3 (2),3 (4),ar Argentina,2.2,3.2,46.0,88966.0,Hugo Lloris,4-2-3-1,Szymon Marciniak,Match Report,Argentina won on penalty kicks following extra time,8.0,3.0,2,2,7.0,0,France
+210,2021-03-24,20:45,WCQ,First round,Wed,Away,L,0,1,si Slovenia,,,69.0,,Luka Modrić,4-2-3-1,Antonio Matéu Lahoz,Match Report,,11.0,3.0,0,0,3.0,0,Croatia
+211,2021-03-27,18:00,WCQ,First round,Sat,Home,W,1,0,cy Cyprus,,,69.0,,Luka Modrić,4-1-4-1,Kristo Tohver,Match Report,,17.0,3.0,0,0,2.0,1,Croatia
+212,2021-03-30,20:45,WCQ,First round,Tue,Home,W,3,0,mt Malta,,,67.0,,Domagoj Vida,4-2-3-1,Lionel Tschudi,Match Report,,15.0,6.0,1,1,1.0,1,Croatia
+213,2021-09-01,21:45,WCQ,First round,Wed,Away,D,0,0,ru Russia,,,60.0,18708.0,Ivan Perišić,4-2-3-1,Roi Reinshreiber,Match Report,,15.0,2.0,0,0,3.0,1,Croatia
+214,2021-09-04,20:45,WCQ,First round,Sat,Away,W,1,0,sk Slovakia,,,55.0,9047.0,Domagoj Vida,4-1-4-1,Bartosz Frankowski,Match Report,,13.0,3.0,0,0,4.0,1,Croatia
+215,2021-09-07,20:45,WCQ,First round,Tue,Home,W,3,0,si Slovenia,,,64.0,16237.0,Ivan Perišić,4-2-3-1,Clément Turpin,Match Report,,22.0,10.0,0,0,2.0,1,Croatia
+216,2021-10-08,21:45,WCQ,First round,Fri,Away,W,3,0,cy Cyprus,,,75.0,2333.0,Luka Modrić,4-1-4-1,Michael Oliver,Match Report,,27.0,11.0,0,1,1.0,1,Croatia
+217,2021-10-11,20:45,WCQ,First round,Mon,Home,D,2,2,sk Slovakia,,,69.0,9926.0,Luka Modrić,4-1-4-1,Ovidiu Hațegan,Match Report,,21.0,10.0,0,0,0.0,0,Croatia
+218,2021-11-11,20:45,WCQ,First round,Thu,Away,W,7,1,mt Malta,,,67.0,4581.0,Luka Modrić,4-3-3,Deniz Aytekin,Match Report,,20.0,12.0,0,0,0.0,0,Croatia
+219,2021-11-14,15:00,WCQ,First round,Sun,Home,W,1,0,ru Russia,,,68.0,30257.0,Luka Modrić,4-3-3,Danny Makkelie,Match Report,,19.0,5.0,0,0,0.0,1,Croatia
+220,2022-03-26,17:00,Friendlies (M),Friendlies (M),Sat,Neutral,D,1,1,si Slovenia,,,,,Luka Modrić,3-5-2,Abdullah Jamali,Match Report,,,,0,0,,0,Croatia
+221,2022-03-29,17:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,2,1,bg Bulgaria,,,,,Domagoj Vida,3-1-4-2,Khamis Mohammed Al Marri,Match Report,,,,1,1,,0,Croatia
+222,2022-11-16,15:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1,0,sa Saudi Arabia,,,,8287.0,Dejan Lovren,4-1-4-1,Adham Makhadmeh,Match Report,,,,0,0,,1,Croatia
+223,2022-11-23,13:00,World Cup,Group stage,Wed,Neutral,D,0,0,ma Morocco,0.5,0.4,64.0,59407.0,Luka Modrić,4-3-3,Fernando Rapallini,Match Report,,5.0,1.0,0,0,2.0,1,Croatia
+224,2022-11-27,19:00,World Cup,Group stage,Sun,Neutral,W,4,1,ca Canada,2.6,0.4,49.0,44374.0,Luka Modrić,4-3-3,Andrés Matonte,Match Report,,13.0,10.0,0,0,1.0,0,Croatia
+225,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,D,0,0,be Belgium,0.7,3.0,49.0,43984.0,Luka Modrić,4-3-3,Anthony Taylor,Match Report,,11.0,4.0,0,0,3.0,1,Croatia
+226,2022-12-05,18:00,World Cup,Round of 16,Mon,Neutral,D,1 (3),1 (1),jp Japan,1.4,1.2,58.0,42523.0,Luka Modrić,4-3-3,Ismail Elfath,Match Report,Croatia won on penalty kicks following extra time,17.0,4.0,0,0,3.0,0,Croatia
+227,2022-12-09,18:00,World Cup,Quarter-finals,Fri,Neutral,D,1 (4),1 (2),br Brazil,0.6,2.5,50.0,43893.0,Luka Modrić,4-3-3,Michael Oliver,Match Report,Croatia won on penalty kicks following extra time,9.0,1.0,0,0,10.0,0,Croatia
+228,2022-12-13,22:00,World Cup,Semi-finals,Tue,Neutral,L,0,3,ar Argentina,0.5,2.3,60.0,88966.0,Luka Modrić,4-3-3,Daniele Orsato,Match Report,,12.0,2.0,0,0,4.0,0,Croatia
+229,2022-12-17,18:00,World Cup,Third-place match,Sat,Neutral,W,2,1,ma Morocco,0.7,1.2,50.0,44137.0,Luka Modrić,4-2-3-1,Abdulrahman Ibrahim Al Jassim,Match Report,,12.0,4.0,0,0,1.0,0,Croatia
+230,2021-03-24,20:00,WCQ,First round,Wed,Away,L,2,4,tr Türkiye,,,66.0,,Georginio Wijnaldum,4-3-3,Michael Oliver,Match Report,,20.0,9.0,0,1,1.0,0,Netherlands
+231,2021-03-27,18:00,WCQ,First round,Sat,Home,W,2,0,lv Latvia,,,77.0,5000.0,Georginio Wijnaldum,4-3-3,Stéphanie Frappart,Match Report,,36.0,11.0,0,0,0.0,1,Netherlands
+232,2021-03-30,20:45,WCQ,First round,Tue,Away,W,7,0,gi Gibraltar,,,80.0,335.0,Georginio Wijnaldum,4-3-3,João Pinheiro,Match Report,,35.0,16.0,0,0,0.0,1,Netherlands
+233,2021-09-01,20:45,WCQ,First round,Wed,Away,D,1,1,no Norway,,,65.0,6711.0,Virgil van Dijk,4-3-3,Szymon Marciniak,Match Report,,17.0,6.0,0,0,1.0,0,Netherlands
+234,2021-09-04,20:45,WCQ,First round,Sat,Home,W,4,0,me Montenegro,,,72.0,20458.0,Georginio Wijnaldum,4-3-3,Jesús Gil,Match Report,,28.0,12.0,1,1,1.0,1,Netherlands
+235,2021-09-07,20:45,WCQ,First round,Tue,Home,W,6,1,tr Türkiye,,,67.0,31389.0,Virgil van Dijk,4-3-3,Daniele Orsato,Match Report,,29.0,12.0,1,1,1.0,0,Netherlands
+236,2021-10-08,21:45,WCQ,First round,Fri,Away,W,1,0,lv Latvia,,,78.0,4711.0,Virgil van Dijk,4-3-3,Andy Madley,Match Report,,19.0,4.0,0,0,1.0,1,Netherlands
+237,2021-10-11,20:45,WCQ,First round,Mon,Home,W,6,0,gi Gibraltar,,,82.0,31583.0,Virgil van Dijk,4-3-3,Vitaly Meshkov,Match Report,,31.0,12.0,1,2,0.0,1,Netherlands
+238,2021-11-13,20:45,WCQ,First round,Sat,Away,D,2,2,me Montenegro,,,74.0,1844.0,Virgil van Dijk,4-3-3,Carlos del Cerro,Match Report,,9.0,3.0,1,1,1.0,0,Netherlands
+239,2021-11-16,20:45,WCQ,First round,Tue,Home,W,2,0,no Norway,,,65.0,,Virgil van Dijk,4-3-3,Clément Turpin,Match Report,,10.0,5.0,0,0,0.0,1,Netherlands
+240,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Neutral,W,4,2,dk Denmark,,,,,Virgil van Dijk,3-4-1-2,Lawrence Visser,Match Report,,,,1,1,,0,Netherlands
+241,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,de Germany,,,,50387.0,Virgil van Dijk,3-4-1-2,Craig Pawson,Match Report,,,,0,0,,0,Netherlands
+242,2022-11-21,19:00,World Cup,Group stage,Mon,Neutral,W,2,0,sn Senegal,0.7,0.9,54.0,41721.0,Virgil van Dijk,3-4-1-2,Wilton Sampaio,Match Report,,10.0,3.0,0,0,4.0,1,Netherlands
+243,2022-11-25,19:00,World Cup,Group stage,Fri,Neutral,D,1,1,ec Ecuador,0.1,1.7,54.0,44833.0,Virgil van Dijk,3-4-1-2,Mustapha Ghorbal,Match Report,,2.0,1.0,0,0,3.0,0,Netherlands
+244,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,W,2,0,qa Qatar,1.6,0.1,63.0,66784.0,Virgil van Dijk,3-4-1-2,Bakary Papa Gassama,Match Report,,13.0,4.0,0,0,3.0,1,Netherlands
+245,2022-12-03,18:00,World Cup,Round of 16,Sat,Neutral,W,3,1,us United States,1.7,1.5,42.0,44846.0,Virgil van Dijk,3-4-1-2,Wilton Sampaio,Match Report,,11.0,6.0,0,0,5.0,0,Netherlands
+246,2022-12-09,22:00,World Cup,Quarter-finals,Fri,Neutral,D,2 (3),2 (4),ar Argentina,0.6,1.9,52.0,88235.0,Virgil van Dijk,3-4-1-2,Antonio Matéu,Match Report,Argentina won on penalty kicks following extra time,6.0,2.0,0,0,3.0,0,Netherlands
+247,2021-03-25,19:45,WCQ,First round,Thu,Home,W,5,0,sm San Marino,,,85.0,,Raheem Sterling,4-2-3-1,Kirill Levnikov,Match Report,,32.0,15.0,0,0,0.0,1,England
+248,2021-03-28,18:00,WCQ,First round,Sun,Away,W,2,0,al Albania,,,71.0,200.0,Harry Kane,4-3-3,Orel Grinfeeld,Match Report,,9.0,4.0,0,0,0.0,1,England
+249,2021-03-31,19:45,WCQ,First round,Wed,Home,W,2,1,pl Poland,,,63.0,,Harry Kane,4-3-3,Björn Kuipers,Match Report,,10.0,4.0,1,1,0.0,0,England
+250,2021-09-02,20:45,WCQ,First round,Thu,Away,W,4,0,hu Hungary,,,64.0,58260.0,Harry Kane,4-2-3-1,Cüneyt Çakιr,Match Report,,12.0,8.0,0,0,1.0,1,England
+251,2021-09-05,17:00,WCQ,First round,Sun,Home,W,4,0,ad Andorra,,,88.0,67171.0,Jordan Henderson,4-3-3,Anastasios Papapetrou,Match Report,,20.0,6.0,1,1,1.0,1,England
+252,2021-09-08,20:45,WCQ,First round,Wed,Away,D,1,1,pl Poland,,,63.0,56212.0,Harry Kane,4-2-3-1,Daniel Siebert,Match Report,,13.0,2.0,0,0,3.0,0,England
+253,2021-10-09,20:45,WCQ,First round,Sat,Away,W,5,0,ad Andorra,,,86.0,2285.0,Kieran Trippier,4-3-3,Kateryna Monzul,Match Report,,17.0,8.0,0,1,0.0,1,England
+254,2021-10-12,19:45,WCQ,First round,Tue,Home,D,1,1,hu Hungary,,,64.0,69380.0,Harry Kane,4-3-3,Alejandro Hernández,Match Report,,11.0,5.0,0,0,0.0,0,England
+255,2021-11-12,19:45,WCQ,First round,Fri,Home,W,5,0,al Albania,,,64.0,80366.0,Harry Kane,3-4-3,Ruddy Buquet,Match Report,,15.0,6.0,0,0,4.0,1,England
+256,2021-11-15,20:45,WCQ,First round,Mon,Away,W,10,0,sm San Marino,,,85.0,,Harry Kane,4-3-3,Rade Obrenović,Match Report,,22.0,13.0,2,2,1.0,1,England
+257,2022-03-26,17:30,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,1,ch Switzerland,,,,,Harry Kane,3-4-3,Andreas Ekberg,Match Report,,,,1,1,,0,England
+258,2022-03-29,19:45,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,ci Côte d'Ivoire,,,,,Raheem Sterling,4-2-3-1,Erik Lambrechts,Match Report,,,,0,0,,1,England
+259,2022-11-21,16:00,World Cup,Group stage,Mon,Neutral,W,6,2,ir IR Iran,2.1,1.4,77.0,45334.0,Harry Kane,4-2-3-1,Raphael Claus,Match Report,,13.0,7.0,0,0,1.0,0,England
+260,2022-11-25,22:00,World Cup,Group stage,Fri,Neutral,D,0,0,us United States,0.8,0.6,55.0,68463.0,Harry Kane,4-2-3-1,Jesús Valenzuela,Match Report,,8.0,3.0,0,0,1.0,1,England
+261,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,W,3,0,wls Wales,2.4,0.3,64.0,44297.0,Harry Kane,4-3-3,Slavko Vinčič,Match Report,,18.0,7.0,0,0,1.0,1,England
+262,2022-12-04,22:00,World Cup,Round of 16,Sun,Neutral,W,3,0,sn Senegal,0.9,0.7,61.0,65985.0,Harry Kane,4-3-3,Iván Barton,Match Report,,8.0,4.0,0,0,1.0,1,England
+263,2022-12-10,22:00,World Cup,Quarter-finals,Sat,Neutral,L,1,2,fr France,2.4,0.9,57.0,68895.0,Harry Kane,4-3-3,Wilton Sampaio,Match Report,,14.0,6.0,1,2,3.0,0,England
+264,2021-03-24,19:45,WCQ,First round,Wed,Home,W,1,0,az Azerbaijan,,,67.0,,Cristiano Ronaldo,4-3-3,Daniel Siebert,Match Report,,29.0,14.0,0,0,0.0,1,Portugal
+265,2021-03-27,20:45,WCQ,First round,Sat,Away,D,2,2,rs Serbia,,,56.0,,Cristiano Ronaldo,4-3-3,Danny Makkelie,Match Report,,12.0,5.0,0,0,3.0,0,Portugal
+266,2021-03-30,20:45,WCQ,First round,Tue,Away,W,3,1,lu Luxembourg,,,57.0,,Cristiano Ronaldo,4-3-3,Sergey Ivanov,Match Report,,20.0,11.0,0,0,0.0,0,Portugal
+267,2021-09-01,19:45,WCQ,First round,Wed,Home,W,2,1,ie Rep. of Ireland,,,72.0,7831.0,Cristiano Ronaldo,4-3-3,Matej Jug,Match Report,,29.0,7.0,0,1,1.0,0,Portugal
+268,2021-09-07,20:00,WCQ,First round,Tue,Away,W,3,0,az Azerbaijan,,,67.0,20574.0,João Moutinho,4-3-3,Marco Guida,Match Report,,21.0,7.0,0,0,0.0,1,Portugal
+269,2021-10-12,19:45,WCQ,First round,Tue,Home,W,5,0,lu Luxembourg,,,55.0,18553.0,Cristiano Ronaldo,4-3-3,Benoît Bastien,Match Report,,21.0,11.0,2,2,2.0,1,Portugal
+270,2021-11-11,19:45,WCQ,First round,Thu,Away,D,0,0,ie Rep. of Ireland,,,51.0,50737.0,Cristiano Ronaldo,4-3-3,Jesús Gil,Match Report,,12.0,3.0,0,0,2.0,1,Portugal
+271,2021-11-14,19:45,WCQ,First round,Sun,Home,L,1,2,rs Serbia,,,43.0,58873.0,Cristiano Ronaldo,4-3-3,Daniele Orsato,Match Report,,9.0,3.0,0,0,1.0,0,Portugal
+272,2022-03-24,19:45,WCQ,Semi-finals,Thu,Home,W,3,1,tr Türkiye,,,60.0,48010.0,Cristiano Ronaldo,4-3-3,Daniel Siebert,Match Report,,16.0,8.0,0,0,4.0,0,Portugal
+273,2022-03-29,19:45,WCQ,Finals,Tue,Home,W,2,0,mk N. Macedonia,,,64.0,48010.0,Cristiano Ronaldo,4-3-3,Anthony Taylor,Match Report,,11.0,3.0,0,0,0.0,1,Portugal
+274,2022-11-17,18:45,Friendlies (M),Friendlies (M),Thu,Neutral,W,4,0,ng Nigeria,,,,,Rui Patrício,4-2-3-1,Chrysovalantis Theouli,Match Report,,,,1,1,,1,Portugal
+275,2022-11-24,19:00,World Cup,Group stage,Thu,Neutral,W,3,2,gh Ghana,2.0,0.9,62.0,42662.0,Cristiano Ronaldo,4-3-3,Ismail Elfath,Match Report,,10.0,4.0,1,1,1.0,0,Portugal
+276,2022-11-28,22:00,World Cup,Group stage,Mon,Neutral,W,2,0,uy Uruguay,1.3,1.3,59.0,88668.0,Cristiano Ronaldo,4-1-2-1-2◆,Alireza Faghani,Match Report,,14.0,2.0,1,1,3.0,1,Portugal
+277,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,L,1,2,kr Korea Republic,1.3,1.7,61.0,44097.0,Cristiano Ronaldo,4-3-3,Facundo Tello,Match Report,,13.0,6.0,0,0,4.0,0,Portugal
+278,2022-12-06,22:00,World Cup,Round of 16,Tue,Neutral,W,6,1,ch Switzerland,2.3,1.1,47.0,83720.0,Pepe,4-3-3,César Arturo Ramos,Match Report,,15.0,9.0,0,0,1.0,0,Portugal
+279,2022-12-10,18:00,World Cup,Quarter-finals,Sat,Neutral,L,0,1,ma Morocco,0.9,1.4,73.0,44198.0,Pepe,4-3-3,Facundo Tello,Match Report,,12.0,3.0,0,0,2.0,0,Portugal
+280,2021-03-25,19:00,WCQ,First round,Thu,Away,W,3,1,bg Bulgaria,,,70.0,,Granit Xhaka,3-4-1-2,Nikola Dabanović,Match Report,,13.0,5.0,0,0,1.0,0,Switzerland
+281,2021-03-28,20:45,WCQ,First round,Sun,Home,W,1,0,lt Lithuania,,,69.0,,Granit Xhaka,3-4-1-2,Mattias Gestranius,Match Report,,21.0,9.0,0,0,1.0,1,Switzerland
+282,2021-09-05,20:45,WCQ,First round,Sun,Home,D,0,0,it Italy,,,48.0,31500.0,Yann Sommer,4-3-2-1,Carlos del Cerro,Match Report,,6.0,2.0,0,0,7.0,1,Switzerland
+283,2021-09-08,19:45,WCQ,First round,Wed,Away,D,0,0,nir Northern Ireland,,,75.0,15660.0,Yann Sommer,4-3-2-1,Harald Lechner,Match Report,,8.0,3.0,0,1,0.0,1,Switzerland
+284,2021-10-09,20:45,WCQ,First round,Sat,Home,W,2,0,nir Northern Ireland,,,72.0,19129.0,Xherdan Shaqiri,4-3-1-2,Slavko Vinčič,Match Report,,27.0,8.0,0,0,1.0,1,Switzerland
+285,2021-10-12,21:45,WCQ,First round,Tue,Away,W,4,0,lt Lithuania,,,70.0,1806.0,Xherdan Shaqiri,4-2-3-1,Tiago Martins,Match Report,,22.0,11.0,0,0,0.0,1,Switzerland
+286,2021-11-12,20:45,WCQ,First round,Fri,Away,D,1,1,it Italy,,,36.0,45699.0,Xherdan Shaqiri,4-2-3-1,Anthony Taylor,Match Report,,10.0,2.0,0,0,3.0,0,Switzerland
+287,2021-11-15,20:45,WCQ,First round,Mon,Home,W,4,0,bg Bulgaria,,,69.0,,Xherdan Shaqiri,4-2-3-1,Benoît Bastien,Match Report,,18.0,9.0,0,0,0.0,1,Switzerland
+288,2022-03-26,17:30,Friendlies (M),Friendlies (M),Sat,Neutral,L,1,2,eng England,,,,,Granit Xhaka,4-2-3-1,Andreas Ekberg,Match Report,,,,0,0,,0,Switzerland
+289,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,xk Kosovo,,,,,Granit Xhaka,4-2-3-1,Ruddy Buquet,Match Report,,,,0,0,,0,Switzerland
+290,2022-11-17,14:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,2,gh Ghana,,,,,Granit Xhaka,3-3-2-2,Ahmed Eisa Mohamed,Match Report,,,,0,0,,0,Switzerland
+291,2022-11-24,13:00,World Cup,Group stage,Thu,Neutral,W,1,0,cm Cameroon,1.4,0.7,51.0,39089.0,Granit Xhaka,4-2-3-1,Facundo Tello,Match Report,,7.0,3.0,0,0,5.0,1,Switzerland
+292,2022-11-28,19:00,World Cup,Group stage,Mon,Neutral,L,0,1,br Brazil,0.3,1.0,46.0,43649.0,Granit Xhaka,4-2-3-1,Iván Barton,Match Report,,6.0,0.0,0,0,4.0,0,Switzerland
+293,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,W,3,2,rs Serbia,2.7,1.3,46.0,41378.0,Granit Xhaka,4-2-3-1,Fernando Rapallini,Match Report,,14.0,7.0,0,0,2.0,0,Switzerland
+294,2022-12-06,22:00,World Cup,Round of 16,Tue,Neutral,L,1,6,pt Portugal,1.1,2.3,53.0,83720.0,Granit Xhaka,3-1-4-2,César Arturo Ramos,Match Report,,10.0,2.0,0,0,3.0,0,Switzerland
+295,2021-03-25,20:45,WCQ,First round,Thu,Home,D,1,1,gr Greece,,,80.0,,Sergio Ramos,4-3-3,Marco Guida,Match Report,,9.0,2.0,0,0,0.0,0,Spain
+296,2021-03-28,20:00,WCQ,First round,Sun,Away,W,2,1,ge Georgia,,,79.0,,Sergio Busquets,4-3-3,Radu Petrescu,Match Report,,9.0,3.0,0,0,1.0,0,Spain
+297,2021-03-31,20:45,WCQ,First round,Wed,Home,W,3,1,xk Kosovo,,,81.0,,Sergio Busquets,4-3-3,Jakob Kehlet,Match Report,,24.0,11.0,0,0,0.0,0,Spain
+298,2021-09-02,20:45,WCQ,First round,Thu,Away,L,1,2,se Sweden,,,75.0,16901.0,Sergio Busquets,4-3-3,Anthony Taylor,Match Report,,12.0,4.0,0,0,2.0,0,Spain
+299,2021-09-05,20:45,WCQ,First round,Sun,Home,W,4,0,ge Georgia,,,75.0,8444.0,César Azpilicueta,4-3-3,Tiago Martins,Match Report,,14.0,8.0,0,0,2.0,2,Spain
+300,2021-09-08,20:45,WCQ,First round,Wed,Away,W,2,0,xk Kosovo,,,73.0,1200.0,Sergio Busquets,4-3-3,Bobby Madden,Match Report,,19.0,4.0,0,0,3.0,1,Spain
+301,2021-11-11,21:45,WCQ,First round,Thu,Away,W,1,0,gr Greece,,,73.0,7825.0,Koke,4-3-3,Szymon Marciniak,Match Report,,12.0,3.0,1,1,1.0,1,Spain
+302,2021-11-14,20:45,WCQ,First round,Sun,Home,W,1,0,se Sweden,,,72.0,51844.0,Sergio Busquets,4-3-3,Felix Brych,Match Report,,12.0,4.0,0,0,0.0,1,Spain
+303,2022-03-26,19:45,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,1,al Albania,,,,,Álvaro Morata,4-3-3,Trustin Farrugia Cann,Match Report,,,,0,0,,0,Spain
+304,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Neutral,W,5,0,is Iceland,,,,34600.0,Jordi Alba,4-3-3,Horațiu Fesnic,Match Report,,,,1,1,,1,Spain
+305,2022-11-23,19:00,World Cup,Group stage,Wed,Neutral,W,7,0,cr Costa Rica,3.5,0.0,81.0,40013.0,Sergio Busquets,4-3-3,Mohammed Abdulla Hassan,Match Report,,16.0,7.0,1,1,0.0,1,Spain
+306,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,D,1,1,de Germany,0.6,1.3,64.0,68895.0,Sergio Busquets,4-3-3,Danny Makkelie,Match Report,,7.0,3.0,0,0,3.0,0,Spain
+307,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,L,1,2,jp Japan,1.0,1.4,82.0,44851.0,Sergio Busquets,4-3-3,Victor Gomes,Match Report,,12.0,5.0,0,0,1.0,0,Spain
+308,2022-12-06,18:00,World Cup,Round of 16,Tue,Neutral,D,0 (0),0 (3),ma Morocco,1.0,0.7,76.0,44667.0,Sergio Busquets,4-3-3,Fernando Rapallini,Match Report,Morocco won on penalty kicks following extra time,13.0,1.0,0,0,2.0,1,Spain
+309,2021-03-25,20:45,WCQ,First round,Thu,Away,D,3.0,3.0,hu Hungary,,,64.0,,Robert Lewandowski,4-4-2,Felix Brych,Match Report,,10.0,3.0,0,0,1.0,0,Poland
+310,2021-03-28,20:45,WCQ,First round,Sun,Home,W,3.0,0.0,ad Andorra,,,85.0,,Robert Lewandowski,4-4-2◆,Erik Lambrechts,Match Report,,26.0,6.0,0,0,0.0,1,Poland
+311,2021-03-31,19:45,WCQ,First round,Wed,Away,L,1.0,2.0,eng England,,,37.0,,Kamil Glik,3-4-3,Björn Kuipers,Match Report,,4.0,1.0,0,0,2.0,0,Poland
+312,2021-09-02,20:45,WCQ,First round,Thu,Home,W,4.0,1.0,al Albania,,,49.0,38254.0,Robert Lewandowski,4-4-2,Maurizio Mariani,Match Report,,6.0,4.0,0,0,3.0,0,Poland
+313,2021-09-05,20:45,WCQ,First round,Sun,Away,W,7.0,1.0,sm San Marino,,,76.0,500.0,Robert Lewandowski,4-4-2,Mattias Gestranius,Match Report,,24.0,11.0,0,0,2.0,0,Poland
+314,2021-09-08,20:45,WCQ,First round,Wed,Home,D,1.0,1.0,eng England,,,37.0,56212.0,Robert Lewandowski,4-4-2,Daniel Siebert,Match Report,,11.0,4.0,0,0,1.0,0,Poland
+315,2021-10-09,20:45,WCQ,First round,Sat,Home,W,5.0,0.0,sm San Marino,,,83.0,56128.0,Robert Lewandowski,4-4-2,Fran Jović,Match Report,,31.0,12.0,0,0,1.0,2,Poland
+316,2021-10-12,20:45,WCQ,First round,Tue,Away,W,1.0,0.0,al Albania,,,60.0,21000.0,Robert Lewandowski,4-4-2,Clément Turpin,Match Report,,5.0,2.0,0,0,1.0,1,Poland
+317,2021-11-12,20:45,WCQ,First round,Fri,Away,W,4.0,1.0,ad Andorra,,,79.0,1049.0,Robert Lewandowski,3-4-1-2,John Beaton,Match Report,,18.0,8.0,0,0,0.0,0,Poland
+318,2021-11-15,20:45,WCQ,First round,Mon,Home,L,1.0,2.0,hu Hungary,,,63.0,,Wojciech Szczęsny,4-4-2,Tiago Martins,Match Report,,15.0,6.0,0,0,2.0,0,Poland
+319,2022-03-24,20:00,WCQ,Semi-finals,Thu,Away,,,,ru Russia,,,,,,,,Match Report,Match Cancelled,,,1,1,,0,Poland
+320,2022-03-24,19:45,Friendlies (M),Friendlies (M),Thu,Neutral,D,1.0,1.0,sct Scotland,,,,,Kamil Glik,3-4-3,Robert Hennessy,Match Report,,,,1,1,,0,Poland
+321,2022-03-29,20:45,WCQ,Finals,Tue,Home,W,2.0,0.0,se Sweden,,,39.0,54078.0,Robert Lewandowski,3-4-3,Daniele Orsato,Match Report,,10.0,8.0,1,1,6.0,1,Poland
+322,2022-11-16,18:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1.0,0.0,cl Chile,,,,27968.0,Kamil Glik,3-5-2,Harm Osmers,Match Report,,,,0,0,,1,Poland
+323,2022-11-22,19:00,World Cup,Group stage,Tue,Neutral,D,0.0,0.0,mx Mexico,0.9,0.7,40.0,39369.0,Robert Lewandowski,4-1-4-1,Chris Beath,Match Report,,5.0,1.0,0,1,4.0,1,Poland
+324,2022-11-26,16:00,World Cup,Group stage,Sat,Neutral,W,2.0,0.0,sa Saudi Arabia,1.6,1.7,37.0,44259.0,Robert Lewandowski,4-4-2,Wilton Sampaio,Match Report,,9.0,3.0,0,0,4.0,1,Poland
+325,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,L,0.0,2.0,ar Argentina,0.3,3.5,27.0,44089.0,Robert Lewandowski,4-4-2,Danny Makkelie,Match Report,,4.0,0.0,0,0,8.0,0,Poland
+326,2022-12-04,18:00,World Cup,Round of 16,Sun,Neutral,L,1.0,3.0,fr France,1.7,1.4,45.0,40989.0,Robert Lewandowski,4-1-4-1,Jesús Valenzuela,Match Report,,11.0,1.0,1,1,5.0,0,Poland
+327,2021-03-25,20:45,WCQ,First round,Thu,Home,W,3,0,is Iceland,,,82.0,,Manuel Neuer,4-3-3,Srđan Jovanović,Match Report,,15.0,5.0,0,0,2.0,1,Germany
+328,2021-03-28,21:45,WCQ,First round,Sun,Away,W,1,0,ro Romania,,,66.0,,Manuel Neuer,4-3-3,Clément Turpin,Match Report,,18.0,9.0,0,0,2.0,1,Germany
+329,2021-03-31,20:45,WCQ,First round,Wed,Home,L,1,2,mk N. Macedonia,,,70.0,,İlkay Gündoğan,4-3-3,Sergey Karasev,Match Report,,11.0,2.0,1,1,1.0,0,Germany
+330,2021-09-02,20:45,WCQ,First round,Thu,Away,W,2,0,li Liechtenstein,,,85.0,7958.0,Joshua Kimmich,4-2-3-1,Fábio Veríssimo,Match Report,,30.0,7.0,0,0,0.0,1,Germany
+331,2021-09-05,20:45,WCQ,First round,Sun,Home,W,6,0,am Armenia,,,76.0,18086.0,Manuel Neuer,4-2-3-1,William Collum,Match Report,,23.0,12.0,0,0,1.0,1,Germany
+332,2021-09-08,18:45,WCQ,First round,Wed,Away,W,4,0,is Iceland,,,71.0,3505.0,Manuel Neuer,4-2-3-1,Andreas Ekberg,Match Report,,19.0,8.0,0,0,2.0,1,Germany
+333,2021-10-08,20:45,WCQ,First round,Fri,Home,W,2,1,ro Romania,,,77.0,25000.0,Joshua Kimmich,4-2-3-1,Cüneyt Çakιr,Match Report,,22.0,6.0,0,0,0.0,0,Germany
+334,2021-10-11,20:45,WCQ,First round,Mon,Away,W,4,0,mk N. Macedonia,,,74.0,16182.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,24.0,10.0,0,0,1.0,1,Germany
+335,2021-11-11,20:45,WCQ,First round,Thu,Home,W,9,0,li Liechtenstein,,,82.0,25984.0,Manuel Neuer,4-2-3-1,Ivana Martinčić,Match Report,,42.0,23.0,1,1,0.0,1,Germany
+336,2021-11-14,21:00,WCQ,First round,Sun,Away,W,4,1,am Armenia,,,75.0,7200.0,Thomas Müller,3-5-2,François Letexier,Match Report,,20.0,9.0,1,1,0.0,0,Germany
+337,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,0,il Israel,,,,,İlkay Gündoğan,4-4-2,Maurizio Mariani,Match Report,,,,0,1,,2,Germany
+338,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,nl Netherlands,,,,50387.0,Manuel Neuer,4-2-3-1,Craig Pawson,Match Report,,,,0,0,,0,Germany
+339,2022-11-16,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,1,0,om Oman,,,,,Manuel Neuer,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,,,0,0,,1,Germany
+340,2022-11-23,16:00,World Cup,Group stage,Wed,Neutral,L,1,2,jp Japan,3.1,1.5,74.0,42608.0,Manuel Neuer,4-2-3-1,Iván Barton,Match Report,,25.0,8.0,1,1,2.0,0,Germany
+341,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,D,1,1,es Spain,1.3,0.6,36.0,68895.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,11.0,4.0,0,0,2.0,0,Germany
+342,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,W,4,2,cr Costa Rica,5.7,1.3,68.0,67054.0,Manuel Neuer,4-2-3-1,Stéphanie Frappart,Match Report,,32.0,11.0,0,0,4.0,0,Germany
+343,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,1,wls Wales,,,75.0,,Jan Vertonghen,3-4-3,Cüneyt Çakιr,Match Report,,12.0,4.0,1,1,0.0,0,Belgium
+344,2021-03-27,20:45,WCQ,First round,Sat,Away,D,1,1,cz Czechia,,,62.0,,Jan Vertonghen,3-4-3,William Collum,Match Report,,9.0,4.0,0,0,4.0,0,Belgium
+345,2021-03-30,20:45,WCQ,First round,Tue,Home,W,8,0,by Belarus,,,68.0,,Jan Vertonghen,3-4-3,Donatas Rumšas,Match Report,,21.0,15.0,0,0,0.0,1,Belgium
+346,2021-09-02,21:45,WCQ,First round,Thu,Away,W,5,2,ee Estonia,,,73.0,6685.0,Eden Hazard,3-4-3,Guillermo Cuadra,Match Report,,25.0,9.0,0,0,1.0,0,Belgium
+347,2021-09-05,20:45,WCQ,First round,Sun,Home,W,3,0,cz Czechia,,,54.0,21416.0,Eden Hazard,3-4-3,Michael Oliver,Match Report,,16.0,6.0,0,0,4.0,1,Belgium
+348,2021-09-08,21:45,WCQ,First round,Wed,Away,W,1,0,by Belarus,,,75.0,,Toby Alderweireld,3-4-3,Paweł Raczkowski,Match Report,,12.0,5.0,0,0,2.0,1,Belgium
+349,2021-11-13,20:45,WCQ,First round,Sat,Home,W,3,1,ee Estonia,,,81.0,29895.0,Eden Hazard,3-4-3,Halil Umut Meler,Match Report,,20.0,10.0,0,0,4.0,0,Belgium
+350,2021-11-16,19:45,WCQ,First round,Tue,Away,D,1,1,wls Wales,,,76.0,32343.0,Kevin De Bruyne,3-4-3,Artur Dias,Match Report,,16.0,4.0,0,0,2.0,0,Belgium
+351,2022-03-26,17:00,Friendlies (M),Friendlies (M),Sat,Neutral,D,2,2,ie Rep. of Ireland,,,,,Youri Tielemans,3-4-3,Nick Walsh,Match Report,,,,0,0,,0,Belgium
+352,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,bf Burkina Faso,,,,,Youri Tielemans,3-4-3,Dennis Higler,Match Report,,,,0,0,,1,Belgium
+353,2022-11-18,18:00,Friendlies (M),Friendlies (M),Fri,Neutral,L,1,2,eg Egypt,,,,,Eden Hazard,3-4-3,Ali Mahmoud,Match Report,,,,0,0,,0,Belgium
+354,2022-11-23,22:00,World Cup,Group stage,Wed,Neutral,W,1,0,ca Canada,0.8,2.4,53.0,40432.0,Eden Hazard,3-4-3,Janny Sikazwe,Match Report,,9.0,3.0,0,0,2.0,1,Belgium
+355,2022-11-27,16:00,World Cup,Group stage,Sun,Neutral,L,0,2,ma Morocco,1.0,1.5,67.0,43738.0,Eden Hazard,4-2-3-1,César Arturo Ramos,Match Report,,10.0,3.0,0,0,2.0,0,Belgium
+356,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,D,0,0,hr Croatia,3.0,0.7,51.0,43984.0,Kevin De Bruyne,4-2-3-1,Anthony Taylor,Match Report,,16.0,3.0,0,0,4.0,1,Belgium
+357,2021-03-25,19:00,WCQ,First round,Thu,Away,W,2,0,il Israel,,,50.0,5000.0,Simon Kjær,4-2-3-1,Craig Pawson,Match Report,,14.0,7.0,0,0,2.0,1,Denmark
+358,2021-03-28,18:00,WCQ,First round,Sun,Home,W,8,0,md Moldova,,,75.0,,Kasper Schmeichel,4-3-3,Aghayev Aliyev,Match Report,,18.0,11.0,1,1,2.0,1,Denmark
+359,2021-03-31,20:45,WCQ,First round,Wed,Away,W,4,0,at Austria,,,48.0,,Simon Kjær,4-4-1-1,Artur Dias,Match Report,,11.0,6.0,0,0,0.0,1,Denmark
+360,2021-09-01,20:45,WCQ,First round,Wed,Home,W,2,0,sct Scotland,,,61.0,34562.0,Simon Kjær,4-3-3,Ovidiu Hațegan,Match Report,,11.0,5.0,0,0,2.0,1,Denmark
+361,2021-09-04,19:45,WCQ,First round,Sat,Away,W,1,0,fo Faroe Islands,,,80.0,4620.0,Kasper Schmeichel,3-4-3,Fran Jović,Match Report,,19.0,8.0,0,0,3.0,1,Denmark
+362,2021-09-07,20:45,WCQ,First round,Tue,Home,W,5,0,il Israel,,,62.0,35158.0,Simon Kjær,4-3-3,Tobias Stieler,Match Report,,15.0,10.0,0,0,0.0,1,Denmark
+363,2021-10-09,21:45,WCQ,First round,Sat,Away,W,4,0,md Moldova,,,69.0,2642.0,Simon Kjær,3-4-3,João Pinheiro,Match Report,,21.0,10.0,1,1,0.0,1,Denmark
+364,2021-10-12,20:45,WCQ,First round,Tue,Home,W,1,0,at Austria,,,49.0,35843.0,Simon Kjær,3-4-3,Ivan Kružliak,Match Report,,9.0,4.0,0,0,0.0,1,Denmark
+365,2021-11-12,20:45,WCQ,First round,Fri,Home,W,3,1,fo Faroe Islands,,,68.0,35531.0,Simon Kjær,3-4-3,Radu Petrescu,Match Report,,19.0,4.0,0,0,1.0,0,Denmark
+366,2021-11-15,19:45,WCQ,First round,Mon,Away,L,0,2,sct Scotland,,,59.0,,Simon Kjær,4-3-3,Alejandro Hernández,Match Report,,10.0,2.0,0,0,2.0,0,Denmark
+367,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Neutral,L,2,4,nl Netherlands,,,,,Kasper Schmeichel,3-4-3,Lawrence Visser,Match Report,,,,0,0,,0,Denmark
+368,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,rs Serbia,,,,,Christian Eriksen,4-3-3,Felix Zwayer,Match Report,,,,0,0,,1,Denmark
+369,2022-11-22,16:00,World Cup,Group stage,Tue,Neutral,D,0,0,tn Tunisia,1.4,0.9,61.0,42925.0,Simon Kjær,3-5-2,César Arturo Ramos,Match Report,,11.0,5.0,0,0,1.0,1,Denmark
+370,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,L,1,2,fr France,0.6,2.4,51.0,42860.0,Kasper Schmeichel,3-4-3,Szymon Marciniak,Match Report,,10.0,2.0,0,0,4.0,0,Denmark
+371,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,L,0,1,au Australia,0.6,0.6,68.0,41232.0,Christian Eriksen,4-3-3,Mustapha Ghorbal,Match Report,,13.0,3.0,0,0,3.0,0,Denmark
+372,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,2,ie Rep. of Ireland,,,56.0,,Dušan Tadić,3-4-3,Davide Massa,Match Report,,14.0,4.0,0,0,0.0,0,Serbia
+373,2021-03-27,20:45,WCQ,First round,Sat,Home,D,2,2,pt Portugal,,,44.0,,Dušan Tadić,3-4-1-2,Danny Makkelie,Match Report,,16.0,5.0,0,0,1.0,0,Serbia
+374,2021-03-30,20:00,WCQ,First round,Tue,Away,W,2,1,az Azerbaijan,,,67.0,,Dušan Tadić,3-4-3,Roi Reinshreiber,Match Report,,18.0,7.0,0,0,1.0,0,Serbia
+375,2021-09-04,18:00,WCQ,First round,Sat,Home,W,4,1,lu Luxembourg,,,54.0,10078.0,Dušan Tadić,3-4-3,Halil Umut Meler,Match Report,,17.0,8.0,0,0,0.0,0,Serbia
+376,2021-09-07,19:45,WCQ,First round,Tue,Away,D,1,1,ie Rep. of Ireland,,,58.0,25415.0,Dušan Tadić,3-5-2,José Sánchez,Match Report,,18.0,10.0,0,0,2.0,0,Serbia
+377,2021-10-09,20:45,WCQ,First round,Sat,Away,W,1,0,lu Luxembourg,,,48.0,2000.0,Dušan Tadić,3-4-1-2,William Collum,Match Report,,11.0,4.0,0,0,1.0,1,Serbia
+378,2021-10-12,20:45,WCQ,First round,Tue,Home,W,3,1,az Azerbaijan,,,57.0,5890.0,Matija Nastasić,3-4-1-2,Erik Lambrechts,Match Report,,22.0,11.0,2,2,0.0,0,Serbia
+379,2021-11-14,19:45,WCQ,First round,Sun,Away,W,2,1,pt Portugal,,,57.0,58873.0,Dušan Tadić,3-5-1-1,Daniele Orsato,Match Report,,11.0,3.0,0,0,2.0,0,Serbia
+380,2022-03-24,19:30,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,hu Hungary,,,,,Dušan Tadić,3-2-4-1,Filip Glova,Match Report,,,,0,0,,1,Serbia
+381,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,0,3,dk Denmark,,,,,Dušan Tadić,3-4-3,Felix Zwayer,Match Report,,,,0,0,,0,Serbia
+382,2022-11-18,18:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,5,1,bh Bahrain,,,,,Dušan Tadić,4-1-4-1,Khalid Saleh Al Turais,Match Report,,,,0,0,,0,Serbia
+383,2022-11-24,22:00,World Cup,Group stage,Thu,Neutral,L,0,2,br Brazil,0.2,2.4,41.0,88103.0,Dušan Tadić,3-4-3,Alireza Faghani,Match Report,,5.0,0.0,0,0,7.0,0,Serbia
+384,2022-11-28,13:00,World Cup,Group stage,Mon,Neutral,D,3,3,cm Cameroon,1.9,2.2,59.0,39789.0,Dušan Tadić,3-4-3,Mohammed Abdulla Hassan,Match Report,,15.0,5.0,0,0,5.0,0,Serbia
+385,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,L,2,3,ch Switzerland,1.3,2.7,54.0,41378.0,Dušan Tadić,3-4-1-2,Fernando Rapallini,Match Report,,12.0,4.0,0,0,4.0,0,Serbia

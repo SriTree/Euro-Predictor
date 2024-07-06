@@ -1,0 +1,1078 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Sh,SoT,PK,PKatt,Saves,CS,Nation,xG,xGA,opponent
+0,2022-06-03,20:45,UEFA Nations League,League C,Fri,Away,W,1,0,by Belarus,68.0,,Milan Škriniar,4-5-1,Stéphanie Frappart,Match Report,,13.0,3.0,0,0,1.0,1,Slovakia,,,Belarus
+1,2022-06-06,20:45,UEFA Nations League,League C,Mon,Home,L,0,1,kz Kazakhstan,75.0,4146.0,Milan Škriniar,4-1-4-1,Kristo Tohver,Match Report,,16.0,1.0,0,0,2.0,0,Slovakia,,,Kazakhstan
+2,2022-06-10,20:00,UEFA Nations League,League C,Fri,Away,W,1,0,az Azerbaijan,60.0,2967.0,Peter Pekarík,4-4-2,Donatas Rumšas,Match Report,,16.0,6.0,0,0,1.0,1,Slovakia,,,Azerbaijan
+3,2022-06-13,20:00,UEFA Nations League,League C,Mon,Away,L,1,2,kz Kazakhstan,70.0,28745.0,Juraj Kucka,4-4-2,Bram Van Driessche,Match Report,,17.0,5.0,0,0,1.0,0,Slovakia,,,Kazakhstan
+4,2022-09-22,20:45,UEFA Nations League,League C,Thu,Home,L,1,2,az Azerbaijan,59.0,2875.0,Milan Škriniar,4-3-3,William Collum,Match Report,,17.0,6.0,1,1,1.0,0,Slovakia,,,Azerbaijan
+5,2022-09-25,19:00,UEFA Nations League,League C,Sun,Home,D,1,1,by Belarus,84.0,524.0,Milan Škriniar,4-3-3,Nikola Dabanović,Match Report,,14.0,4.0,0,0,0.0,0,Slovakia,,,Belarus
+6,2022-06-02,20:00,UEFA Nations League,League C,Thu,Home,W,4,0,gi Gibraltar,69.0,43412.0,Guram Kashia,3-5-1-1,Morten Krogh,Match Report,,27.0,12.0,0,0,0.0,1,Georgia,,,Gibraltar
+7,2022-06-05,21:45,UEFA Nations League,League C,Sun,Away,W,5,2,bg Bulgaria,40.0,3600.0,Guram Kashia,3-5-1-1,Fabio Maresca,Match Report,,18.0,7.0,1,2,2.0,0,Georgia,,,Bulgaria
+8,2022-06-09,20:45,UEFA Nations League,League C,Thu,Away,W,3,0,mk N. Macedonia,38.0,10775.0,Guram Kashia,3-5-1-1,Roi Reinshreiber,Match Report,,11.0,6.0,0,0,4.0,1,Georgia,,,N. Macedonia
+9,2022-06-12,20:00,UEFA Nations League,League C,Sun,Home,D,0,0,bg Bulgaria,62.0,54200.0,Guram Kashia,4-4-2,Espen Andreas Eskås,Match Report,,16.0,2.0,0,0,1.0,1,Georgia,,,Bulgaria
+10,2022-09-23,20:00,UEFA Nations League,League C,Fri,Home,W,2,0,mk N. Macedonia,34.0,54200.0,Guram Kashia,3-4-3,Ivan Kružliak,Match Report,,8.0,2.0,0,0,6.0,1,Georgia,,,N. Macedonia
+11,2022-09-26,20:45,UEFA Nations League,League C,Mon,Away,W,2,1,gi Gibraltar,70.0,1199.0,Guram Kashia,3-4-3,Robert Harvey,Match Report,,21.0,9.0,1,1,4.0,0,Georgia,,,Gibraltar
+12,2022-06-08,19:45,UEFA Nations League,League B,Wed,Home,W,2,0,am Armenia,71.0,38627.0,Andrew Robertson,3-4-3,Sebastian Gishamer,Match Report,,27.0,6.0,0,0,3.0,1,Scotland,,,Armenia
+13,2022-06-11,17:00,UEFA Nations League,League B,Sat,Away,L,0,3,ie Rep. of Ireland,57.0,46927.0,Andrew Robertson,3-4-3,Marco Di Bello,Match Report,,9.0,2.0,0,0,1.0,0,Scotland,,,Rep. of Ireland
+14,2022-06-14,20:00,UEFA Nations League,League B,Tue,Away,W,4,1,am Armenia,70.0,13500.0,John McGinn,3-4-3,Nikola Dabanović,Match Report,,14.0,7.0,0,0,3.0,0,Scotland,,,Armenia
+15,2022-09-21,19:45,UEFA Nations League,League B,Wed,Home,W,3,0,ua Ukraine,49.0,42846.0,John McGinn,5-4-1,Maurizio Mariani,Match Report,,24.0,8.0,0,0,0.0,1,Scotland,,,Ukraine
+16,2022-09-24,19:45,UEFA Nations League,League B,Sat,Home,W,2,1,ie Rep. of Ireland,61.0,48853.0,John McGinn,4-2-3-1,Sandro Schärer,Match Report,,14.0,3.0,1,1,3.0,0,Scotland,,,Rep. of Ireland
+17,2022-09-27,21:45,UEFA Nations League,League B,Tue,Away,D,0,0,ua Ukraine,46.0,13534.0,John McGinn,5-4-1,Anastasios Sidiropoulos,Match Report,,8.0,1.0,0,0,3.0,1,Scotland,,,Ukraine
+18,2022-06-08,19:45,UEFA Nations League,League B,Wed,Away,W,1,0,ie Rep. of Ireland,55.0,40111.0,Serhiy Sydorchuk,3-4-3,Filip Glova,Match Report,,14.0,4.0,0,0,4.0,1,Ukraine,,,Rep. of Ireland
+19,2022-06-11,16:00,UEFA Nations League,League B,Sat,Home,W,3,0,am Armenia,73.0,12503.0,Andriy Pyatov,4-3-3,Daniel Stefański,Match Report,,14.0,8.0,0,0,1.0,1,Ukraine,,,Armenia
+20,2022-06-14,21:45,UEFA Nations League,League B,Tue,Home,D,1,1,ie Rep. of Ireland,62.0,10641.0,Andriy Yarmolenko,4-3-3,Ali Palabıyık,Match Report,,9.0,3.0,0,0,2.0,0,Ukraine,,,Rep. of Ireland
+21,2022-09-21,19:45,UEFA Nations League,League B,Wed,Away,L,0,3,sct Scotland,51.0,42846.0,Andriy Yarmolenko,4-1-4-1,Maurizio Mariani,Match Report,,3.0,0.0,0,0,5.0,0,Ukraine,,,Scotland
+22,2022-09-24,17:00,UEFA Nations League,League B,Sat,Away,W,5,0,am Armenia,64.0,7200.0,Serhiy Sydorchuk,3-4-3,João Pinheiro,Match Report,,16.0,7.0,0,0,4.0,1,Ukraine,,,Armenia
+23,2022-09-27,21:45,UEFA Nations League,League B,Tue,Home,D,0,0,sct Scotland,54.0,13534.0,Andriy Yarmolenko,3-4-3,Anastasios Sidiropoulos,Match Report,,12.0,3.0,0,0,1.0,1,Ukraine,,,Scotland
+24,2022-06-06,18:45,UEFA Nations League,League B,Mon,Away,D,1.0,1.0,is Iceland,57.0,4033.0,Etrit Berisha,3-5-2,Craig Pawson,Match Report,,12.0,2.0,0,0,4.0,0,Albania,,,Iceland
+25,2022-06-10,20:45,UEFA Nations League,League B,Fri,Home,L,1.0,2.0,il Israel,51.0,18100.0,Etrit Berisha,3-5-2,Tiago Martins,Match Report,,10.0,3.0,1,1,4.0,0,Albania,,,Israel
+26,2022-09-24,21:45,UEFA Nations League,League B,Sat,Away,L,1.0,2.0,il Israel,49.0,29200.0,Elseid Hysaj,3-5-2,Donatas Rumšas,Match Report,,9.0,4.0,0,0,2.0,0,Albania,,,Israel
+27,2022-09-27,20:45,UEFA Nations League,League B,Tue,Home,D,1.0,1.0,is Iceland,61.0,8800.0,Sokol Cikalleshi,4-3-3,Ricardo de Burgos,Match Report,,21.0,4.0,0,0,4.0,0,Albania,,,Iceland
+28,2022-06-04,20:45,UEFA Nations League,League B,Sat,Away,L,0,2,me Montenegro,56.0,3998.0,Vlad Chiricheș,4-3-3,Andreas Ekberg,Match Report,,7.0,1.0,0,0,3.0,0,Romania,,,Montenegro
+29,2022-06-07,20:45,UEFA Nations League,League B,Tue,Away,L,0,1,ba Bosnia & Herz'na,43.0,4500.0,Vlad Chiricheș,4-3-3,Sascha Stegemann,Match Report,,12.0,3.0,0,0,1.0,0,Romania,,,Bosnia & Herz'na
+30,2022-06-11,21:45,UEFA Nations League,League B,Sat,Home,W,1,0,fi Finland,38.0,11503.0,Vlad Chiricheș,4-2-3-1,Harald Lechner,Match Report,,18.0,5.0,0,1,3.0,1,Romania,,,Finland
+31,2022-06-14,21:45,UEFA Nations League,League B,Tue,Home,L,0,3,me Montenegro,60.0,11657.0,Vlad Chiricheș,4-3-3,João Pinheiro,Match Report,,7.0,2.0,0,0,2.0,0,Romania,,,Montenegro
+32,2022-09-23,21:45,UEFA Nations League,League B,Fri,Away,D,1,1,fi Finland,52.0,20130.0,Răzvan Marin,4-3-3,Carlos del Cerro,Match Report,,16.0,6.0,0,0,0.0,0,Romania,,,Finland
+33,2022-09-26,21:45,UEFA Nations League,League B,Mon,Home,W,4,1,ba Bosnia & Herz'na,47.0,12693.0,Nicolae Stanciu,4-2-3-1,Halil Umut Meler,Match Report,,17.0,7.0,0,0,2.0,0,Romania,,,Bosnia & Herz'na
+34,2022-06-02,20:45,UEFA Nations League,League B,Thu,Home,L,0,1,no Norway,67.0,9726.0,Dušan Tadić,3-4-3,Paweł Raczkowski,Match Report,,13.0,5.0,0,0,1.0,0,Serbia,,,Norway
+35,2022-06-05,20:45,UEFA Nations League,League B,Sun,Home,W,4,1,si Slovenia,61.0,10925.0,Aleksandar Mitrović,3-4-1-2,Jesús Gil,Match Report,,17.0,7.0,0,0,1.0,0,Serbia,,,Slovenia
+36,2022-06-09,20:45,UEFA Nations League,League B,Thu,Away,W,1,0,se Sweden,56.0,24123.0,Dušan Tadić,3-4-3,Lawrence Visser,Match Report,,9.0,4.0,0,0,1.0,1,Serbia,,,Sweden
+37,2022-06-12,20:45,UEFA Nations League,League B,Sun,Away,D,2,2,si Slovenia,57.0,13782.0,Dušan Tadić,3-4-3,Maurizio Mariani,Match Report,,14.0,6.0,0,0,3.0,0,Serbia,,,Slovenia
+38,2022-09-24,20:45,UEFA Nations League,League B,Sat,Home,W,4,1,se Sweden,53.0,14122.0,Dušan Tadić,3-5-2,Georgi Kabakov,Match Report,,14.0,7.0,0,0,3.0,0,Serbia,,,Sweden
+39,2022-09-27,20:45,UEFA Nations League,League B,Tue,Away,W,2,0,no Norway,53.0,24364.0,Dušan Tadić,3-5-2,Antonio Matéu,Match Report,,8.0,5.0,0,0,3.0,1,Serbia,,,Norway
+40,2022-06-02,20:45,UEFA Nations League,League B,Thu,Away,W,2,0,si Slovenia,47.0,5123.0,Emil Forsberg,4-4-2,Ruddy Buquet,Match Report,,10.0,4.0,1,1,3.0,1,Sweden,,,Slovenia
+41,2022-06-05,20:45,UEFA Nations League,League B,Sun,Home,L,1,2,no Norway,66.0,42320.0,Emil Forsberg,4-3-3,Anthony Taylor,Match Report,,13.0,3.0,0,0,6.0,0,Sweden,,,Norway
+42,2022-06-09,20:45,UEFA Nations League,League B,Thu,Home,L,0,1,rs Serbia,44.0,24123.0,Robin Olsen,4-3-3,Lawrence Visser,Match Report,,11.0,1.0,0,0,3.0,0,Sweden,,,Serbia
+43,2022-06-12,18:00,UEFA Nations League,League B,Sun,Away,L,2,3,no Norway,46.0,24273.0,Emil Forsberg,4-3-3,Harm Osmers,Match Report,,14.0,4.0,0,0,2.0,0,Sweden,,,Norway
+44,2022-09-24,20:45,UEFA Nations League,League B,Sat,Away,L,1,4,rs Serbia,47.0,14122.0,Victor Lindelöf,3-4-3,Georgi Kabakov,Match Report,,10.0,4.0,0,0,3.0,0,Sweden,,,Serbia
+45,2022-09-27,20:45,UEFA Nations League,League B,Tue,Home,D,1,1,si Slovenia,71.0,22895.0,Victor Lindelöf,4-4-2,Felix Zwayer,Match Report,,15.0,6.0,0,0,5.0,0,Sweden,,,Slovenia
+46,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,0,3,at Austria,61.0,13994.0,Mateo Kovačić,4-1-4-1,Chris Kavanagh,Match Report,,13.0,3.0,0,0,6.0,0,Croatia,,,Austria
+47,2022-06-06,20:45,UEFA Nations League,League A,Mon,Home,D,1,1,fr France,49.0,33869.0,Luka Modrić,4-1-4-1,Marco Guida,Match Report,,8.0,5.0,1,1,4.0,0,Croatia,,,France
+48,2022-06-10,20:45,UEFA Nations League,League A,Fri,Away,W,1,0,dk Denmark,51.0,35862.0,Marcelo Brozović,4-2-3-1,Bartosz Frankowski,Match Report,,9.0,2.0,0,0,1.0,1,Croatia,,,Denmark
+49,2022-06-13,20:45,UEFA Nations League,League A,Mon,Away,W,1,0,fr France,46.0,774100.0,Luka Modrić,4-3-3,Orel Grinfeeld,Match Report,,4.0,3.0,1,1,4.0,1,Croatia,,,France
+50,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,1,dk Denmark,49.0,22715.0,Luka Modrić,4-3-3,Davide Massa,Match Report,,12.0,4.0,0,0,3.0,0,Croatia,,,Denmark
+51,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,W,3,1,at Austria,54.0,45700.0,Luka Modrić,4-3-3,Artur Dias,Match Report,,10.0,5.0,0,0,5.0,0,Croatia,,,Austria
+52,2023-06-14,20:45,UEFA Nations League,Semi-finals,Wed,Neutral,W,4,2,nl Netherlands,54.0,39359.0,Luka Modrić,4-3-2-1,István Kovács,Match Report,Required Extra Time,14.0,5.0,2,2,4.0,0,Croatia,,,Netherlands
+53,2023-06-18,20:45,UEFA Nations League,Final,Sun,Neutral,D,0 (4),0 (5),es Spain,46.0,41110.0,Luka Modrić,4-3-3,Felix Zwayer,Match Report,Spain won on penalty kicks following extra time,12.0,5.0,0,0,1.0,1,Croatia,,,Spain
+54,2022-06-03,20:45,UEFA Nations League,League A,Fri,Away,W,2,1,fr France,40.0,75833.0,Kasper Schmeichel,4-2-3-1,Felix Zwayer,Match Report,,8.0,5.0,0,0,5.0,0,Denmark,,,France
+55,2022-06-06,20:45,UEFA Nations League,League A,Mon,Away,W,2,1,at Austria,45.0,18700.0,Kasper Schmeichel,4-2-3-1,William Collum,Match Report,,8.0,6.0,0,0,0.0,0,Denmark,,,Austria
+56,2022-06-10,20:45,UEFA Nations League,League A,Fri,Home,L,0,1,hr Croatia,49.0,35862.0,Christian Eriksen,4-3-1-2,Bartosz Frankowski,Match Report,,14.0,1.0,0,0,1.0,0,Denmark,,,Croatia
+57,2022-06-13,20:45,UEFA Nations League,League A,Mon,Home,W,2,0,at Austria,53.0,35230.0,Kasper Schmeichel,4-4-2,Alejandro Hernández,Match Report,,15.0,6.0,0,0,2.0,1,Denmark,,,Austria
+58,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,L,1,2,hr Croatia,51.0,22715.0,Simon Kjær,4-3-3,Davide Massa,Match Report,,7.0,4.0,0,0,2.0,0,Denmark,,,Croatia
+59,2022-09-25,20:45,UEFA Nations League,League A,Sun,Home,W,2,0,fr France,48.0,36064.0,Kasper Schmeichel,4-2-3-1,István Kovács,Match Report,,16.0,7.0,0,0,7.0,1,Denmark,,,France
+60,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,1,2,dk Denmark,60.0,75833.0,Hugo Lloris,3-5-2,Felix Zwayer,Match Report,,19.0,6.0,0,0,3.0,0,France,,,Denmark
+61,2022-06-06,20:45,UEFA Nations League,League A,Mon,Away,D,1,1,hr Croatia,51.0,33869.0,Presnel Kimpembe,4-2-3-1,Marco Guida,Match Report,,7.0,5.0,0,0,4.0,0,France,,,Croatia
+62,2022-06-10,20:45,UEFA Nations League,League A,Fri,Away,D,1,1,at Austria,67.0,44800.0,Hugo Lloris,4-4-2,Anastasios Sidiropoulos,Match Report,,15.0,7.0,0,0,3.0,0,France,,,Austria
+63,2022-06-13,20:45,UEFA Nations League,League A,Mon,Home,L,0,1,hr Croatia,54.0,774100.0,Presnel Kimpembe,4-4-2,Orel Grinfeeld,Match Report,,17.0,4.0,0,0,2.0,0,France,,,Croatia
+64,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,0,at Austria,61.0,70188.0,Raphaël Varane,3-4-1-2,Andreas Ekberg,Match Report,,22.0,6.0,0,0,0.0,2,France,,,Austria
+65,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,L,0,2,dk Denmark,53.0,36064.0,Antoine Griezmann,3-4-1-2,István Kovács,Match Report,,17.0,7.0,0,0,5.0,0,France,,,Denmark
+66,2022-06-03,20:45,UEFA Nations League,League A,Fri,Away,W,3,0,hr Croatia,39.0,13994.0,Marko Arnautović,3-5-2,Chris Kavanagh,Match Report,,14.0,8.0,0,0,3.0,1,Austria,,,Croatia
+67,2022-06-06,20:45,UEFA Nations League,League A,Mon,Home,L,1,2,dk Denmark,55.0,18700.0,David Alaba,4-1-4-1,William Collum,Match Report,,17.0,1.0,0,0,4.0,0,Austria,,,Denmark
+68,2022-06-10,20:45,UEFA Nations League,League A,Fri,Home,D,1,1,fr France,33.0,44800.0,David Alaba,4-4-2,Anastasios Sidiropoulos,Match Report,,5.0,4.0,0,0,6.0,0,Austria,,,France
+69,2022-06-13,20:45,UEFA Nations League,League A,Mon,Away,L,0,2,dk Denmark,47.0,35230.0,Marcel Sabitzer,4-4-2,Alejandro Hernández,Match Report,,9.0,2.0,0,0,4.0,0,Austria,,,Denmark
+70,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,L,0,2,fr France,40.0,70188.0,David Alaba,4-4-2,Andreas Ekberg,Match Report,,4.0,0.0,0,0,4.0,0,Austria,,,France
+71,2022-09-25,20:45,UEFA Nations League,League A,Sun,Home,L,1,3,hr Croatia,47.0,45700.0,David Alaba,4-4-2,Artur Dias,Match Report,,18.0,6.0,0,0,2.0,0,Austria,,,Croatia
+72,2022-06-02,20:45,UEFA Nations League,League A,Thu,Home,D,1,1,pt Portugal,61.0,41236.0,Sergio Busquets,4-3-3,Michael Oliver,Match Report,,11.0,2.0,0,0,1.0,0,Spain,,,Portugal
+73,2022-06-05,20:45,UEFA Nations League,League A,Sun,Away,D,2,2,cz Czechia,80.0,18245.0,Koke,4-3-3,François Letexier,Match Report,,13.0,5.0,0,0,0.0,0,Spain,,,Czechia
+74,2022-06-09,20:45,UEFA Nations League,League A,Thu,Away,W,1,0,ch Switzerland,66.0,25875.0,Sergio Busquets,4-3-3,Serdar Gözübüyük,Match Report,,7.0,3.0,0,0,1.0,1,Spain,,,Switzerland
+75,2022-06-12,20:45,UEFA Nations League,League A,Sun,Home,W,2,0,cz Czechia,76.0,30389.0,Koke,4-3-3,Cüneyt Çakιr,Match Report,,9.0,4.0,0,0,2.0,1,Spain,,,Czechia
+76,2022-09-24,20:45,UEFA Nations League,League A,Sat,Home,L,1,2,ch Switzerland,75.0,31089.0,Sergio Busquets,4-3-3,Clément Turpin,Match Report,,8.0,4.0,0,0,3.0,0,Spain,,,Switzerland
+77,2022-09-27,19:45,UEFA Nations League,League A,Tue,Away,W,1,0,pt Portugal,68.0,28196.0,Koke,4-3-3,Daniele Orsato,Match Report,,10.0,5.0,0,0,4.0,1,Spain,,,Portugal
+78,2023-06-15,20:45,UEFA Nations League,Semi-finals,Thu,Neutral,W,2,1,it Italy,62.0,24558.0,Jordi Alba,4-2-3-1,Slavko Vinčič,Match Report,,19.0,7.0,0,0,2.0,0,Spain,,,Italy
+79,2023-06-18,20:45,UEFA Nations League,Final,Sun,Neutral,D,0 (5),0 (4),hr Croatia,54.0,41110.0,Jordi Alba,4-2-3-1,Felix Zwayer,Match Report,Spain won on penalty kicks following extra time,21.0,2.0,0,0,5.0,1,Spain,,,Croatia
+80,2022-06-02,20:45,UEFA Nations League,League A,Thu,Away,D,1,1,es Spain,40.0,41236.0,João Moutinho,4-3-3,Michael Oliver,Match Report,,7.0,2.0,0,0,1.0,0,Portugal,,,Spain
+81,2022-06-05,19:45,UEFA Nations League,League A,Sun,Home,W,4,0,ch Switzerland,55.0,42325.0,Cristiano Ronaldo,4-3-3,Orel Grinfeeld,Match Report,,18.0,10.0,0,0,1.0,1,Portugal,,,Switzerland
+82,2022-06-09,19:45,UEFA Nations League,League A,Thu,Home,W,2,0,cz Czechia,63.0,44100.0,Cristiano Ronaldo,4-3-3,Matej Jug,Match Report,,11.0,5.0,0,0,1.0,1,Portugal,,,Czechia
+83,2022-06-12,20:45,UEFA Nations League,League A,Sun,Away,L,0,1,ch Switzerland,58.0,26300.0,Pepe,4-3-3,Fran Jović,Match Report,,20.0,8.0,0,0,1.0,0,Portugal,,,Switzerland
+84,2022-09-24,20:45,UEFA Nations League,League A,Sat,Away,W,4,0,cz Czechia,56.0,19322.0,Cristiano Ronaldo,4-3-3,Srđan Jovanović,Match Report,,16.0,5.0,0,0,2.0,1,Portugal,,,Czechia
+85,2022-09-27,19:45,UEFA Nations League,League A,Tue,Home,L,0,1,es Spain,32.0,28196.0,Cristiano Ronaldo,4-3-3,Daniele Orsato,Match Report,,9.0,4.0,0,0,4.0,0,Portugal,,,Spain
+86,2022-06-02,20:45,UEFA Nations League,League A,Thu,Away,L,1,2,cz Czechia,62.0,12236.0,Granit Xhaka,4-4-2,Daniel Siebert,Match Report,,15.0,7.0,0,0,2.0,0,Switzerland,,,Czechia
+87,2022-06-05,19:45,UEFA Nations League,League A,Sun,Away,L,0,4,pt Portugal,45.0,42325.0,Granit Xhaka,4-2-3-1,Orel Grinfeeld,Match Report,,5.0,1.0,0,0,6.0,0,Switzerland,,,Portugal
+88,2022-06-09,20:45,UEFA Nations League,League A,Thu,Home,L,0,1,es Spain,34.0,25875.0,Granit Xhaka,4-3-3,Serdar Gözübüyük,Match Report,,7.0,1.0,0,0,2.0,0,Switzerland,,,Spain
+89,2022-06-12,20:45,UEFA Nations League,League A,Sun,Home,W,1,0,pt Portugal,43.0,26300.0,Granit Xhaka,4-3-3,Fran Jović,Match Report,,5.0,2.0,0,0,8.0,1,Switzerland,,,Portugal
+90,2022-09-24,20:45,UEFA Nations League,League A,Sat,Away,W,2,1,es Spain,25.0,31089.0,Granit Xhaka,4-2-3-1,Clément Turpin,Match Report,,8.0,5.0,0,0,3.0,0,Switzerland,,,Spain
+91,2022-09-27,20:45,UEFA Nations League,League A,Tue,Home,W,2,1,cz Czechia,53.0,13353.0,Granit Xhaka,4-2-3-1,Irfan Peljto,Match Report,,17.0,3.0,0,0,3.0,0,Switzerland,,,Czechia
+92,2022-06-04,20:45,UEFA Nations League,League A,Sat,Home,D,1,1,de Germany,33.0,23754.0,Alessandro Florenzi,4-3-3,Srdjan Stojanovic,Match Report,,11.0,2.0,0,0,3.0,0,Italy,,,Germany
+93,2022-06-07,20:45,UEFA Nations League,League A,Tue,Home,W,2,1,hu Hungary,56.0,14942.0,Gianluigi Donnarumma,4-3-3,Sandro Schärer,Match Report,,17.0,6.0,0,0,4.0,0,Italy,,,Hungary
+94,2022-06-11,19:45,UEFA Nations League,League A,Sat,Away,D,0,0,eng England,41.0,1782.0,Gianluigi Donnarumma,4-3-3,Szymon Marciniak,Match Report,,8.0,3.0,0,0,4.0,1,Italy,,,England
+95,2022-06-14,20:45,UEFA Nations League,League A,Tue,Away,L,2,5,de Germany,35.0,44144.0,Gianluigi Donnarumma,4-3-3,István Kovács,Match Report,,14.0,6.0,0,0,4.0,0,Italy,,,Germany
+96,2022-09-23,20:45,UEFA Nations League,League A,Fri,Home,W,1,0,eng England,44.0,50640.0,Leonardo Bonucci,3-5-2,Jesús Gil,Match Report,,10.0,3.0,0,0,4.0,1,Italy,,,England
+97,2022-09-26,20:45,UEFA Nations League,League A,Mon,Away,W,2,0,hu Hungary,47.0,57300.0,Leonardo Bonucci,,Benoît Bastien,Match Report,,11.0,3.0,0,0,6.0,1,Italy,,,Hungary
+98,2023-06-15,20:45,UEFA Nations League,Semi-finals,Thu,Neutral,L,1,2,es Spain,38.0,24558.0,Leonardo Bonucci,3-5-2,Slavko Vinčič,Match Report,,8.0,3.0,1,1,5.0,0,Italy,,,Spain
+99,2023-06-18,15:00,UEFA Nations League,Third-place match,Sun,Neutral,W,3,2,nl Netherlands,40.0,21292.0,Gianluigi Donnarumma,4-3-3,Glenn Nyberg,Match Report,,13.0,3.0,0,0,4.0,0,Italy,,,Netherlands
+100,2022-06-04,18:00,UEFA Nations League,League A,Sat,Home,W,1,0,eng England,42.0,26935.0,Ádám Szalai,3-4-3,Artur Dias,Match Report,,11.0,6.0,1,1,4.0,1,Hungary,,,England
+101,2022-06-07,20:45,UEFA Nations League,League A,Tue,Away,L,1,2,it Italy,44.0,14942.0,Ádám Szalai,3-4-3,Sandro Schärer,Match Report,,12.0,4.0,0,0,4.0,0,Hungary,,,Italy
+102,2022-06-11,20:45,UEFA Nations League,League A,Sat,Home,D,1,1,de Germany,33.0,55948.0,Ádám Szalai,3-4-3,José Sánchez,Match Report,,11.0,7.0,0,0,0.0,0,Hungary,,,Germany
+103,2022-06-14,19:45,UEFA Nations League,League A,Tue,Away,W,4,0,eng England,31.0,28839.0,Ádám Szalai,3-4-3,Clément Turpin,Match Report,,6.0,5.0,0,0,2.0,1,Hungary,,,England
+104,2022-09-23,20:45,UEFA Nations League,League A,Fri,Away,W,1,0,de Germany,28.0,39513.0,Ádám Szalai,3-4-3,Slavko Vinčič,Match Report,,7.0,3.0,0,0,3.0,1,Hungary,,,Germany
+105,2022-09-26,20:45,UEFA Nations League,League A,Mon,Home,L,0,2,it Italy,53.0,57300.0,Ádám Szalai,3-4-3,Benoît Bastien,Match Report,,13.0,6.0,0,0,1.0,0,Hungary,,,Italy
+106,2022-06-04,20:45,UEFA Nations League,League A,Sat,Away,D,1,1,it Italy,67.0,23754.0,Manuel Neuer,4-2-3-1,Srdjan Stojanovic,Match Report,,12.0,4.0,0,0,1.0,0,Germany,,,Italy
+107,2022-06-07,20:45,UEFA Nations League,League A,Tue,Home,D,1,1,eng England,63.0,66289.0,Manuel Neuer,3-4-3,Carlos del Cerro,Match Report,,10.0,6.0,0,0,5.0,0,Germany,,,England
+108,2022-06-11,20:45,UEFA Nations League,League A,Sat,Away,D,1,1,hu Hungary,67.0,55948.0,Manuel Neuer,3-4-3,José Sánchez,Match Report,,6.0,1.0,0,0,6.0,0,Germany,,,Hungary
+109,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,W,5,2,it Italy,65.0,44144.0,Manuel Neuer,4-2-3-1,István Kovács,Match Report,,17.0,9.0,1,1,4.0,0,Germany,,,Italy
+110,2022-09-23,20:45,UEFA Nations League,League A,Fri,Home,L,0,1,hu Hungary,73.0,39513.0,Thomas Müller,4-2-3-1,Slavko Vinčič,Match Report,,10.0,3.0,0,0,2.0,0,Germany,,,Hungary
+111,2022-09-26,19:45,UEFA Nations League,League A,Mon,Away,D,3,3,eng England,59.0,78949.0,Joshua Kimmich,4-2-3-1,Danny Makkelie,Match Report,,10.0,4.0,1,1,5.0,0,Germany,,,England
+112,2022-06-04,18:00,UEFA Nations League,League A,Sat,Away,L,0,1,hu Hungary,58.0,26935.0,Harry Kane,3-4-3,Artur Dias,Match Report,,12.0,4.0,0,0,4.0,0,England,,,Hungary
+113,2022-06-07,20:45,UEFA Nations League,League A,Tue,Away,D,1,1,de Germany,37.0,66289.0,Harry Kane,4-2-3-1,Carlos del Cerro,Match Report,,15.0,6.0,0,0,5.0,0,England,,,Germany
+114,2022-06-11,19:45,UEFA Nations League,League A,Sat,Home,D,0,0,it Italy,59.0,1782.0,Tammy Abraham,4-2-3-1,Szymon Marciniak,Match Report,,12.0,4.0,0,0,3.0,1,England,,,Italy
+115,2022-06-14,19:45,UEFA Nations League,League A,Tue,Home,L,0,4,hu Hungary,69.0,28839.0,Harry Kane,4-3-3,Clément Turpin,Match Report,,10.0,2.0,0,0,1.0,0,England,,,Hungary
+116,2022-09-23,20:45,UEFA Nations League,League A,Fri,Away,L,0,1,it Italy,56.0,50640.0,Harry Kane,4-2-3-1,Jesús Gil,Match Report,,14.0,4.0,0,0,2.0,0,England,,,Italy
+117,2022-09-26,19:45,UEFA Nations League,League A,Mon,Home,D,3,3,de Germany,41.0,78949.0,Harry Kane,3-4-3,Danny Makkelie,Match Report,,13.0,8.0,1,1,1.0,0,England,,,Germany
+118,2022-06-03,20:45,UEFA Nations League,League A,Fri,Away,W,4,1,be Belgium,50.0,38327.0,Virgil van Dijk,3-4-1-2,José Sánchez,Match Report,,15.0,7.0,0,0,5.0,0,Netherlands,,,Belgium
+119,2022-06-08,19:45,UEFA Nations League,League A,Wed,Away,W,2,1,wls Wales,56.0,23395.0,Stefan de Vrij,3-4-3,Glenn Nyberg,Match Report,,8.0,2.0,0,0,2.0,0,Netherlands,,,Wales
+120,2022-06-11,20:45,UEFA Nations League,League A,Sat,Home,D,2,2,pl Poland,68.0,39382.0,Memphis,3-5-2,Halil Umut Meler,Match Report,,17.0,6.0,0,1,1.0,0,Netherlands,,,Poland
+121,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,W,3,2,wls Wales,60.0,32247.0,Matthijs de Ligt,3-4-3,Horațiu Fesnic,Match Report,,22.0,7.0,0,0,2.0,0,Netherlands,,,Wales
+122,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,W,2,0,pl Poland,59.0,56673.0,Virgil van Dijk,3-4-1-2,Alejandro Hernández,Match Report,,10.0,2.0,0,0,2.0,1,Netherlands,,,Poland
+123,2022-09-25,20:45,UEFA Nations League,League A,Sun,Home,W,1,0,be Belgium,46.0,52314.0,Virgil van Dijk,3-4-1-2,Anthony Taylor,Match Report,,13.0,5.0,0,0,4.0,1,Netherlands,,,Belgium
+124,2023-06-14,20:45,UEFA Nations League,Semi-finals,Wed,Neutral,L,2,4,hr Croatia,46.0,39359.0,Virgil van Dijk,4-3-3,István Kovács,Match Report,Required Extra Time,14.0,6.0,0,0,1.0,0,Netherlands,,,Croatia
+125,2023-06-18,15:00,UEFA Nations League,Third-place match,Sun,Neutral,L,2,3,it Italy,61.0,21292.0,Virgil van Dijk,4-2-3-1,Glenn Nyberg,Match Report,,19.0,6.0,0,0,0.0,0,Netherlands,,,Italy
+126,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,1,4,nl Netherlands,50.0,38327.0,Eden Hazard,3-4-3,José Sánchez,Match Report,,13.0,6.0,0,0,3.0,0,Belgium,,,Netherlands
+127,2022-06-08,20:45,UEFA Nations League,League A,Wed,Home,W,6,1,pl Poland,66.0,27409.0,Eden Hazard,3-4-3,Ivan Kružliak,Match Report,,18.0,11.0,0,0,0.0,0,Belgium,,,Poland
+128,2022-06-11,19:45,UEFA Nations League,League A,Sat,Away,D,1,1,wls Wales,64.0,27188.0,Kevin De Bruyne,3-4-3,Benoît Bastien,Match Report,,9.0,4.0,0,0,1.0,0,Belgium,,,Wales
+129,2022-06-14,20:45,UEFA Nations League,League A,Tue,Away,W,1,0,pl Poland,69.0,58803.0,Eden Hazard,3-4-3,Irfan Peljto,Match Report,,12.0,4.0,0,0,2.0,1,Belgium,,,Poland
+130,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,1,wls Wales,71.0,28463.0,Eden Hazard,3-4-3,Ali Palabıyık,Match Report,,19.0,4.0,0,0,2.0,0,Belgium,,,Wales
+131,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,L,0,1,nl Netherlands,54.0,52314.0,Eden Hazard,3-4-3,Anthony Taylor,Match Report,,11.0,4.0,0,0,4.0,0,Belgium,,,Netherlands
+132,2022-06-01,18:00,UEFA Nations League,League A,Wed,Home,W,2,1,wls Wales,55.0,35214.0,Robert Lewandowski,4-3-1-2,Rade Obrenović,Match Report,,15.0,3.0,0,0,1.0,0,Poland,,,Wales
+133,2022-06-08,20:45,UEFA Nations League,League A,Wed,Away,L,1,6,be Belgium,34.0,27409.0,Robert Lewandowski,4-2-3-1,Ivan Kružliak,Match Report,,6.0,2.0,0,0,5.0,0,Poland,,,Belgium
+134,2022-06-11,20:45,UEFA Nations League,League A,Sat,Away,D,2,2,nl Netherlands,32.0,39382.0,Grzegorz Krychowiak,4-4-2,Halil Umut Meler,Match Report,,5.0,3.0,0,0,4.0,0,Poland,,,Netherlands
+135,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,L,0,1,be Belgium,31.0,58803.0,Robert Lewandowski,4-4-2,Irfan Peljto,Match Report,,12.0,2.0,0,0,3.0,0,Poland,,,Belgium
+136,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,L,0,2,nl Netherlands,42.0,56673.0,Robert Lewandowski,3-4-3,Alejandro Hernández,Match Report,,6.0,2.0,0,0,0.0,0,Poland,,,Netherlands
+137,2022-09-25,19:45,UEFA Nations League,League A,Sun,Away,W,1,0,wls Wales,48.0,31520.0,Robert Lewandowski,3-4-3,Andris Treimanis,Match Report,,6.0,3.0,0,0,3.0,1,Poland,,,Wales
+0,2020-09-05,19:00,UEFA Nations League,League C,Sat,Away,W,1,0,ee Estonia,60.0,,Jaba Kankava,4-2-3-1,Donatas Rumšas,Match Report,,13.0,3.0,0,0,0.0,1,Georgia,,,Estonia
+1,2020-09-08,20:00,UEFA Nations League,League C,Tue,Home,D,1,1,mk N. Macedonia,53.0,,Jaba Kankava,4-2-3-1,Peter Kjærsgaard-Andersen,Match Report,,13.0,6.0,1,1,0.0,0,Georgia,,,N. Macedonia
+2,2020-10-11,20:00,UEFA Nations League,League C,Sun,Away,D,2,2,am Armenia,60.0,,Jaba Kankava,4-5-1,Ivan Bebek,Match Report,,14.0,6.0,0,0,2.0,0,Georgia,,,Armenia
+3,2020-10-14,20:45,UEFA Nations League,League C,Wed,Away,D,1,1,mk N. Macedonia,48.0,,Giorgi Loria,4-2-3-1,Bartosz Frankowski,Match Report,,10.0,4.0,0,0,1.0,0,Georgia,,,N. Macedonia
+4,2020-11-15,21:00,UEFA Nations League,League C,Sun,Home,L,1,2,am Armenia,71.0,,Jaba Kankava,4-2-3-1,Marco Guida,Match Report,,10.0,4.0,1,1,1.0,0,Georgia,,,Armenia
+5,2020-11-18,21:00,UEFA Nations League,League C,Wed,Home,D,0,0,ee Estonia,71.0,,Jaba Kankava,4-4-2,Irfan Peljto,Match Report,,12.0,2.0,0,0,0.0,1,Georgia,,,Estonia
+6,2020-09-04,21:45,UEFA Nations League,League C,Fri,Away,W,2,0,by Belarus,50.0,,Elseid Hysaj,4-1-4-1,Kristoffer Karlsson,Match Report,,11.0,4.0,0,0,2.0,1,Albania,,,Belarus
+7,2020-09-07,20:45,UEFA Nations League,League C,Mon,Home,L,0,1,lt Lithuania,57.0,,Elseid Hysaj,4-3-3,Serhiy Boiko,Match Report,,9.0,1.0,0,0,3.0,0,Albania,,,Lithuania
+8,2020-10-11,19:00,UEFA Nations League,League C,Sun,Away,D,0,0,kz Kazakhstan,56.0,,Etrit Berisha,4-1-4-1,Dumitru Muntean,Match Report,,13.0,5.0,0,0,2.0,1,Albania,,,Kazakhstan
+9,2020-10-14,19:00,UEFA Nations League,League C,Wed,Away,D,0,0,lt Lithuania,61.0,696.0,Etrit Berisha,4-2-3-1,Karim Abed,Match Report,,14.0,4.0,0,0,1.0,1,Albania,,,Lithuania
+10,2020-11-15,18:00,UEFA Nations League,League C,Sun,Home,W,3,1,kz Kazakhstan,60.0,,Etrit Berisha,3-4-3,Xavi Estrada,Match Report,,18.0,11.0,1,1,4.0,0,Albania,,,Kazakhstan
+11,2020-11-18,16:00,UEFA Nations League,League C,Wed,Home,W,3,2,by Belarus,45.0,,Etrit Berisha,4-3-3,Radu Petrescu,Match Report,,10.0,4.0,1,1,2.0,0,Albania,,,Belarus
+12,2020-09-04,20:45,UEFA Nations League,League B,Fri,Away,W,2,1,no Norway,60.0,,Martin Hinteregger,4-4-2,Mattias Gestranius,Match Report,,17.0,8.0,1,1,0.0,0,Austria,,,Norway
+13,2020-09-07,20:45,UEFA Nations League,League B,Mon,Home,L,2,3,ro Romania,63.0,,Julian Baumgartlinger,4-2-3-1,Glenn Nyberg,Match Report,,19.0,5.0,0,0,1.0,0,Austria,,,Romania
+14,2020-10-11,19:45,UEFA Nations League,League B,Sun,Away,W,1,0,nir Northern Ireland,56.0,600.0,Julian Baumgartlinger,4-4-2,Petr Ardeleánu,Match Report,,13.0,5.0,0,0,1.0,1,Austria,,,Northern Ireland
+15,2020-10-14,21:45,UEFA Nations League,League B,Wed,Away,W,1,0,ro Romania,49.0,,Julian Baumgartlinger,4-4-2,Daniel Stefański,Match Report,,9.0,3.0,0,0,2.0,1,Austria,,,Romania
+16,2020-11-15,20:45,UEFA Nations League,League B,Sun,Home,W,2,1,nir Northern Ireland,71.0,,Julian Baumgartlinger,4-4-2,Maurizio Mariani,Match Report,,11.0,3.0,0,0,1.0,0,Austria,,,Northern Ireland
+17,2020-11-18,20:45,UEFA Nations League,League B,Wed,Home,D,1,1,no Norway,68.0,,Julian Baumgartlinger,4-4-2,Benoît Bastien,Match Report,,21.0,6.0,0,0,3.0,0,Austria,,,Norway
+18,2020-09-04,21:45,UEFA Nations League,League B,Fri,Home,D,1,1,nir Northern Ireland,73.0,,Vlad Chiricheș,4-3-1-2,François Letexier,Match Report,,18.0,9.0,0,0,2.0,0,Romania,,,Northern Ireland
+19,2020-09-07,20:45,UEFA Nations League,League B,Mon,Away,W,3,2,at Austria,37.0,,Vlad Chiricheș,4-3-3,Glenn Nyberg,Match Report,,13.0,4.0,0,0,3.0,0,Romania,,,Austria
+20,2020-10-11,18:00,UEFA Nations League,League B,Sun,Away,L,0,4,no Norway,50.0,200.0,Ciprian Tătărușanu,4-3-3,Ivan Kružliak,Match Report,,12.0,3.0,0,0,6.0,0,Romania,,,Norway
+21,2020-10-14,21:45,UEFA Nations League,League B,Wed,Home,L,0,1,at Austria,51.0,,Ciprian Tătărușanu,4-3-3,Daniel Stefański,Match Report,,8.0,2.0,0,0,2.0,0,Romania,,,Austria
+22,2020-11-18,19:45,UEFA Nations League,League B,Wed,Away,D,1,1,nir Northern Ireland,59.0,1060.0,Ciprian Tătărușanu,3-4-3,Sandro Schärer,Match Report,,7.0,3.0,0,0,0.0,0,Romania,,,Northern Ireland
+23,2020-09-04,19:45,UEFA Nations League,League B,Fri,Home,D,1,1,il Israel,49.0,,Andrew Robertson,4-4-1-1,Slavko Vinčič,Match Report,,11.0,2.0,1,1,2.0,0,Scotland,,,Israel
+24,2020-09-07,20:45,UEFA Nations League,League B,Mon,Away,W,2,1,cz Czechia,49.0,,Andrew Robertson,4-3-3,Serdar Gözübüyük,Match Report,,6.0,3.0,1,1,1.0,0,Scotland,,,Czechia
+25,2020-10-11,19:45,UEFA Nations League,League B,Sun,Home,W,1,0,sk Slovakia,45.0,93.0,Andrew Robertson,4-3-3,Davide Massa,Match Report,,11.0,1.0,0,0,2.0,1,Scotland,,,Slovakia
+26,2020-10-14,19:45,UEFA Nations League,League B,Wed,Home,W,1,0,cz Czechia,31.0,299.0,John McGinn,3-4-1-2,Felix Zwayer,Match Report,,5.0,1.0,0,0,6.0,1,Scotland,,,Czechia
+27,2020-11-15,15:00,UEFA Nations League,League B,Sun,Away,L,0,1,sk Slovakia,50.0,,John McGinn,4-3-3,István Kovács,Match Report,,14.0,5.0,0,0,4.0,0,Scotland,,,Slovakia
+28,2020-11-18,21:45,UEFA Nations League,League B,Wed,Away,L,0,1,il Israel,51.0,,Andrew Robertson,4-3-3,Paweł Raczkowski,Match Report,,19.0,7.0,0,0,1.0,0,Scotland,,,Israel
+29,2020-09-04,20:45,UEFA Nations League,League B,Fri,Home,L,1,3,cz Czechia,41.0,,Juraj Kucka,4-2-3-1,Andris Treimanis,Match Report,,4.0,2.0,0,0,2.0,0,Slovakia,,,Czechia
+30,2020-09-07,21:45,UEFA Nations League,League B,Mon,Away,D,1,1,il Israel,35.0,,Juraj Kucka,4-3-3,Nikola Dabanović,Match Report,,6.0,3.0,0,0,5.0,0,Slovakia,,,Israel
+31,2020-10-11,19:45,UEFA Nations League,League B,Sun,Away,L,0,1,sct Scotland,55.0,93.0,Marek Hamšík,4-3-3,Davide Massa,Match Report,,9.0,2.0,0,0,0.0,0,Slovakia,,,Scotland
+32,2020-10-14,20:45,UEFA Nations League,League B,Wed,Home,L,2,3,il Israel,50.0,,Marek Hamšík,4-2-3-1,Alejandro Hernández,Match Report,,14.0,5.0,0,0,4.0,0,Slovakia,,,Israel
+33,2020-11-15,15:00,UEFA Nations League,League B,Sun,Home,W,1,0,sct Scotland,51.0,,Marek Hamšík,4-1-4-1,István Kovács,Match Report,,8.0,5.0,0,0,5.0,1,Slovakia,,,Scotland
+34,2020-11-18,20:45,UEFA Nations League,League B,Wed,Away,L,0,2,cz Czechia,50.0,,Marek Hamšík,4-1-4-1,Cüneyt Çakιr,Match Report,,7.0,2.0,0,0,4.0,0,Slovakia,,,Czechia
+35,2020-09-03,21:45,UEFA Nations League,League B,Thu,Away,W,1,0,tr Türkiye,41.0,,Ádám Szalai,4-2-3-1,Artur Dias,Match Report,,14.0,5.0,0,0,4.0,1,Hungary,,,Türkiye
+36,2020-09-06,18:00,UEFA Nations League,League B,Sun,Home,L,2,3,ru Russia,60.0,,Ádám Szalai,3-5-1-1,Maurizio Mariani,Match Report,,11.0,7.0,0,0,0.0,0,Hungary,,,Russia
+37,2020-10-11,20:45,UEFA Nations League,League B,Sun,Away,W,1,0,rs Serbia,42.0,,Péter Gulácsi,3-5-2,Sandro Schärer,Match Report,,4.0,3.0,0,0,3.0,1,Hungary,,,Serbia
+38,2020-10-14,21:45,UEFA Nations League,League B,Wed,Away,D,0,0,ru Russia,43.0,4821.0,Ádám Szalai,3-4-1-2,Michael Oliver,Match Report,,6.0,0.0,0,0,1.0,1,Hungary,,,Russia
+39,2020-11-15,20:45,UEFA Nations League,League B,Sun,Home,D,1,1,rs Serbia,51.0,,Nemanja Nikolić,3-4-3,Glenn Nyberg,Match Report,,16.0,5.0,0,0,3.0,0,Hungary,,,Serbia
+40,2020-11-18,20:45,UEFA Nations League,League B,Wed,Home,W,2,0,tr Türkiye,52.0,,Nemanja Nikolić,3-4-1-2,Ivan Kružliak,Match Report,,9.0,4.0,0,0,5.0,1,Hungary,,,Türkiye
+41,2020-09-03,21:45,UEFA Nations League,League B,Thu,Away,L,1,3,ru Russia,62.0,,Dušan Tadić,3-4-3,William Collum,Match Report,,15.0,6.0,0,0,1.0,0,Serbia,,,Russia
+42,2020-09-06,20:45,UEFA Nations League,League B,Sun,Home,D,0,0,tr Türkiye,42.0,,Aleksandar Kolarov,3-5-1-1,Aliaksei Kulbakou,Match Report,,9.0,1.0,0,0,4.0,1,Serbia,,,Türkiye
+43,2020-10-11,20:45,UEFA Nations League,League B,Sun,Home,L,0,1,hu Hungary,58.0,,Dušan Tadić,3-5-2,Sandro Schärer,Match Report,,14.0,4.0,0,0,2.0,0,Serbia,,,Hungary
+44,2020-10-14,21:45,UEFA Nations League,League B,Wed,Away,D,2,2,tr Türkiye,46.0,519.0,Aleksandar Kolarov,3-5-2,Georgi Kabakov,Match Report,,19.0,7.0,1,1,5.0,0,Serbia,,,Türkiye
+45,2020-11-15,20:45,UEFA Nations League,League B,Sun,Away,D,1,1,hu Hungary,49.0,,Dušan Tadić,3-5-2,Glenn Nyberg,Match Report,,13.0,4.0,0,0,3.0,0,Serbia,,,Hungary
+46,2020-11-18,20:45,UEFA Nations League,League B,Wed,Home,W,5,0,ru Russia,44.0,,Aleksandar Mitrović,3-5-2,Anthony Taylor,Match Report,,12.0,8.0,0,0,7.0,1,Serbia,,,Russia
+47,2020-09-04,20:45,UEFA Nations League,League A,Fri,Home,D,1,1,ba Bosnia & Herz'na,61.0,,Leonardo Bonucci,4-3-3,Anastasios Sidiropoulos,Match Report,,20.0,4.0,0,0,3.0,0,Italy,,,Bosnia & Herz'na
+48,2020-09-07,20:45,UEFA Nations League,League A,Mon,Away,W,1,0,nl Netherlands,57.0,,Giorgio Chiellini,4-3-3,Felix Brych,Match Report,,18.0,4.0,0,0,3.0,1,Italy,,,Netherlands
+49,2020-10-11,20:45,UEFA Nations League,League A,Sun,Away,D,0,0,pl Poland,61.0,9200.0,Leonardo Bonucci,4-3-3,José Sánchez,Match Report,,17.0,2.0,0,0,2.0,1,Italy,,,Poland
+50,2020-10-14,20:45,UEFA Nations League,League A,Wed,Home,D,1,1,nl Netherlands,55.0,623.0,Giorgio Chiellini,4-1-4-1,Anthony Taylor,Match Report,,7.0,6.0,0,0,2.0,0,Italy,,,Netherlands
+51,2020-11-15,20:45,UEFA Nations League,League A,Sun,Home,W,2,0,pl Poland,62.0,,Alessandro Florenzi,4-3-3,Clément Turpin,Match Report,,19.0,4.0,1,1,0.0,1,Italy,,,Poland
+52,2020-11-18,20:45,UEFA Nations League,League A,Wed,Away,W,2,0,ba Bosnia & Herz'na,64.0,,Alessandro Florenzi,4-3-3,Artur Dias,Match Report,,17.0,4.0,0,0,1.0,1,Italy,,,Bosnia & Herz'na
+53,2021-10-06,20:45,UEFA Nations League,Semi-finals,Wed,Neutral,L,1,2,es Spain,25.0,33524.0,Leonardo Bonucci,4-3-3,Sergey Karasev,Match Report,,0.0,0.0,0,0,0.0,0,Italy,,,Spain
+54,2021-10-10,15:00,UEFA Nations League,Third-place match,Sun,Neutral,W,2,1,be Belgium,40.0,16724.0,Gianluigi Donnarumma,4-3-3,Srđan Jovanović,Match Report,,0.0,0.0,1,1,0.0,0,Italy,,,Belgium
+55,2020-09-04,20:45,UEFA Nations League,League A,Fri,Home,W,1,0,pl Poland,64.0,,Virgil van Dijk,4-3-3,Georgi Kabakov,Match Report,,14.0,4.0,0,0,1.0,1,Netherlands,,,Poland
+56,2020-09-07,20:45,UEFA Nations League,League A,Mon,Home,L,0,1,it Italy,43.0,,Virgil van Dijk,4-3-3,Felix Brych,Match Report,,11.0,3.0,0,0,3.0,0,Netherlands,,,Italy
+57,2020-10-11,18:00,UEFA Nations League,League A,Sun,Away,D,0,0,ba Bosnia & Herz'na,69.0,1600.0,Virgil van Dijk,4-3-3,István Kovács,Match Report,,15.0,4.0,0,0,1.0,1,Netherlands,,,Bosnia & Herz'na
+58,2020-10-14,20:45,UEFA Nations League,League A,Wed,Away,D,1,1,it Italy,45.0,623.0,Virgil van Dijk,4-1-4-1,Anthony Taylor,Match Report,,14.0,4.0,0,0,5.0,0,Netherlands,,,Italy
+59,2020-11-15,18:00,UEFA Nations League,League A,Sun,Home,W,3,1,ba Bosnia & Herz'na,60.0,,Georginio Wijnaldum,4-3-3,François Letexier,Match Report,,17.0,10.0,0,0,1.0,0,Netherlands,,,Bosnia & Herz'na
+60,2020-11-18,20:45,UEFA Nations League,League A,Wed,Away,W,2,1,pl Poland,54.0,,Georginio Wijnaldum,4-3-3,Orel Grinfeeld,Match Report,,19.0,6.0,1,1,1.0,0,Netherlands,,,Poland
+61,2020-09-04,20:45,UEFA Nations League,League A,Fri,Away,L,0,1,nl Netherlands,36.0,,Kamil Glik,4-4-1-1,Georgi Kabakov,Match Report,,2.0,1.0,0,0,3.0,0,Poland,,,Netherlands
+62,2020-09-07,20:45,UEFA Nations League,League A,Mon,Away,W,2,1,ba Bosnia & Herz'na,55.0,,Kamil Glik,4-2-3-1,Cüneyt Çakιr,Match Report,,14.0,5.0,0,0,1.0,0,Poland,,,Bosnia & Herz'na
+63,2020-10-11,20:45,UEFA Nations League,League A,Sun,Home,D,0,0,it Italy,39.0,9200.0,Robert Lewandowski,4-2-3-1,José Sánchez,Match Report,,4.0,2.0,0,0,2.0,1,Poland,,,Italy
+64,2020-10-14,20:45,UEFA Nations League,League A,Wed,Home,W,3,0,ba Bosnia & Herz'na,65.0,8152.0,Robert Lewandowski,4-2-3-1,Craig Pawson,Match Report,,20.0,8.0,0,0,2.0,1,Poland,,,Bosnia & Herz'na
+65,2020-11-15,20:45,UEFA Nations League,League A,Sun,Away,L,0,2,it Italy,38.0,,Robert Lewandowski,4-2-3-1,Clément Turpin,Match Report,,2.0,0.0,0,0,2.0,0,Poland,,,Italy
+66,2020-11-18,20:45,UEFA Nations League,League A,Wed,Home,L,1,2,nl Netherlands,46.0,,Robert Lewandowski,4-2-3-1,Orel Grinfeeld,Match Report,,9.0,2.0,0,0,4.0,0,Poland,,,Netherlands
+67,2020-09-05,20:45,UEFA Nations League,League A,Sat,Away,W,2,0,dk Denmark,49.0,,Jan Vertonghen,3-4-3,Sandro Schärer,Match Report,,11.0,5.0,0,0,1.0,1,Belgium,,,Denmark
+68,2020-09-08,20:45,UEFA Nations League,League A,Tue,Home,W,5,1,is Iceland,75.0,,Toby Alderweireld,3-4-3,Paweł Raczkowski,Match Report,,20.0,12.0,0,0,2.0,0,Belgium,,,Iceland
+69,2020-10-11,17:00,UEFA Nations League,League A,Sun,Away,L,1,2,eng England,53.0,,Kevin De Bruyne,3-4-3,Tobias Stieler,Match Report,,11.0,2.0,1,1,1.0,0,Belgium,,,England
+70,2020-10-14,18:45,UEFA Nations League,League A,Wed,Away,W,2,1,is Iceland,67.0,60.0,Romelu Lukaku,3-4-3,Andris Treimanis,Match Report,,9.0,2.0,1,1,1.0,0,Belgium,,,Iceland
+71,2020-11-15,20:45,UEFA Nations League,League A,Sun,Home,W,2,0,eng England,45.0,,Jan Vertonghen,3-4-3,Danny Makkelie,Match Report,,8.0,3.0,0,0,2.0,1,Belgium,,,England
+72,2020-11-18,20:45,UEFA Nations League,League A,Wed,Home,W,4,2,dk Denmark,52.0,,Jan Vertonghen,3-4-3,Slavko Vinčič,Match Report,,8.0,5.0,0,0,2.0,0,Belgium,,,Denmark
+73,2021-10-07,20:45,UEFA Nations League,Semi-finals,Thu,Neutral,L,2,3,fr France,51.0,12409.0,Eden Hazard,3-4-3,Daniel Siebert,Match Report,,0.0,0.0,0,0,0.0,0,Belgium,,,France
+74,2021-10-10,15:00,UEFA Nations League,Third-place match,Sun,Neutral,L,1,2,it Italy,60.0,16724.0,Jan Vertonghen,3-4-3,Srđan Jovanović,Match Report,,0.0,0.0,0,0,0.0,0,Belgium,,,Italy
+75,2020-09-05,20:45,UEFA Nations League,League A,Sat,Home,L,0,2,be Belgium,51.0,,Simon Kjær,4-2-3-1,Sandro Schärer,Match Report,,8.0,1.0,0,0,3.0,0,Denmark,,,Belgium
+76,2020-09-08,20:45,UEFA Nations League,League A,Tue,Home,D,0,0,eng England,46.0,,Kasper Schmeichel,4-3-3,István Kovács,Match Report,,11.0,2.0,0,0,1.0,1,Denmark,,,England
+77,2020-10-11,18:45,UEFA Nations League,League A,Sun,Away,W,3,0,is Iceland,66.0,60.0,Simon Kjær,4-3-3,Bojan Pandzic,Match Report,,16.0,4.0,0,0,3.0,1,Denmark,,,Iceland
+78,2020-10-14,19:45,UEFA Nations League,League A,Wed,Away,W,1,0,eng England,56.0,,Simon Kjær,4-3-3,Jesús Gil,Match Report,,10.0,4.0,1,1,4.0,1,Denmark,,,England
+79,2020-11-15,20:45,UEFA Nations League,League A,Sun,Home,W,2,1,is Iceland,58.0,141.0,Simon Kjær,4-3-2-1,Halil Umut Meler,Match Report,,11.0,3.0,2,2,3.0,0,Denmark,,,Iceland
+80,2020-11-18,20:45,UEFA Nations League,League A,Wed,Away,L,2,4,be Belgium,48.0,,Simon Kjær,4-3-3,Slavko Vinčič,Match Report,,8.0,3.0,0,0,1.0,0,Denmark,,,Belgium
+81,2020-09-05,16:00,UEFA Nations League,League A,Sat,Away,W,1,0,is Iceland,78.0,,Harry Kane,5-3-2,Srđan Jovanović,Match Report,,13.0,4.0,1,1,0.0,1,England,,,Iceland
+82,2020-09-08,20:45,UEFA Nations League,League A,Tue,Away,D,0,0,dk Denmark,54.0,,Harry Kane,4-3-3,István Kovács,Match Report,,6.0,2.0,0,0,2.0,1,England,,,Denmark
+83,2020-10-11,17:00,UEFA Nations League,League A,Sun,Home,W,2,1,be Belgium,47.0,,Jordan Henderson,3-4-3,Tobias Stieler,Match Report,,9.0,3.0,1,1,1.0,0,England,,,Belgium
+84,2020-10-14,19:45,UEFA Nations League,League A,Wed,Home,L,0,1,dk Denmark,44.0,,Harry Kane,5-3-2,Jesús Gil,Match Report,,15.0,5.0,0,0,3.0,0,England,,,Denmark
+85,2020-11-15,20:45,UEFA Nations League,League A,Sun,Away,L,0,2,be Belgium,55.0,,Harry Kane,3-4-3,Danny Makkelie,Match Report,,16.0,3.0,0,0,1.0,0,England,,,Belgium
+86,2020-11-18,19:45,UEFA Nations League,League A,Wed,Home,W,4,0,is Iceland,78.0,,Harry Kane,3-5-2,Fábio Veríssimo,Match Report,,25.0,10.0,0,0,0.0,1,England,,,Iceland
+87,2020-09-05,20:45,UEFA Nations League,League A,Sat,Away,W,1,0,se Sweden,49.0,,Hugo Lloris,3-4-1-2,Szymon Marciniak,Match Report,,7.0,1.0,0,1,3.0,1,France,,,Sweden
+88,2020-09-08,20:45,UEFA Nations League,League A,Tue,Home,W,4,2,hr Croatia,43.0,,Hugo Lloris,3-4-1-2,Ovidiu Hațegan,Match Report,,13.0,6.0,1,1,2.0,0,France,,,Croatia
+89,2020-10-11,20:45,UEFA Nations League,League A,Sun,Home,D,0,0,pt Portugal,50.0,1000.0,Hugo Lloris,4-2-1-1-2,Carlos del Cerro,Match Report,,10.0,3.0,0,0,3.0,1,France,,,Portugal
+90,2020-10-14,20:45,UEFA Nations League,League A,Wed,Away,W,2,1,hr Croatia,48.0,6266.0,Hugo Lloris,4-3-1-2,Björn Kuipers,Match Report,,5.0,3.0,0,0,3.0,0,France,,,Croatia
+91,2020-11-14,19:45,UEFA Nations League,League A,Sat,Away,W,1,0,pt Portugal,50.0,,Hugo Lloris,4-3-3,Tobias Stieler,Match Report,,13.0,7.0,0,0,6.0,1,France,,,Portugal
+92,2020-11-17,20:45,UEFA Nations League,League A,Tue,Home,W,4,2,se Sweden,52.0,,Hugo Lloris,4-4-2,Aliaksei Kulbakou,Match Report,,16.0,8.0,0,0,0.0,0,France,,,Sweden
+93,2021-10-07,20:45,UEFA Nations League,Semi-finals,Thu,Neutral,W,3,2,be Belgium,49.0,12409.0,Hugo Lloris,3-4-3,Daniel Siebert,Match Report,,0.0,0.0,1,1,0.0,0,France,,,Belgium
+94,2021-10-10,20:45,UEFA Nations League,Final,Sun,Neutral,W,2,1,es Spain,36.0,31511.0,Hugo Lloris,3-4-1-2,Anthony Taylor,Match Report,,0.0,0.0,0,0,0.0,0,France,,,Spain
+95,2020-09-05,19:45,UEFA Nations League,League A,Sat,Home,W,4,1,hr Croatia,57.0,,João Moutinho,4-3-3,Davide Massa,Match Report,,26.0,10.0,0,0,1.0,0,Portugal,,,Croatia
+96,2020-09-08,20:45,UEFA Nations League,League A,Tue,Away,W,2,0,se Sweden,67.0,,Cristiano Ronaldo,4-3-3,Danny Makkelie,Match Report,,21.0,9.0,0,0,1.0,1,Portugal,,,Sweden
+97,2020-10-11,20:45,UEFA Nations League,League A,Sun,Away,D,0,0,fr France,51.0,1000.0,Cristiano Ronaldo,4-3-3,Carlos del Cerro,Match Report,,10.0,3.0,0,0,3.0,1,Portugal,,,France
+98,2020-10-14,19:45,UEFA Nations League,League A,Wed,Home,W,3,0,se Sweden,49.0,5000.0,Pepe,4-1-4-1,Srđan Jovanović,Match Report,,17.0,6.0,0,0,3.0,1,Portugal,,,Sweden
+99,2020-11-14,19:45,UEFA Nations League,League A,Sat,Home,L,0,1,fr France,50.0,,Cristiano Ronaldo,4-2-3-1,Tobias Stieler,Match Report,,18.0,6.0,0,0,6.0,0,Portugal,,,France
+100,2020-11-17,20:45,UEFA Nations League,League A,Tue,Away,W,3,2,hr Croatia,60.0,,Cristiano Ronaldo,4-3-3,Michael Oliver,Match Report,,17.0,8.0,0,0,1.0,0,Portugal,,,Croatia
+101,2020-09-05,19:45,UEFA Nations League,League A,Sat,Away,L,1,4,pt Portugal,43.0,,Domagoj Vida,4-2-3-1,Davide Massa,Match Report,,5.0,2.0,0,0,7.0,0,Croatia,,,Portugal
+102,2020-09-08,20:45,UEFA Nations League,League A,Tue,Away,L,2,4,fr France,57.0,,Ivan Perišić,4-3-3,Ovidiu Hațegan,Match Report,,11.0,4.0,0,0,3.0,0,Croatia,,,France
+103,2020-10-11,18:00,UEFA Nations League,League A,Sun,Home,W,2,1,se Sweden,54.0,2020.0,Luka Modrić,4-3-3,John Beaton,Match Report,,14.0,7.0,0,0,2.0,0,Croatia,,,Sweden
+104,2020-10-14,20:45,UEFA Nations League,League A,Wed,Home,L,1,2,fr France,52.0,6266.0,Luka Modrić,4-2-3-1,Björn Kuipers,Match Report,,10.0,4.0,0,0,1.0,0,Croatia,,,France
+105,2020-11-14,20:45,UEFA Nations League,League A,Sat,Away,L,1,2,se Sweden,56.0,,Luka Modrić,4-2-3-1,Daniel Siebert,Match Report,,8.0,3.0,0,0,4.0,0,Croatia,,,Sweden
+106,2020-11-17,20:45,UEFA Nations League,League A,Tue,Home,L,2,3,pt Portugal,41.0,,Luka Modrić,4-1-4-1,Michael Oliver,Match Report,,7.0,3.0,0,0,5.0,0,Croatia,,,Portugal
+107,2020-09-05,20:45,UEFA Nations League,League A,Sat,Home,L,0,1,fr France,51.0,,Sebastian Larsson,4-4-2,Szymon Marciniak,Match Report,,11.0,3.0,0,0,0.0,0,Sweden,,,France
+108,2020-09-08,20:45,UEFA Nations League,League A,Tue,Home,L,0,2,pt Portugal,33.0,,Marcus Berg,4-4-2,Danny Makkelie,Match Report,,8.0,1.0,0,0,6.0,0,Sweden,,,Portugal
+109,2020-10-11,18:00,UEFA Nations League,League A,Sun,Away,L,1,2,hr Croatia,46.0,2020.0,Marcus Berg,4-4-2,John Beaton,Match Report,,14.0,3.0,0,0,4.0,0,Sweden,,,Croatia
+110,2020-10-14,19:45,UEFA Nations League,League A,Wed,Away,L,0,3,pt Portugal,51.0,5000.0,Marcus Berg,4-4-2,Srđan Jovanović,Match Report,,8.0,3.0,0,0,3.0,0,Sweden,,,Portugal
+111,2020-11-14,20:45,UEFA Nations League,League A,Sat,Home,W,2,1,hr Croatia,44.0,,Marcus Berg,4-4-2,Daniel Siebert,Match Report,,11.0,6.0,0,0,3.0,0,Sweden,,,Croatia
+112,2020-11-17,20:45,UEFA Nations League,League A,Tue,Away,L,2,4,fr France,48.0,,Marcus Berg,4-4-2,Aliaksei Kulbakou,Match Report,,6.0,2.0,0,0,4.0,0,Sweden,,,France
+113,2020-09-03,20:45,UEFA Nations League,League A,Thu,Away,D,1,1,de Germany,59.0,,Sergio Ramos,4-3-3,Daniele Orsato,Match Report,,12.0,5.0,0,0,7.0,0,Spain,,,Germany
+114,2020-09-06,20:45,UEFA Nations League,League A,Sun,Home,W,4,0,ua Ukraine,70.0,,Sergio Ramos,4-4-2,Benoît Bastien,Match Report,,25.0,10.0,1,1,2.0,1,Spain,,,Ukraine
+115,2020-10-10,20:45,UEFA Nations League,League A,Sat,Home,W,1,0,ch Switzerland,60.0,,Sergio Ramos,4-3-3,Ali Palabıyık,Match Report,,12.0,2.0,0,0,1.0,1,Spain,,,Switzerland
+116,2020-10-13,21:45,UEFA Nations League,League A,Tue,Away,L,0,1,ua Ukraine,72.0,10495.0,Sergio Ramos,4-3-3,Paweł Gil,Match Report,,21.0,8.0,0,0,0.0,0,Spain,,,Ukraine
+117,2020-11-14,20:45,UEFA Nations League,League A,Sat,Away,D,1,1,ch Switzerland,71.0,,Sergio Ramos,4-2-3-1,William Collum,Match Report,,20.0,7.0,0,2,2.0,0,Spain,,,Switzerland
+118,2020-11-17,20:45,UEFA Nations League,League A,Tue,Home,W,6,0,de Germany,70.0,,Sergio Ramos,4-2-3-1,Andreas Ekberg,Match Report,,23.0,10.0,0,0,0.0,1,Spain,,,Germany
+119,2021-10-06,20:45,UEFA Nations League,Semi-finals,Wed,Neutral,W,2,1,it Italy,75.0,33524.0,Sergio Busquets,4-3-3,Sergey Karasev,Match Report,,0.0,0.0,0,0,0.0,0,Spain,,,Italy
+120,2021-10-10,20:45,UEFA Nations League,Final,Sun,Neutral,L,1,2,fr France,64.0,31511.0,Sergio Busquets,4-3-3,Anthony Taylor,Match Report,,0.0,0.0,0,0,0.0,0,Spain,,,France
+121,2020-09-03,20:45,UEFA Nations League,League A,Thu,Home,D,1,1,es Spain,41.0,,Toni Kroos,4-2-3-1,Daniele Orsato,Match Report,,10.0,7.0,0,0,4.0,0,Germany,,,Spain
+122,2020-09-06,20:45,UEFA Nations League,League A,Sun,Away,D,1,1,ch Switzerland,53.0,,Toni Kroos,3-4-3,Michael Oliver,Match Report,,14.0,4.0,0,0,5.0,0,Germany,,,Switzerland
+123,2020-10-10,21:45,UEFA Nations League,League A,Sat,Away,W,2,1,ua Ukraine,73.0,17753.0,Manuel Neuer,3-4-3,Orel Grinfeeld,Match Report,,17.0,12.0,0,0,2.0,0,Germany,,,Ukraine
+124,2020-10-13,20:45,UEFA Nations League,League A,Tue,Home,D,3,3,ch Switzerland,63.0,,Manuel Neuer,4-2-3-1,Ruddy Buquet,Match Report,,18.0,7.0,0,0,5.0,0,Germany,,,Switzerland
+125,2020-11-14,20:45,UEFA Nations League,League A,Sat,Home,W,3,1,ua Ukraine,56.0,,Manuel Neuer,3-4-3,Ovidiu Hațegan,Match Report,,20.0,6.0,0,0,0.0,0,Germany,,,Ukraine
+126,2020-11-17,20:45,UEFA Nations League,League A,Tue,Away,L,0,6,es Spain,30.0,,Manuel Neuer,4-3-3,Andreas Ekberg,Match Report,,2.0,0.0,0,0,4.0,0,Germany,,,Spain
+127,2020-09-03,21:45,UEFA Nations League,League A,Thu,Away,L,1,2,ua Ukraine,56.0,,Granit Xhaka,5-4-1,Andreas Ekberg,Match Report,,9.0,2.0,0,0,2.0,0,Switzerland,,,Ukraine
+128,2020-09-06,20:45,UEFA Nations League,League A,Sun,Home,D,1,1,de Germany,47.0,,Granit Xhaka,5-4-1,Michael Oliver,Match Report,,20.0,6.0,0,0,3.0,0,Switzerland,,,Germany
+129,2020-10-10,20:45,UEFA Nations League,League A,Sat,Away,L,0,1,es Spain,40.0,,Granit Xhaka,5-3-2,Ali Palabıyık,Match Report,,4.0,2.0,0,0,1.0,0,Switzerland,,,Spain
+130,2020-10-13,20:45,UEFA Nations League,League A,Tue,Away,D,3,3,de Germany,37.0,,Granit Xhaka,4-4-2,Ruddy Buquet,Match Report,,13.0,8.0,0,0,4.0,0,Switzerland,,,Germany
+131,2020-11-14,20:45,UEFA Nations League,League A,Sat,Home,D,1,1,es Spain,29.0,,Granit Xhaka,4-4-1-1,William Collum,Match Report,,7.0,4.0,0,0,4.0,0,Switzerland,,,Spain
+132,2020-09-03,21:45,UEFA Nations League,League A,Thu,Home,W,2,1,ch Switzerland,44.0,,Andriy Pyatov,4-2-3-1,Andreas Ekberg,Match Report,,14.0,5.0,0,0,1.0,0,Ukraine,,,Switzerland
+133,2020-09-06,20:45,UEFA Nations League,League A,Sun,Away,L,0,4,es Spain,30.0,,Andriy Pyatov,4-2-3-1,Benoît Bastien,Match Report,,4.0,2.0,0,0,6.0,0,Ukraine,,,Spain
+134,2020-10-10,21:45,UEFA Nations League,League A,Sat,Home,L,1,2,de Germany,27.0,17753.0,Andriy Yarmolenko,4-2-3-1,Orel Grinfeeld,Match Report,,9.0,3.0,1,1,10.0,0,Ukraine,,,Germany
+135,2020-10-13,21:45,UEFA Nations League,League A,Tue,Home,W,1,0,es Spain,28.0,10495.0,Andriy Yarmolenko,4-3-3,Paweł Gil,Match Report,,3.0,1.0,0,0,8.0,1,Ukraine,,,Spain
+136,2020-11-14,20:45,UEFA Nations League,League A,Sat,Away,L,1,3,de Germany,45.0,,Andriy Pyatov,4-3-3,Ovidiu Hațegan,Match Report,,6.0,1.0,0,0,3.0,0,Ukraine,,,Germany
+0,2021-03-24,20:00,WCQ,First round,Wed,Away,L,2,4,tr Türkiye,66.0,,Georginio Wijnaldum,4-3-3,Michael Oliver,Match Report,,20.0,9.0,0,1,1.0,0,Netherlands,,,Türkiye
+1,2021-03-27,18:00,WCQ,First round,Sat,Home,W,2,0,lv Latvia,77.0,5000.0,Georginio Wijnaldum,4-3-3,Stéphanie Frappart,Match Report,,36.0,11.0,0,0,0.0,1,Netherlands,,,Latvia
+2,2021-03-30,20:45,WCQ,First round,Tue,Away,W,7,0,gi Gibraltar,80.0,335.0,Georginio Wijnaldum,4-3-3,João Pinheiro,Match Report,,35.0,16.0,0,0,0.0,1,Netherlands,,,Gibraltar
+3,2021-09-01,20:45,WCQ,First round,Wed,Away,D,1,1,no Norway,65.0,6711.0,Virgil van Dijk,4-3-3,Szymon Marciniak,Match Report,,17.0,6.0,0,0,1.0,0,Netherlands,,,Norway
+4,2021-09-04,20:45,WCQ,First round,Sat,Home,W,4,0,me Montenegro,72.0,20458.0,Georginio Wijnaldum,4-3-3,Jesús Gil,Match Report,,28.0,12.0,1,1,1.0,1,Netherlands,,,Montenegro
+5,2021-09-07,20:45,WCQ,First round,Tue,Home,W,6,1,tr Türkiye,67.0,31389.0,Virgil van Dijk,4-3-3,Daniele Orsato,Match Report,,29.0,12.0,1,1,1.0,0,Netherlands,,,Türkiye
+6,2021-10-08,21:45,WCQ,First round,Fri,Away,W,1,0,lv Latvia,78.0,4711.0,Virgil van Dijk,4-3-3,Andy Madley,Match Report,,19.0,4.0,0,0,1.0,1,Netherlands,,,Latvia
+7,2021-10-11,20:45,WCQ,First round,Mon,Home,W,6,0,gi Gibraltar,82.0,31583.0,Virgil van Dijk,4-3-3,Vitaly Meshkov,Match Report,,31.0,12.0,1,2,0.0,1,Netherlands,,,Gibraltar
+8,2021-11-13,20:45,WCQ,First round,Sat,Away,D,2,2,me Montenegro,74.0,1844.0,Virgil van Dijk,4-3-3,Carlos del Cerro,Match Report,,9.0,3.0,1,1,1.0,0,Netherlands,,,Montenegro
+9,2021-11-16,20:45,WCQ,First round,Tue,Home,W,2,0,no Norway,65.0,,Virgil van Dijk,4-3-3,Clément Turpin,Match Report,,10.0,5.0,0,0,0.0,1,Netherlands,,,Norway
+12,2022-11-21,19:00,World Cup,Group stage,Mon,Neutral,W,2,0,sn Senegal,54.0,41721.0,Virgil van Dijk,3-4-1-2,Wilton Sampaio,Match Report,,10.0,3.0,0,0,4.0,1,Netherlands,0.7,0.9,Senegal
+13,2022-11-25,19:00,World Cup,Group stage,Fri,Neutral,D,1,1,ec Ecuador,54.0,44833.0,Virgil van Dijk,3-4-1-2,Mustapha Ghorbal,Match Report,,2.0,1.0,0,0,3.0,0,Netherlands,0.1,1.7,Ecuador
+14,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,W,2,0,qa Qatar,63.0,66784.0,Virgil van Dijk,3-4-1-2,Bakary Papa Gassama,Match Report,,13.0,4.0,0,0,3.0,1,Netherlands,1.6,0.1,Qatar
+15,2022-12-03,18:00,World Cup,Round of 16,Sat,Neutral,W,3,1,us United States,42.0,44846.0,Virgil van Dijk,3-4-1-2,Wilton Sampaio,Match Report,,11.0,6.0,0,0,5.0,0,Netherlands,1.7,1.5,United States
+16,2022-12-09,22:00,World Cup,Quarter-finals,Fri,Neutral,D,2 (3),2 (4),ar Argentina,52.0,88235.0,Virgil van Dijk,3-4-1-2,Antonio Matéu,Match Report,Argentina won on penalty kicks following extra time,6.0,2.0,0,0,3.0,0,Netherlands,0.6,1.9,Argentina
+17,2021-03-25,19:45,WCQ,First round,Thu,Home,W,5,0,sm San Marino,85.0,,Raheem Sterling,4-2-3-1,Kirill Levnikov,Match Report,,32.0,15.0,0,0,0.0,1,England,,,San Marino
+18,2021-03-28,18:00,WCQ,First round,Sun,Away,W,2,0,al Albania,71.0,200.0,Harry Kane,4-3-3,Orel Grinfeeld,Match Report,,9.0,4.0,0,0,0.0,1,England,,,Albania
+19,2021-03-31,19:45,WCQ,First round,Wed,Home,W,2,1,pl Poland,63.0,,Harry Kane,4-3-3,Björn Kuipers,Match Report,,10.0,4.0,1,1,0.0,0,England,,,Poland
+20,2021-09-02,20:45,WCQ,First round,Thu,Away,W,4,0,hu Hungary,64.0,58260.0,Harry Kane,4-2-3-1,Cüneyt Çakιr,Match Report,,12.0,8.0,0,0,1.0,1,England,,,Hungary
+21,2021-09-05,17:00,WCQ,First round,Sun,Home,W,4,0,ad Andorra,88.0,67171.0,Jordan Henderson,4-3-3,Anastasios Papapetrou,Match Report,,20.0,6.0,1,1,1.0,1,England,,,Andorra
+22,2021-09-08,20:45,WCQ,First round,Wed,Away,D,1,1,pl Poland,63.0,56212.0,Harry Kane,4-2-3-1,Daniel Siebert,Match Report,,13.0,2.0,0,0,3.0,0,England,,,Poland
+23,2021-10-09,20:45,WCQ,First round,Sat,Away,W,5,0,ad Andorra,86.0,2285.0,Kieran Trippier,4-3-3,Kateryna Monzul,Match Report,,17.0,8.0,0,1,0.0,1,England,,,Andorra
+24,2021-10-12,19:45,WCQ,First round,Tue,Home,D,1,1,hu Hungary,64.0,69380.0,Harry Kane,4-3-3,Alejandro Hernández,Match Report,,11.0,5.0,0,0,0.0,0,England,,,Hungary
+25,2021-11-12,19:45,WCQ,First round,Fri,Home,W,5,0,al Albania,64.0,80366.0,Harry Kane,3-4-3,Ruddy Buquet,Match Report,,15.0,6.0,0,0,4.0,1,England,,,Albania
+26,2021-11-15,20:45,WCQ,First round,Mon,Away,W,10,0,sm San Marino,85.0,,Harry Kane,4-3-3,Rade Obrenović,Match Report,,22.0,13.0,2,2,1.0,1,England,,,San Marino
+29,2022-11-21,16:00,World Cup,Group stage,Mon,Neutral,W,6,2,ir IR Iran,77.0,45334.0,Harry Kane,4-2-3-1,Raphael Claus,Match Report,,13.0,7.0,0,0,1.0,0,England,2.1,1.4,IR Iran
+30,2022-11-25,22:00,World Cup,Group stage,Fri,Neutral,D,0,0,us United States,55.0,68463.0,Harry Kane,4-2-3-1,Jesús Valenzuela,Match Report,,8.0,3.0,0,0,1.0,1,England,0.8,0.6,United States
+31,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,W,3,0,wls Wales,64.0,44297.0,Harry Kane,4-3-3,Slavko Vinčič,Match Report,,18.0,7.0,0,0,1.0,1,England,2.4,0.3,Wales
+32,2022-12-04,22:00,World Cup,Round of 16,Sun,Neutral,W,3,0,sn Senegal,61.0,65985.0,Harry Kane,4-3-3,Iván Barton,Match Report,,8.0,4.0,0,0,1.0,1,England,0.9,0.7,Senegal
+33,2022-12-10,22:00,World Cup,Quarter-finals,Sat,Neutral,L,1,2,fr France,57.0,68895.0,Harry Kane,4-3-3,Wilton Sampaio,Match Report,,14.0,6.0,1,2,3.0,0,England,2.4,0.9,France
+34,2021-03-25,20:45,WCQ,First round,Thu,Away,D,3.0,3.0,hu Hungary,64.0,,Robert Lewandowski,4-4-2,Felix Brych,Match Report,,10.0,3.0,0,0,1.0,0,Poland,,,Hungary
+35,2021-03-28,20:45,WCQ,First round,Sun,Home,W,3.0,0.0,ad Andorra,85.0,,Robert Lewandowski,4-4-2◆,Erik Lambrechts,Match Report,,26.0,6.0,0,0,0.0,1,Poland,,,Andorra
+36,2021-03-31,19:45,WCQ,First round,Wed,Away,L,1.0,2.0,eng England,37.0,,Kamil Glik,3-4-3,Björn Kuipers,Match Report,,4.0,1.0,0,0,2.0,0,Poland,,,England
+37,2021-09-02,20:45,WCQ,First round,Thu,Home,W,4.0,1.0,al Albania,49.0,38254.0,Robert Lewandowski,4-4-2,Maurizio Mariani,Match Report,,6.0,4.0,0,0,3.0,0,Poland,,,Albania
+38,2021-09-05,20:45,WCQ,First round,Sun,Away,W,7.0,1.0,sm San Marino,76.0,500.0,Robert Lewandowski,4-4-2,Mattias Gestranius,Match Report,,24.0,11.0,0,0,2.0,0,Poland,,,San Marino
+39,2021-09-08,20:45,WCQ,First round,Wed,Home,D,1.0,1.0,eng England,37.0,56212.0,Robert Lewandowski,4-4-2,Daniel Siebert,Match Report,,11.0,4.0,0,0,1.0,0,Poland,,,England
+40,2021-10-09,20:45,WCQ,First round,Sat,Home,W,5.0,0.0,sm San Marino,83.0,56128.0,Robert Lewandowski,4-4-2,Fran Jović,Match Report,,31.0,12.0,0,0,1.0,2,Poland,,,San Marino
+41,2021-10-12,20:45,WCQ,First round,Tue,Away,W,1.0,0.0,al Albania,60.0,21000.0,Robert Lewandowski,4-4-2,Clément Turpin,Match Report,,5.0,2.0,0,0,1.0,1,Poland,,,Albania
+42,2021-11-12,20:45,WCQ,First round,Fri,Away,W,4.0,1.0,ad Andorra,79.0,1049.0,Robert Lewandowski,3-4-1-2,John Beaton,Match Report,,18.0,8.0,0,0,0.0,0,Poland,,,Andorra
+43,2021-11-15,20:45,WCQ,First round,Mon,Home,L,1.0,2.0,hu Hungary,63.0,,Wojciech Szczęsny,4-4-2,Tiago Martins,Match Report,,15.0,6.0,0,0,2.0,0,Poland,,,Hungary
+44,2022-03-24,20:00,WCQ,Semi-finals,Thu,Away,,,,ru Russia,,,,,,Match Report,Match Cancelled,,,1,1,,0,Poland,,,Russia
+46,2022-03-29,20:45,WCQ,Finals,Tue,Home,W,2.0,0.0,se Sweden,39.0,54078.0,Robert Lewandowski,3-4-3,Daniele Orsato,Match Report,,10.0,8.0,1,1,6.0,1,Poland,,,Sweden
+48,2022-11-22,19:00,World Cup,Group stage,Tue,Neutral,D,0.0,0.0,mx Mexico,40.0,39369.0,Robert Lewandowski,4-1-4-1,Chris Beath,Match Report,,5.0,1.0,0,1,4.0,1,Poland,0.9,0.7,Mexico
+49,2022-11-26,16:00,World Cup,Group stage,Sat,Neutral,W,2.0,0.0,sa Saudi Arabia,37.0,44259.0,Robert Lewandowski,4-4-2,Wilton Sampaio,Match Report,,9.0,3.0,0,0,4.0,1,Poland,1.6,1.7,Saudi Arabia
+50,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,L,0.0,2.0,ar Argentina,27.0,44089.0,Robert Lewandowski,4-4-2,Danny Makkelie,Match Report,,4.0,0.0,0,0,8.0,0,Poland,0.3,3.5,Argentina
+51,2022-12-04,18:00,World Cup,Round of 16,Sun,Neutral,L,1.0,3.0,fr France,45.0,40989.0,Robert Lewandowski,4-1-4-1,Jesús Valenzuela,Match Report,,11.0,1.0,1,1,5.0,0,Poland,1.7,1.4,France
+52,2021-03-24,20:45,WCQ,First round,Wed,Home,D,1,1,ua Ukraine,63.0,,Hugo Lloris,4-2-2-2,Tobias Stieler,Match Report,,18.0,3.0,0,0,0.0,0,France,,,Ukraine
+53,2021-03-28,19:00,WCQ,First round,Sun,Away,W,2,0,kz Kazakhstan,63.0,,Hugo Lloris,4-2-3-1,Aliaksei Kulbakou,Match Report,,15.0,9.0,0,1,0.0,1,France,,,Kazakhstan
+54,2021-03-31,20:45,WCQ,First round,Wed,Away,W,1,0,ba Bosnia & Herz'na,56.0,,Hugo Lloris,4-4-2,Daniele Orsato,Match Report,,13.0,2.0,0,0,2.0,1,France,,,Bosnia & Herz'na
+55,2021-09-01,20:45,WCQ,First round,Wed,Home,D,1,1,ba Bosnia & Herz'na,54.0,21754.0,Hugo Lloris,4-3-3,Sandro Schärer,Match Report,,9.0,2.0,0,0,1.0,0,France,,,Bosnia & Herz'na
+56,2021-09-04,21:45,WCQ,First round,Sat,Away,D,1,1,ua Ukraine,62.0,48000.0,Hugo Lloris,4-4-2,Slavko Vinčič,Match Report,,16.0,5.0,0,0,2.0,0,France,,,Ukraine
+57,2021-09-07,20:45,WCQ,First round,Tue,Home,W,2,0,fi Finland,64.0,57057.0,Hugo Lloris,5-2-1-2,Deniz Aytekin,Match Report,,20.0,6.0,0,0,1.0,1,France,,,Finland
+58,2021-11-13,20:45,WCQ,First round,Sat,Home,W,8,0,kz Kazakhstan,66.0,45551.0,Hugo Lloris,3-4-1-2,Glenn Nyberg,Match Report,,20.0,14.0,1,1,3.0,1,France,,,Kazakhstan
+59,2021-11-16,21:45,WCQ,First round,Tue,Away,W,2,0,fi Finland,53.0,31890.0,Hugo Lloris,3-4-3,Marco Guida,Match Report,,8.0,5.0,0,0,1.0,1,France,,,Finland
+62,2022-11-22,22:00,World Cup,Group stage,Tue,Neutral,W,4,1,au Australia,62.0,40875.0,Hugo Lloris,4-2-3-1,Victor Gomes,Match Report,,23.0,6.0,0,0,0.0,0,France,4.0,0.5,Australia
+63,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,W,2,1,dk Denmark,49.0,42860.0,Hugo Lloris,4-2-3-1,Szymon Marciniak,Match Report,,21.0,6.0,0,0,1.0,0,France,2.4,0.6,Denmark
+64,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,L,0,1,tn Tunisia,65.0,43627.0,Raphaël Varane,4-3-3,Matt Conger,Match Report,,10.0,3.0,0,0,2.0,0,France,0.8,0.5,Tunisia
+65,2022-12-04,18:00,World Cup,Round of 16,Sun,Neutral,W,3,1,pl Poland,55.0,40989.0,Hugo Lloris,4-2-3-1,Jesús Valenzuela,Match Report,,16.0,8.0,0,0,1.0,0,France,1.4,1.7,Poland
+66,2022-12-10,22:00,World Cup,Quarter-finals,Sat,Neutral,W,2,1,eng England,43.0,68895.0,Hugo Lloris,4-2-3-1,Wilton Sampaio,Match Report,,8.0,5.0,0,0,6.0,0,France,0.9,2.4,England
+67,2022-12-14,22:00,World Cup,Semi-finals,Wed,Neutral,W,2,0,ma Morocco,39.0,68294.0,Hugo Lloris,4-2-3-1,César Arturo Ramos,Match Report,,14.0,2.0,0,0,2.0,1,France,2.0,0.9,Morocco
+68,2022-12-18,18:00,World Cup,Final,Sun,Neutral,D,3 (2),3 (4),ar Argentina,46.0,88966.0,Hugo Lloris,4-2-3-1,Szymon Marciniak,Match Report,Argentina won on penalty kicks following extra time,8.0,3.0,2,2,7.0,0,France,2.2,3.2,Argentina
+69,2021-03-25,19:00,WCQ,First round,Thu,Away,W,2,0,il Israel,50.0,5000.0,Simon Kjær,4-2-3-1,Craig Pawson,Match Report,,14.0,7.0,0,0,2.0,1,Denmark,,,Israel
+70,2021-03-28,18:00,WCQ,First round,Sun,Home,W,8,0,md Moldova,75.0,,Kasper Schmeichel,4-3-3,Aghayev Aliyev,Match Report,,18.0,11.0,1,1,2.0,1,Denmark,,,Moldova
+71,2021-03-31,20:45,WCQ,First round,Wed,Away,W,4,0,at Austria,48.0,,Simon Kjær,4-4-1-1,Artur Dias,Match Report,,11.0,6.0,0,0,0.0,1,Denmark,,,Austria
+72,2021-09-01,20:45,WCQ,First round,Wed,Home,W,2,0,sct Scotland,61.0,34562.0,Simon Kjær,4-3-3,Ovidiu Hațegan,Match Report,,11.0,5.0,0,0,2.0,1,Denmark,,,Scotland
+73,2021-09-04,19:45,WCQ,First round,Sat,Away,W,1,0,fo Faroe Islands,80.0,4620.0,Kasper Schmeichel,3-4-3,Fran Jović,Match Report,,19.0,8.0,0,0,3.0,1,Denmark,,,Faroe Islands
+74,2021-09-07,20:45,WCQ,First round,Tue,Home,W,5,0,il Israel,62.0,35158.0,Simon Kjær,4-3-3,Tobias Stieler,Match Report,,15.0,10.0,0,0,0.0,1,Denmark,,,Israel
+75,2021-10-09,21:45,WCQ,First round,Sat,Away,W,4,0,md Moldova,69.0,2642.0,Simon Kjær,3-4-3,João Pinheiro,Match Report,,21.0,10.0,1,1,0.0,1,Denmark,,,Moldova
+76,2021-10-12,20:45,WCQ,First round,Tue,Home,W,1,0,at Austria,49.0,35843.0,Simon Kjær,3-4-3,Ivan Kružliak,Match Report,,9.0,4.0,0,0,0.0,1,Denmark,,,Austria
+77,2021-11-12,20:45,WCQ,First round,Fri,Home,W,3,1,fo Faroe Islands,68.0,35531.0,Simon Kjær,3-4-3,Radu Petrescu,Match Report,,19.0,4.0,0,0,1.0,0,Denmark,,,Faroe Islands
+78,2021-11-15,19:45,WCQ,First round,Mon,Away,L,0,2,sct Scotland,59.0,,Simon Kjær,4-3-3,Alejandro Hernández,Match Report,,10.0,2.0,0,0,2.0,0,Denmark,,,Scotland
+81,2022-11-22,16:00,World Cup,Group stage,Tue,Neutral,D,0,0,tn Tunisia,61.0,42925.0,Simon Kjær,3-5-2,César Arturo Ramos,Match Report,,11.0,5.0,0,0,1.0,1,Denmark,1.4,0.9,Tunisia
+82,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,L,1,2,fr France,51.0,42860.0,Kasper Schmeichel,3-4-3,Szymon Marciniak,Match Report,,10.0,2.0,0,0,4.0,0,Denmark,0.6,2.4,France
+83,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,L,0,1,au Australia,68.0,41232.0,Christian Eriksen,4-3-3,Mustapha Ghorbal,Match Report,,13.0,3.0,0,0,3.0,0,Denmark,0.6,0.6,Australia
+84,2021-03-25,20:45,WCQ,First round,Thu,Home,D,1,1,gr Greece,80.0,,Sergio Ramos,4-3-3,Marco Guida,Match Report,,9.0,2.0,0,0,0.0,0,Spain,,,Greece
+85,2021-03-28,20:00,WCQ,First round,Sun,Away,W,2,1,ge Georgia,79.0,,Sergio Busquets,4-3-3,Radu Petrescu,Match Report,,9.0,3.0,0,0,1.0,0,Spain,,,Georgia
+86,2021-03-31,20:45,WCQ,First round,Wed,Home,W,3,1,xk Kosovo,81.0,,Sergio Busquets,4-3-3,Jakob Kehlet,Match Report,,24.0,11.0,0,0,0.0,0,Spain,,,Kosovo
+87,2021-09-02,20:45,WCQ,First round,Thu,Away,L,1,2,se Sweden,75.0,16901.0,Sergio Busquets,4-3-3,Anthony Taylor,Match Report,,12.0,4.0,0,0,2.0,0,Spain,,,Sweden
+88,2021-09-05,20:45,WCQ,First round,Sun,Home,W,4,0,ge Georgia,75.0,8444.0,César Azpilicueta,4-3-3,Tiago Martins,Match Report,,14.0,8.0,0,0,2.0,2,Spain,,,Georgia
+89,2021-09-08,20:45,WCQ,First round,Wed,Away,W,2,0,xk Kosovo,73.0,1200.0,Sergio Busquets,4-3-3,Bobby Madden,Match Report,,19.0,4.0,0,0,3.0,1,Spain,,,Kosovo
+90,2021-11-11,21:45,WCQ,First round,Thu,Away,W,1,0,gr Greece,73.0,7825.0,Koke,4-3-3,Szymon Marciniak,Match Report,,12.0,3.0,1,1,1.0,1,Spain,,,Greece
+91,2021-11-14,20:45,WCQ,First round,Sun,Home,W,1,0,se Sweden,72.0,51844.0,Sergio Busquets,4-3-3,Felix Brych,Match Report,,12.0,4.0,0,0,0.0,1,Spain,,,Sweden
+94,2022-11-23,19:00,World Cup,Group stage,Wed,Neutral,W,7,0,cr Costa Rica,81.0,40013.0,Sergio Busquets,4-3-3,Mohammed Abdulla Hassan,Match Report,,16.0,7.0,1,1,0.0,1,Spain,3.5,0.0,Costa Rica
+95,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,D,1,1,de Germany,64.0,68895.0,Sergio Busquets,4-3-3,Danny Makkelie,Match Report,,7.0,3.0,0,0,3.0,0,Spain,0.6,1.3,Germany
+96,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,L,1,2,jp Japan,82.0,44851.0,Sergio Busquets,4-3-3,Victor Gomes,Match Report,,12.0,5.0,0,0,1.0,0,Spain,1.0,1.4,Japan
+97,2022-12-06,18:00,World Cup,Round of 16,Tue,Neutral,D,0 (0),0 (3),ma Morocco,76.0,44667.0,Sergio Busquets,4-3-3,Fernando Rapallini,Match Report,Morocco won on penalty kicks following extra time,13.0,1.0,0,0,2.0,1,Spain,1.0,0.7,Morocco
+98,2021-03-25,20:45,WCQ,First round,Thu,Home,W,3,0,is Iceland,82.0,,Manuel Neuer,4-3-3,Srđan Jovanović,Match Report,,15.0,5.0,0,0,2.0,1,Germany,,,Iceland
+99,2021-03-28,21:45,WCQ,First round,Sun,Away,W,1,0,ro Romania,66.0,,Manuel Neuer,4-3-3,Clément Turpin,Match Report,,18.0,9.0,0,0,2.0,1,Germany,,,Romania
+100,2021-03-31,20:45,WCQ,First round,Wed,Home,L,1,2,mk N. Macedonia,70.0,,İlkay Gündoğan,4-3-3,Sergey Karasev,Match Report,,11.0,2.0,1,1,1.0,0,Germany,,,N. Macedonia
+101,2021-09-02,20:45,WCQ,First round,Thu,Away,W,2,0,li Liechtenstein,85.0,7958.0,Joshua Kimmich,4-2-3-1,Fábio Veríssimo,Match Report,,30.0,7.0,0,0,0.0,1,Germany,,,Liechtenstein
+102,2021-09-05,20:45,WCQ,First round,Sun,Home,W,6,0,am Armenia,76.0,18086.0,Manuel Neuer,4-2-3-1,William Collum,Match Report,,23.0,12.0,0,0,1.0,1,Germany,,,Armenia
+103,2021-09-08,18:45,WCQ,First round,Wed,Away,W,4,0,is Iceland,71.0,3505.0,Manuel Neuer,4-2-3-1,Andreas Ekberg,Match Report,,19.0,8.0,0,0,2.0,1,Germany,,,Iceland
+104,2021-10-08,20:45,WCQ,First round,Fri,Home,W,2,1,ro Romania,77.0,25000.0,Joshua Kimmich,4-2-3-1,Cüneyt Çakιr,Match Report,,22.0,6.0,0,0,0.0,0,Germany,,,Romania
+105,2021-10-11,20:45,WCQ,First round,Mon,Away,W,4,0,mk N. Macedonia,74.0,16182.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,24.0,10.0,0,0,1.0,1,Germany,,,N. Macedonia
+106,2021-11-11,20:45,WCQ,First round,Thu,Home,W,9,0,li Liechtenstein,82.0,25984.0,Manuel Neuer,4-2-3-1,Ivana Martinčić,Match Report,,42.0,23.0,1,1,0.0,1,Germany,,,Liechtenstein
+107,2021-11-14,21:00,WCQ,First round,Sun,Away,W,4,1,am Armenia,75.0,7200.0,Thomas Müller,3-5-2,François Letexier,Match Report,,20.0,9.0,1,1,0.0,0,Germany,,,Armenia
+111,2022-11-23,16:00,World Cup,Group stage,Wed,Neutral,L,1,2,jp Japan,74.0,42608.0,Manuel Neuer,4-2-3-1,Iván Barton,Match Report,,25.0,8.0,1,1,2.0,0,Germany,3.1,1.5,Japan
+112,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,D,1,1,es Spain,36.0,68895.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,11.0,4.0,0,0,2.0,0,Germany,1.3,0.6,Spain
+113,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,W,4,2,cr Costa Rica,68.0,67054.0,Manuel Neuer,4-2-3-1,Stéphanie Frappart,Match Report,,32.0,11.0,0,0,4.0,0,Germany,5.7,1.3,Costa Rica
+114,2021-03-24,20:45,WCQ,First round,Wed,Away,L,0,1,si Slovenia,69.0,,Luka Modrić,4-2-3-1,Antonio Matéu Lahoz,Match Report,,11.0,3.0,0,0,3.0,0,Croatia,,,Slovenia
+115,2021-03-27,18:00,WCQ,First round,Sat,Home,W,1,0,cy Cyprus,69.0,,Luka Modrić,4-1-4-1,Kristo Tohver,Match Report,,17.0,3.0,0,0,2.0,1,Croatia,,,Cyprus
+116,2021-03-30,20:45,WCQ,First round,Tue,Home,W,3,0,mt Malta,67.0,,Domagoj Vida,4-2-3-1,Lionel Tschudi,Match Report,,15.0,6.0,1,1,1.0,1,Croatia,,,Malta
+117,2021-09-01,21:45,WCQ,First round,Wed,Away,D,0,0,ru Russia,60.0,18708.0,Ivan Perišić,4-2-3-1,Roi Reinshreiber,Match Report,,15.0,2.0,0,0,3.0,1,Croatia,,,Russia
+118,2021-09-04,20:45,WCQ,First round,Sat,Away,W,1,0,sk Slovakia,55.0,9047.0,Domagoj Vida,4-1-4-1,Bartosz Frankowski,Match Report,,13.0,3.0,0,0,4.0,1,Croatia,,,Slovakia
+119,2021-09-07,20:45,WCQ,First round,Tue,Home,W,3,0,si Slovenia,64.0,16237.0,Ivan Perišić,4-2-3-1,Clément Turpin,Match Report,,22.0,10.0,0,0,2.0,1,Croatia,,,Slovenia
+120,2021-10-08,21:45,WCQ,First round,Fri,Away,W,3,0,cy Cyprus,75.0,2333.0,Luka Modrić,4-1-4-1,Michael Oliver,Match Report,,27.0,11.0,0,1,1.0,1,Croatia,,,Cyprus
+121,2021-10-11,20:45,WCQ,First round,Mon,Home,D,2,2,sk Slovakia,69.0,9926.0,Luka Modrić,4-1-4-1,Ovidiu Hațegan,Match Report,,21.0,10.0,0,0,0.0,0,Croatia,,,Slovakia
+122,2021-11-11,20:45,WCQ,First round,Thu,Away,W,7,1,mt Malta,67.0,4581.0,Luka Modrić,4-3-3,Deniz Aytekin,Match Report,,20.0,12.0,0,0,0.0,0,Croatia,,,Malta
+123,2021-11-14,15:00,WCQ,First round,Sun,Home,W,1,0,ru Russia,68.0,30257.0,Luka Modrić,4-3-3,Danny Makkelie,Match Report,,19.0,5.0,0,0,0.0,1,Croatia,,,Russia
+127,2022-11-23,13:00,World Cup,Group stage,Wed,Neutral,D,0,0,ma Morocco,64.0,59407.0,Luka Modrić,4-3-3,Fernando Rapallini,Match Report,,5.0,1.0,0,0,2.0,1,Croatia,0.5,0.4,Morocco
+128,2022-11-27,19:00,World Cup,Group stage,Sun,Neutral,W,4,1,ca Canada,49.0,44374.0,Luka Modrić,4-3-3,Andrés Matonte,Match Report,,13.0,10.0,0,0,1.0,0,Croatia,2.6,0.4,Canada
+129,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,D,0,0,be Belgium,49.0,43984.0,Luka Modrić,4-3-3,Anthony Taylor,Match Report,,11.0,4.0,0,0,3.0,1,Croatia,0.7,3.0,Belgium
+130,2022-12-05,18:00,World Cup,Round of 16,Mon,Neutral,D,1 (3),1 (1),jp Japan,58.0,42523.0,Luka Modrić,4-3-3,Ismail Elfath,Match Report,Croatia won on penalty kicks following extra time,17.0,4.0,0,0,3.0,0,Croatia,1.4,1.2,Japan
+131,2022-12-09,18:00,World Cup,Quarter-finals,Fri,Neutral,D,1 (4),1 (2),br Brazil,50.0,43893.0,Luka Modrić,4-3-3,Michael Oliver,Match Report,Croatia won on penalty kicks following extra time,9.0,1.0,0,0,10.0,0,Croatia,0.6,2.5,Brazil
+132,2022-12-13,22:00,World Cup,Semi-finals,Tue,Neutral,L,0,3,ar Argentina,60.0,88966.0,Luka Modrić,4-3-3,Daniele Orsato,Match Report,,12.0,2.0,0,0,4.0,0,Croatia,0.5,2.3,Argentina
+133,2022-12-17,18:00,World Cup,Third-place match,Sat,Neutral,W,2,1,ma Morocco,50.0,44137.0,Luka Modrić,4-2-3-1,Abdulrahman Ibrahim Al Jassim,Match Report,,12.0,4.0,0,0,1.0,0,Croatia,0.7,1.2,Morocco
+134,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,1,wls Wales,75.0,,Jan Vertonghen,3-4-3,Cüneyt Çakιr,Match Report,,12.0,4.0,1,1,0.0,0,Belgium,,,Wales
+135,2021-03-27,20:45,WCQ,First round,Sat,Away,D,1,1,cz Czechia,62.0,,Jan Vertonghen,3-4-3,William Collum,Match Report,,9.0,4.0,0,0,4.0,0,Belgium,,,Czechia
+136,2021-03-30,20:45,WCQ,First round,Tue,Home,W,8,0,by Belarus,68.0,,Jan Vertonghen,3-4-3,Donatas Rumšas,Match Report,,21.0,15.0,0,0,0.0,1,Belgium,,,Belarus
+137,2021-09-02,21:45,WCQ,First round,Thu,Away,W,5,2,ee Estonia,73.0,6685.0,Eden Hazard,3-4-3,Guillermo Cuadra,Match Report,,25.0,9.0,0,0,1.0,0,Belgium,,,Estonia
+138,2021-09-05,20:45,WCQ,First round,Sun,Home,W,3,0,cz Czechia,54.0,21416.0,Eden Hazard,3-4-3,Michael Oliver,Match Report,,16.0,6.0,0,0,4.0,1,Belgium,,,Czechia
+139,2021-09-08,21:45,WCQ,First round,Wed,Away,W,1,0,by Belarus,75.0,,Toby Alderweireld,3-4-3,Paweł Raczkowski,Match Report,,12.0,5.0,0,0,2.0,1,Belgium,,,Belarus
+140,2021-11-13,20:45,WCQ,First round,Sat,Home,W,3,1,ee Estonia,81.0,29895.0,Eden Hazard,3-4-3,Halil Umut Meler,Match Report,,20.0,10.0,0,0,4.0,0,Belgium,,,Estonia
+141,2021-11-16,19:45,WCQ,First round,Tue,Away,D,1,1,wls Wales,76.0,32343.0,Kevin De Bruyne,3-4-3,Artur Dias,Match Report,,16.0,4.0,0,0,2.0,0,Belgium,,,Wales
+145,2022-11-23,22:00,World Cup,Group stage,Wed,Neutral,W,1,0,ca Canada,53.0,40432.0,Eden Hazard,3-4-3,Janny Sikazwe,Match Report,,9.0,3.0,0,0,2.0,1,Belgium,0.8,2.4,Canada
+146,2022-11-27,16:00,World Cup,Group stage,Sun,Neutral,L,0,2,ma Morocco,67.0,43738.0,Eden Hazard,4-2-3-1,César Arturo Ramos,Match Report,,10.0,3.0,0,0,2.0,0,Belgium,1.0,1.5,Morocco
+147,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,D,0,0,hr Croatia,51.0,43984.0,Kevin De Bruyne,4-2-3-1,Anthony Taylor,Match Report,,16.0,3.0,0,0,4.0,1,Belgium,3.0,0.7,Croatia
+148,2021-03-25,19:00,WCQ,First round,Thu,Away,W,3,1,bg Bulgaria,70.0,,Granit Xhaka,3-4-1-2,Nikola Dabanović,Match Report,,13.0,5.0,0,0,1.0,0,Switzerland,,,Bulgaria
+149,2021-03-28,20:45,WCQ,First round,Sun,Home,W,1,0,lt Lithuania,69.0,,Granit Xhaka,3-4-1-2,Mattias Gestranius,Match Report,,21.0,9.0,0,0,1.0,1,Switzerland,,,Lithuania
+150,2021-09-05,20:45,WCQ,First round,Sun,Home,D,0,0,it Italy,48.0,31500.0,Yann Sommer,4-3-2-1,Carlos del Cerro,Match Report,,6.0,2.0,0,0,7.0,1,Switzerland,,,Italy
+151,2021-09-08,19:45,WCQ,First round,Wed,Away,D,0,0,nir Northern Ireland,75.0,15660.0,Yann Sommer,4-3-2-1,Harald Lechner,Match Report,,8.0,3.0,0,1,0.0,1,Switzerland,,,Northern Ireland
+152,2021-10-09,20:45,WCQ,First round,Sat,Home,W,2,0,nir Northern Ireland,72.0,19129.0,Xherdan Shaqiri,4-3-1-2,Slavko Vinčič,Match Report,,27.0,8.0,0,0,1.0,1,Switzerland,,,Northern Ireland
+153,2021-10-12,21:45,WCQ,First round,Tue,Away,W,4,0,lt Lithuania,70.0,1806.0,Xherdan Shaqiri,4-2-3-1,Tiago Martins,Match Report,,22.0,11.0,0,0,0.0,1,Switzerland,,,Lithuania
+154,2021-11-12,20:45,WCQ,First round,Fri,Away,D,1,1,it Italy,36.0,45699.0,Xherdan Shaqiri,4-2-3-1,Anthony Taylor,Match Report,,10.0,2.0,0,0,3.0,0,Switzerland,,,Italy
+155,2021-11-15,20:45,WCQ,First round,Mon,Home,W,4,0,bg Bulgaria,69.0,,Xherdan Shaqiri,4-2-3-1,Benoît Bastien,Match Report,,18.0,9.0,0,0,0.0,1,Switzerland,,,Bulgaria
+159,2022-11-24,13:00,World Cup,Group stage,Thu,Neutral,W,1,0,cm Cameroon,51.0,39089.0,Granit Xhaka,4-2-3-1,Facundo Tello,Match Report,,7.0,3.0,0,0,5.0,1,Switzerland,1.4,0.7,Cameroon
+160,2022-11-28,19:00,World Cup,Group stage,Mon,Neutral,L,0,1,br Brazil,46.0,43649.0,Granit Xhaka,4-2-3-1,Iván Barton,Match Report,,6.0,0.0,0,0,4.0,0,Switzerland,0.3,1.0,Brazil
+161,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,W,3,2,rs Serbia,46.0,41378.0,Granit Xhaka,4-2-3-1,Fernando Rapallini,Match Report,,14.0,7.0,0,0,2.0,0,Switzerland,2.7,1.3,Serbia
+162,2022-12-06,22:00,World Cup,Round of 16,Tue,Neutral,L,1,6,pt Portugal,53.0,83720.0,Granit Xhaka,3-1-4-2,César Arturo Ramos,Match Report,,10.0,2.0,0,0,3.0,0,Switzerland,1.1,2.3,Portugal
+163,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,2,ie Rep. of Ireland,56.0,,Dušan Tadić,3-4-3,Davide Massa,Match Report,,14.0,4.0,0,0,0.0,0,Serbia,,,Rep. of Ireland
+164,2021-03-27,20:45,WCQ,First round,Sat,Home,D,2,2,pt Portugal,44.0,,Dušan Tadić,3-4-1-2,Danny Makkelie,Match Report,,16.0,5.0,0,0,1.0,0,Serbia,,,Portugal
+165,2021-03-30,20:00,WCQ,First round,Tue,Away,W,2,1,az Azerbaijan,67.0,,Dušan Tadić,3-4-3,Roi Reinshreiber,Match Report,,18.0,7.0,0,0,1.0,0,Serbia,,,Azerbaijan
+166,2021-09-04,18:00,WCQ,First round,Sat,Home,W,4,1,lu Luxembourg,54.0,10078.0,Dušan Tadić,3-4-3,Halil Umut Meler,Match Report,,17.0,8.0,0,0,0.0,0,Serbia,,,Luxembourg
+167,2021-09-07,19:45,WCQ,First round,Tue,Away,D,1,1,ie Rep. of Ireland,58.0,25415.0,Dušan Tadić,3-5-2,José Sánchez,Match Report,,18.0,10.0,0,0,2.0,0,Serbia,,,Rep. of Ireland
+168,2021-10-09,20:45,WCQ,First round,Sat,Away,W,1,0,lu Luxembourg,48.0,2000.0,Dušan Tadić,3-4-1-2,William Collum,Match Report,,11.0,4.0,0,0,1.0,1,Serbia,,,Luxembourg
+169,2021-10-12,20:45,WCQ,First round,Tue,Home,W,3,1,az Azerbaijan,57.0,5890.0,Matija Nastasić,3-4-1-2,Erik Lambrechts,Match Report,,22.0,11.0,2,2,0.0,0,Serbia,,,Azerbaijan
+170,2021-11-14,19:45,WCQ,First round,Sun,Away,W,2,1,pt Portugal,57.0,58873.0,Dušan Tadić,3-5-1-1,Daniele Orsato,Match Report,,11.0,3.0,0,0,2.0,0,Serbia,,,Portugal
+174,2022-11-24,22:00,World Cup,Group stage,Thu,Neutral,L,0,2,br Brazil,41.0,88103.0,Dušan Tadić,3-4-3,Alireza Faghani,Match Report,,5.0,0.0,0,0,7.0,0,Serbia,0.2,2.4,Brazil
+175,2022-11-28,13:00,World Cup,Group stage,Mon,Neutral,D,3,3,cm Cameroon,59.0,39789.0,Dušan Tadić,3-4-3,Mohammed Abdulla Hassan,Match Report,,15.0,5.0,0,0,5.0,0,Serbia,1.9,2.2,Cameroon
+176,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,L,2,3,ch Switzerland,54.0,41378.0,Dušan Tadić,3-4-1-2,Fernando Rapallini,Match Report,,12.0,4.0,0,0,4.0,0,Serbia,1.3,2.7,Switzerland
+177,2021-03-24,19:45,WCQ,First round,Wed,Home,W,1,0,az Azerbaijan,67.0,,Cristiano Ronaldo,4-3-3,Daniel Siebert,Match Report,,29.0,14.0,0,0,0.0,1,Portugal,,,Azerbaijan
+178,2021-03-27,20:45,WCQ,First round,Sat,Away,D,2,2,rs Serbia,56.0,,Cristiano Ronaldo,4-3-3,Danny Makkelie,Match Report,,12.0,5.0,0,0,3.0,0,Portugal,,,Serbia
+179,2021-03-30,20:45,WCQ,First round,Tue,Away,W,3,1,lu Luxembourg,57.0,,Cristiano Ronaldo,4-3-3,Sergey Ivanov,Match Report,,20.0,11.0,0,0,0.0,0,Portugal,,,Luxembourg
+180,2021-09-01,19:45,WCQ,First round,Wed,Home,W,2,1,ie Rep. of Ireland,72.0,7831.0,Cristiano Ronaldo,4-3-3,Matej Jug,Match Report,,29.0,7.0,0,1,1.0,0,Portugal,,,Rep. of Ireland
+181,2021-09-07,20:00,WCQ,First round,Tue,Away,W,3,0,az Azerbaijan,67.0,20574.0,João Moutinho,4-3-3,Marco Guida,Match Report,,21.0,7.0,0,0,0.0,1,Portugal,,,Azerbaijan
+182,2021-10-12,19:45,WCQ,First round,Tue,Home,W,5,0,lu Luxembourg,55.0,18553.0,Cristiano Ronaldo,4-3-3,Benoît Bastien,Match Report,,21.0,11.0,2,2,2.0,1,Portugal,,,Luxembourg
+183,2021-11-11,19:45,WCQ,First round,Thu,Away,D,0,0,ie Rep. of Ireland,51.0,50737.0,Cristiano Ronaldo,4-3-3,Jesús Gil,Match Report,,12.0,3.0,0,0,2.0,1,Portugal,,,Rep. of Ireland
+184,2021-11-14,19:45,WCQ,First round,Sun,Home,L,1,2,rs Serbia,43.0,58873.0,Cristiano Ronaldo,4-3-3,Daniele Orsato,Match Report,,9.0,3.0,0,0,1.0,0,Portugal,,,Serbia
+185,2022-03-24,19:45,WCQ,Semi-finals,Thu,Home,W,3,1,tr Türkiye,60.0,48010.0,Cristiano Ronaldo,4-3-3,Daniel Siebert,Match Report,,16.0,8.0,0,0,4.0,0,Portugal,,,Türkiye
+186,2022-03-29,19:45,WCQ,Finals,Tue,Home,W,2,0,mk N. Macedonia,64.0,48010.0,Cristiano Ronaldo,4-3-3,Anthony Taylor,Match Report,,11.0,3.0,0,0,0.0,1,Portugal,,,N. Macedonia
+188,2022-11-24,19:00,World Cup,Group stage,Thu,Neutral,W,3,2,gh Ghana,62.0,42662.0,Cristiano Ronaldo,4-3-3,Ismail Elfath,Match Report,,10.0,4.0,1,1,1.0,0,Portugal,2.0,0.9,Ghana
+189,2022-11-28,22:00,World Cup,Group stage,Mon,Neutral,W,2,0,uy Uruguay,59.0,88668.0,Cristiano Ronaldo,4-1-2-1-2◆,Alireza Faghani,Match Report,,14.0,2.0,1,1,3.0,1,Portugal,1.3,1.3,Uruguay
+190,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,L,1,2,kr Korea Republic,61.0,44097.0,Cristiano Ronaldo,4-3-3,Facundo Tello,Match Report,,13.0,6.0,0,0,4.0,0,Portugal,1.3,1.7,Korea Republic
+191,2022-12-06,22:00,World Cup,Round of 16,Tue,Neutral,W,6,1,ch Switzerland,47.0,83720.0,Pepe,4-3-3,César Arturo Ramos,Match Report,,15.0,9.0,0,0,1.0,0,Portugal,2.3,1.1,Switzerland
+192,2022-12-10,18:00,World Cup,Quarter-finals,Sat,Neutral,L,0,1,ma Morocco,73.0,44198.0,Pepe,4-3-3,Facundo Tello,Match Report,,12.0,3.0,0,0,2.0,0,Portugal,0.9,1.4,Morocco
+193,2021-03-24,20:45,WCQ,First round,Wed,Home,D,1,1,ua Ukraine,63.0,,Hugo Lloris,4-2-2-2,Tobias Stieler,Match Report,,18.0,3.0,0,0,0.0,0,France,,,Ukraine
+194,2021-03-28,19:00,WCQ,First round,Sun,Away,W,2,0,kz Kazakhstan,63.0,,Hugo Lloris,4-2-3-1,Aliaksei Kulbakou,Match Report,,15.0,9.0,0,1,0.0,1,France,,,Kazakhstan
+195,2021-03-31,20:45,WCQ,First round,Wed,Away,W,1,0,ba Bosnia & Herz'na,56.0,,Hugo Lloris,4-4-2,Daniele Orsato,Match Report,,13.0,2.0,0,0,2.0,1,France,,,Bosnia & Herz'na
+196,2021-09-01,20:45,WCQ,First round,Wed,Home,D,1,1,ba Bosnia & Herz'na,54.0,21754.0,Hugo Lloris,4-3-3,Sandro Schärer,Match Report,,9.0,2.0,0,0,1.0,0,France,,,Bosnia & Herz'na
+197,2021-09-04,21:45,WCQ,First round,Sat,Away,D,1,1,ua Ukraine,62.0,48000.0,Hugo Lloris,4-4-2,Slavko Vinčič,Match Report,,16.0,5.0,0,0,2.0,0,France,,,Ukraine
+198,2021-09-07,20:45,WCQ,First round,Tue,Home,W,2,0,fi Finland,64.0,57057.0,Hugo Lloris,5-2-1-2,Deniz Aytekin,Match Report,,20.0,6.0,0,0,1.0,1,France,,,Finland
+199,2021-11-13,20:45,WCQ,First round,Sat,Home,W,8,0,kz Kazakhstan,66.0,45551.0,Hugo Lloris,3-4-1-2,Glenn Nyberg,Match Report,,20.0,14.0,1,1,3.0,1,France,,,Kazakhstan
+200,2021-11-16,21:45,WCQ,First round,Tue,Away,W,2,0,fi Finland,53.0,31890.0,Hugo Lloris,3-4-3,Marco Guida,Match Report,,8.0,5.0,0,0,1.0,1,France,,,Finland
+203,2022-11-22,22:00,World Cup,Group stage,Tue,Neutral,W,4,1,au Australia,62.0,40875.0,Hugo Lloris,4-2-3-1,Victor Gomes,Match Report,,23.0,6.0,0,0,0.0,0,France,4.0,0.5,Australia
+204,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,W,2,1,dk Denmark,49.0,42860.0,Hugo Lloris,4-2-3-1,Szymon Marciniak,Match Report,,21.0,6.0,0,0,1.0,0,France,2.4,0.6,Denmark
+205,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,L,0,1,tn Tunisia,65.0,43627.0,Raphaël Varane,4-3-3,Matt Conger,Match Report,,10.0,3.0,0,0,2.0,0,France,0.8,0.5,Tunisia
+206,2022-12-04,18:00,World Cup,Round of 16,Sun,Neutral,W,3,1,pl Poland,55.0,40989.0,Hugo Lloris,4-2-3-1,Jesús Valenzuela,Match Report,,16.0,8.0,0,0,1.0,0,France,1.4,1.7,Poland
+207,2022-12-10,22:00,World Cup,Quarter-finals,Sat,Neutral,W,2,1,eng England,43.0,68895.0,Hugo Lloris,4-2-3-1,Wilton Sampaio,Match Report,,8.0,5.0,0,0,6.0,0,France,0.9,2.4,England
+208,2022-12-14,22:00,World Cup,Semi-finals,Wed,Neutral,W,2,0,ma Morocco,39.0,68294.0,Hugo Lloris,4-2-3-1,César Arturo Ramos,Match Report,,14.0,2.0,0,0,2.0,1,France,2.0,0.9,Morocco
+209,2022-12-18,18:00,World Cup,Final,Sun,Neutral,D,3 (2),3 (4),ar Argentina,46.0,88966.0,Hugo Lloris,4-2-3-1,Szymon Marciniak,Match Report,Argentina won on penalty kicks following extra time,8.0,3.0,2,2,7.0,0,France,2.2,3.2,Argentina
+210,2021-03-24,20:45,WCQ,First round,Wed,Away,L,0,1,si Slovenia,69.0,,Luka Modrić,4-2-3-1,Antonio Matéu Lahoz,Match Report,,11.0,3.0,0,0,3.0,0,Croatia,,,Slovenia
+211,2021-03-27,18:00,WCQ,First round,Sat,Home,W,1,0,cy Cyprus,69.0,,Luka Modrić,4-1-4-1,Kristo Tohver,Match Report,,17.0,3.0,0,0,2.0,1,Croatia,,,Cyprus
+212,2021-03-30,20:45,WCQ,First round,Tue,Home,W,3,0,mt Malta,67.0,,Domagoj Vida,4-2-3-1,Lionel Tschudi,Match Report,,15.0,6.0,1,1,1.0,1,Croatia,,,Malta
+213,2021-09-01,21:45,WCQ,First round,Wed,Away,D,0,0,ru Russia,60.0,18708.0,Ivan Perišić,4-2-3-1,Roi Reinshreiber,Match Report,,15.0,2.0,0,0,3.0,1,Croatia,,,Russia
+214,2021-09-04,20:45,WCQ,First round,Sat,Away,W,1,0,sk Slovakia,55.0,9047.0,Domagoj Vida,4-1-4-1,Bartosz Frankowski,Match Report,,13.0,3.0,0,0,4.0,1,Croatia,,,Slovakia
+215,2021-09-07,20:45,WCQ,First round,Tue,Home,W,3,0,si Slovenia,64.0,16237.0,Ivan Perišić,4-2-3-1,Clément Turpin,Match Report,,22.0,10.0,0,0,2.0,1,Croatia,,,Slovenia
+216,2021-10-08,21:45,WCQ,First round,Fri,Away,W,3,0,cy Cyprus,75.0,2333.0,Luka Modrić,4-1-4-1,Michael Oliver,Match Report,,27.0,11.0,0,1,1.0,1,Croatia,,,Cyprus
+217,2021-10-11,20:45,WCQ,First round,Mon,Home,D,2,2,sk Slovakia,69.0,9926.0,Luka Modrić,4-1-4-1,Ovidiu Hațegan,Match Report,,21.0,10.0,0,0,0.0,0,Croatia,,,Slovakia
+218,2021-11-11,20:45,WCQ,First round,Thu,Away,W,7,1,mt Malta,67.0,4581.0,Luka Modrić,4-3-3,Deniz Aytekin,Match Report,,20.0,12.0,0,0,0.0,0,Croatia,,,Malta
+219,2021-11-14,15:00,WCQ,First round,Sun,Home,W,1,0,ru Russia,68.0,30257.0,Luka Modrić,4-3-3,Danny Makkelie,Match Report,,19.0,5.0,0,0,0.0,1,Croatia,,,Russia
+223,2022-11-23,13:00,World Cup,Group stage,Wed,Neutral,D,0,0,ma Morocco,64.0,59407.0,Luka Modrić,4-3-3,Fernando Rapallini,Match Report,,5.0,1.0,0,0,2.0,1,Croatia,0.5,0.4,Morocco
+224,2022-11-27,19:00,World Cup,Group stage,Sun,Neutral,W,4,1,ca Canada,49.0,44374.0,Luka Modrić,4-3-3,Andrés Matonte,Match Report,,13.0,10.0,0,0,1.0,0,Croatia,2.6,0.4,Canada
+225,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,D,0,0,be Belgium,49.0,43984.0,Luka Modrić,4-3-3,Anthony Taylor,Match Report,,11.0,4.0,0,0,3.0,1,Croatia,0.7,3.0,Belgium
+226,2022-12-05,18:00,World Cup,Round of 16,Mon,Neutral,D,1 (3),1 (1),jp Japan,58.0,42523.0,Luka Modrić,4-3-3,Ismail Elfath,Match Report,Croatia won on penalty kicks following extra time,17.0,4.0,0,0,3.0,0,Croatia,1.4,1.2,Japan
+227,2022-12-09,18:00,World Cup,Quarter-finals,Fri,Neutral,D,1 (4),1 (2),br Brazil,50.0,43893.0,Luka Modrić,4-3-3,Michael Oliver,Match Report,Croatia won on penalty kicks following extra time,9.0,1.0,0,0,10.0,0,Croatia,0.6,2.5,Brazil
+228,2022-12-13,22:00,World Cup,Semi-finals,Tue,Neutral,L,0,3,ar Argentina,60.0,88966.0,Luka Modrić,4-3-3,Daniele Orsato,Match Report,,12.0,2.0,0,0,4.0,0,Croatia,0.5,2.3,Argentina
+229,2022-12-17,18:00,World Cup,Third-place match,Sat,Neutral,W,2,1,ma Morocco,50.0,44137.0,Luka Modrić,4-2-3-1,Abdulrahman Ibrahim Al Jassim,Match Report,,12.0,4.0,0,0,1.0,0,Croatia,0.7,1.2,Morocco
+230,2021-03-24,20:00,WCQ,First round,Wed,Away,L,2,4,tr Türkiye,66.0,,Georginio Wijnaldum,4-3-3,Michael Oliver,Match Report,,20.0,9.0,0,1,1.0,0,Netherlands,,,Türkiye
+231,2021-03-27,18:00,WCQ,First round,Sat,Home,W,2,0,lv Latvia,77.0,5000.0,Georginio Wijnaldum,4-3-3,Stéphanie Frappart,Match Report,,36.0,11.0,0,0,0.0,1,Netherlands,,,Latvia
+232,2021-03-30,20:45,WCQ,First round,Tue,Away,W,7,0,gi Gibraltar,80.0,335.0,Georginio Wijnaldum,4-3-3,João Pinheiro,Match Report,,35.0,16.0,0,0,0.0,1,Netherlands,,,Gibraltar
+233,2021-09-01,20:45,WCQ,First round,Wed,Away,D,1,1,no Norway,65.0,6711.0,Virgil van Dijk,4-3-3,Szymon Marciniak,Match Report,,17.0,6.0,0,0,1.0,0,Netherlands,,,Norway
+234,2021-09-04,20:45,WCQ,First round,Sat,Home,W,4,0,me Montenegro,72.0,20458.0,Georginio Wijnaldum,4-3-3,Jesús Gil,Match Report,,28.0,12.0,1,1,1.0,1,Netherlands,,,Montenegro
+235,2021-09-07,20:45,WCQ,First round,Tue,Home,W,6,1,tr Türkiye,67.0,31389.0,Virgil van Dijk,4-3-3,Daniele Orsato,Match Report,,29.0,12.0,1,1,1.0,0,Netherlands,,,Türkiye
+236,2021-10-08,21:45,WCQ,First round,Fri,Away,W,1,0,lv Latvia,78.0,4711.0,Virgil van Dijk,4-3-3,Andy Madley,Match Report,,19.0,4.0,0,0,1.0,1,Netherlands,,,Latvia
+237,2021-10-11,20:45,WCQ,First round,Mon,Home,W,6,0,gi Gibraltar,82.0,31583.0,Virgil van Dijk,4-3-3,Vitaly Meshkov,Match Report,,31.0,12.0,1,2,0.0,1,Netherlands,,,Gibraltar
+238,2021-11-13,20:45,WCQ,First round,Sat,Away,D,2,2,me Montenegro,74.0,1844.0,Virgil van Dijk,4-3-3,Carlos del Cerro,Match Report,,9.0,3.0,1,1,1.0,0,Netherlands,,,Montenegro
+239,2021-11-16,20:45,WCQ,First round,Tue,Home,W,2,0,no Norway,65.0,,Virgil van Dijk,4-3-3,Clément Turpin,Match Report,,10.0,5.0,0,0,0.0,1,Netherlands,,,Norway
+242,2022-11-21,19:00,World Cup,Group stage,Mon,Neutral,W,2,0,sn Senegal,54.0,41721.0,Virgil van Dijk,3-4-1-2,Wilton Sampaio,Match Report,,10.0,3.0,0,0,4.0,1,Netherlands,0.7,0.9,Senegal
+243,2022-11-25,19:00,World Cup,Group stage,Fri,Neutral,D,1,1,ec Ecuador,54.0,44833.0,Virgil van Dijk,3-4-1-2,Mustapha Ghorbal,Match Report,,2.0,1.0,0,0,3.0,0,Netherlands,0.1,1.7,Ecuador
+244,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,W,2,0,qa Qatar,63.0,66784.0,Virgil van Dijk,3-4-1-2,Bakary Papa Gassama,Match Report,,13.0,4.0,0,0,3.0,1,Netherlands,1.6,0.1,Qatar
+245,2022-12-03,18:00,World Cup,Round of 16,Sat,Neutral,W,3,1,us United States,42.0,44846.0,Virgil van Dijk,3-4-1-2,Wilton Sampaio,Match Report,,11.0,6.0,0,0,5.0,0,Netherlands,1.7,1.5,United States
+246,2022-12-09,22:00,World Cup,Quarter-finals,Fri,Neutral,D,2 (3),2 (4),ar Argentina,52.0,88235.0,Virgil van Dijk,3-4-1-2,Antonio Matéu,Match Report,Argentina won on penalty kicks following extra time,6.0,2.0,0,0,3.0,0,Netherlands,0.6,1.9,Argentina
+247,2021-03-25,19:45,WCQ,First round,Thu,Home,W,5,0,sm San Marino,85.0,,Raheem Sterling,4-2-3-1,Kirill Levnikov,Match Report,,32.0,15.0,0,0,0.0,1,England,,,San Marino
+248,2021-03-28,18:00,WCQ,First round,Sun,Away,W,2,0,al Albania,71.0,200.0,Harry Kane,4-3-3,Orel Grinfeeld,Match Report,,9.0,4.0,0,0,0.0,1,England,,,Albania
+249,2021-03-31,19:45,WCQ,First round,Wed,Home,W,2,1,pl Poland,63.0,,Harry Kane,4-3-3,Björn Kuipers,Match Report,,10.0,4.0,1,1,0.0,0,England,,,Poland
+250,2021-09-02,20:45,WCQ,First round,Thu,Away,W,4,0,hu Hungary,64.0,58260.0,Harry Kane,4-2-3-1,Cüneyt Çakιr,Match Report,,12.0,8.0,0,0,1.0,1,England,,,Hungary
+251,2021-09-05,17:00,WCQ,First round,Sun,Home,W,4,0,ad Andorra,88.0,67171.0,Jordan Henderson,4-3-3,Anastasios Papapetrou,Match Report,,20.0,6.0,1,1,1.0,1,England,,,Andorra
+252,2021-09-08,20:45,WCQ,First round,Wed,Away,D,1,1,pl Poland,63.0,56212.0,Harry Kane,4-2-3-1,Daniel Siebert,Match Report,,13.0,2.0,0,0,3.0,0,England,,,Poland
+253,2021-10-09,20:45,WCQ,First round,Sat,Away,W,5,0,ad Andorra,86.0,2285.0,Kieran Trippier,4-3-3,Kateryna Monzul,Match Report,,17.0,8.0,0,1,0.0,1,England,,,Andorra
+254,2021-10-12,19:45,WCQ,First round,Tue,Home,D,1,1,hu Hungary,64.0,69380.0,Harry Kane,4-3-3,Alejandro Hernández,Match Report,,11.0,5.0,0,0,0.0,0,England,,,Hungary
+255,2021-11-12,19:45,WCQ,First round,Fri,Home,W,5,0,al Albania,64.0,80366.0,Harry Kane,3-4-3,Ruddy Buquet,Match Report,,15.0,6.0,0,0,4.0,1,England,,,Albania
+256,2021-11-15,20:45,WCQ,First round,Mon,Away,W,10,0,sm San Marino,85.0,,Harry Kane,4-3-3,Rade Obrenović,Match Report,,22.0,13.0,2,2,1.0,1,England,,,San Marino
+259,2022-11-21,16:00,World Cup,Group stage,Mon,Neutral,W,6,2,ir IR Iran,77.0,45334.0,Harry Kane,4-2-3-1,Raphael Claus,Match Report,,13.0,7.0,0,0,1.0,0,England,2.1,1.4,IR Iran
+260,2022-11-25,22:00,World Cup,Group stage,Fri,Neutral,D,0,0,us United States,55.0,68463.0,Harry Kane,4-2-3-1,Jesús Valenzuela,Match Report,,8.0,3.0,0,0,1.0,1,England,0.8,0.6,United States
+261,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,W,3,0,wls Wales,64.0,44297.0,Harry Kane,4-3-3,Slavko Vinčič,Match Report,,18.0,7.0,0,0,1.0,1,England,2.4,0.3,Wales
+262,2022-12-04,22:00,World Cup,Round of 16,Sun,Neutral,W,3,0,sn Senegal,61.0,65985.0,Harry Kane,4-3-3,Iván Barton,Match Report,,8.0,4.0,0,0,1.0,1,England,0.9,0.7,Senegal
+263,2022-12-10,22:00,World Cup,Quarter-finals,Sat,Neutral,L,1,2,fr France,57.0,68895.0,Harry Kane,4-3-3,Wilton Sampaio,Match Report,,14.0,6.0,1,2,3.0,0,England,2.4,0.9,France
+264,2021-03-24,19:45,WCQ,First round,Wed,Home,W,1,0,az Azerbaijan,67.0,,Cristiano Ronaldo,4-3-3,Daniel Siebert,Match Report,,29.0,14.0,0,0,0.0,1,Portugal,,,Azerbaijan
+265,2021-03-27,20:45,WCQ,First round,Sat,Away,D,2,2,rs Serbia,56.0,,Cristiano Ronaldo,4-3-3,Danny Makkelie,Match Report,,12.0,5.0,0,0,3.0,0,Portugal,,,Serbia
+266,2021-03-30,20:45,WCQ,First round,Tue,Away,W,3,1,lu Luxembourg,57.0,,Cristiano Ronaldo,4-3-3,Sergey Ivanov,Match Report,,20.0,11.0,0,0,0.0,0,Portugal,,,Luxembourg
+267,2021-09-01,19:45,WCQ,First round,Wed,Home,W,2,1,ie Rep. of Ireland,72.0,7831.0,Cristiano Ronaldo,4-3-3,Matej Jug,Match Report,,29.0,7.0,0,1,1.0,0,Portugal,,,Rep. of Ireland
+268,2021-09-07,20:00,WCQ,First round,Tue,Away,W,3,0,az Azerbaijan,67.0,20574.0,João Moutinho,4-3-3,Marco Guida,Match Report,,21.0,7.0,0,0,0.0,1,Portugal,,,Azerbaijan
+269,2021-10-12,19:45,WCQ,First round,Tue,Home,W,5,0,lu Luxembourg,55.0,18553.0,Cristiano Ronaldo,4-3-3,Benoît Bastien,Match Report,,21.0,11.0,2,2,2.0,1,Portugal,,,Luxembourg
+270,2021-11-11,19:45,WCQ,First round,Thu,Away,D,0,0,ie Rep. of Ireland,51.0,50737.0,Cristiano Ronaldo,4-3-3,Jesús Gil,Match Report,,12.0,3.0,0,0,2.0,1,Portugal,,,Rep. of Ireland
+271,2021-11-14,19:45,WCQ,First round,Sun,Home,L,1,2,rs Serbia,43.0,58873.0,Cristiano Ronaldo,4-3-3,Daniele Orsato,Match Report,,9.0,3.0,0,0,1.0,0,Portugal,,,Serbia
+272,2022-03-24,19:45,WCQ,Semi-finals,Thu,Home,W,3,1,tr Türkiye,60.0,48010.0,Cristiano Ronaldo,4-3-3,Daniel Siebert,Match Report,,16.0,8.0,0,0,4.0,0,Portugal,,,Türkiye
+273,2022-03-29,19:45,WCQ,Finals,Tue,Home,W,2,0,mk N. Macedonia,64.0,48010.0,Cristiano Ronaldo,4-3-3,Anthony Taylor,Match Report,,11.0,3.0,0,0,0.0,1,Portugal,,,N. Macedonia
+275,2022-11-24,19:00,World Cup,Group stage,Thu,Neutral,W,3,2,gh Ghana,62.0,42662.0,Cristiano Ronaldo,4-3-3,Ismail Elfath,Match Report,,10.0,4.0,1,1,1.0,0,Portugal,2.0,0.9,Ghana
+276,2022-11-28,22:00,World Cup,Group stage,Mon,Neutral,W,2,0,uy Uruguay,59.0,88668.0,Cristiano Ronaldo,4-1-2-1-2◆,Alireza Faghani,Match Report,,14.0,2.0,1,1,3.0,1,Portugal,1.3,1.3,Uruguay
+277,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,L,1,2,kr Korea Republic,61.0,44097.0,Cristiano Ronaldo,4-3-3,Facundo Tello,Match Report,,13.0,6.0,0,0,4.0,0,Portugal,1.3,1.7,Korea Republic
+278,2022-12-06,22:00,World Cup,Round of 16,Tue,Neutral,W,6,1,ch Switzerland,47.0,83720.0,Pepe,4-3-3,César Arturo Ramos,Match Report,,15.0,9.0,0,0,1.0,0,Portugal,2.3,1.1,Switzerland
+279,2022-12-10,18:00,World Cup,Quarter-finals,Sat,Neutral,L,0,1,ma Morocco,73.0,44198.0,Pepe,4-3-3,Facundo Tello,Match Report,,12.0,3.0,0,0,2.0,0,Portugal,0.9,1.4,Morocco
+280,2021-03-25,19:00,WCQ,First round,Thu,Away,W,3,1,bg Bulgaria,70.0,,Granit Xhaka,3-4-1-2,Nikola Dabanović,Match Report,,13.0,5.0,0,0,1.0,0,Switzerland,,,Bulgaria
+281,2021-03-28,20:45,WCQ,First round,Sun,Home,W,1,0,lt Lithuania,69.0,,Granit Xhaka,3-4-1-2,Mattias Gestranius,Match Report,,21.0,9.0,0,0,1.0,1,Switzerland,,,Lithuania
+282,2021-09-05,20:45,WCQ,First round,Sun,Home,D,0,0,it Italy,48.0,31500.0,Yann Sommer,4-3-2-1,Carlos del Cerro,Match Report,,6.0,2.0,0,0,7.0,1,Switzerland,,,Italy
+283,2021-09-08,19:45,WCQ,First round,Wed,Away,D,0,0,nir Northern Ireland,75.0,15660.0,Yann Sommer,4-3-2-1,Harald Lechner,Match Report,,8.0,3.0,0,1,0.0,1,Switzerland,,,Northern Ireland
+284,2021-10-09,20:45,WCQ,First round,Sat,Home,W,2,0,nir Northern Ireland,72.0,19129.0,Xherdan Shaqiri,4-3-1-2,Slavko Vinčič,Match Report,,27.0,8.0,0,0,1.0,1,Switzerland,,,Northern Ireland
+285,2021-10-12,21:45,WCQ,First round,Tue,Away,W,4,0,lt Lithuania,70.0,1806.0,Xherdan Shaqiri,4-2-3-1,Tiago Martins,Match Report,,22.0,11.0,0,0,0.0,1,Switzerland,,,Lithuania
+286,2021-11-12,20:45,WCQ,First round,Fri,Away,D,1,1,it Italy,36.0,45699.0,Xherdan Shaqiri,4-2-3-1,Anthony Taylor,Match Report,,10.0,2.0,0,0,3.0,0,Switzerland,,,Italy
+287,2021-11-15,20:45,WCQ,First round,Mon,Home,W,4,0,bg Bulgaria,69.0,,Xherdan Shaqiri,4-2-3-1,Benoît Bastien,Match Report,,18.0,9.0,0,0,0.0,1,Switzerland,,,Bulgaria
+291,2022-11-24,13:00,World Cup,Group stage,Thu,Neutral,W,1,0,cm Cameroon,51.0,39089.0,Granit Xhaka,4-2-3-1,Facundo Tello,Match Report,,7.0,3.0,0,0,5.0,1,Switzerland,1.4,0.7,Cameroon
+292,2022-11-28,19:00,World Cup,Group stage,Mon,Neutral,L,0,1,br Brazil,46.0,43649.0,Granit Xhaka,4-2-3-1,Iván Barton,Match Report,,6.0,0.0,0,0,4.0,0,Switzerland,0.3,1.0,Brazil
+293,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,W,3,2,rs Serbia,46.0,41378.0,Granit Xhaka,4-2-3-1,Fernando Rapallini,Match Report,,14.0,7.0,0,0,2.0,0,Switzerland,2.7,1.3,Serbia
+294,2022-12-06,22:00,World Cup,Round of 16,Tue,Neutral,L,1,6,pt Portugal,53.0,83720.0,Granit Xhaka,3-1-4-2,César Arturo Ramos,Match Report,,10.0,2.0,0,0,3.0,0,Switzerland,1.1,2.3,Portugal
+295,2021-03-25,20:45,WCQ,First round,Thu,Home,D,1,1,gr Greece,80.0,,Sergio Ramos,4-3-3,Marco Guida,Match Report,,9.0,2.0,0,0,0.0,0,Spain,,,Greece
+296,2021-03-28,20:00,WCQ,First round,Sun,Away,W,2,1,ge Georgia,79.0,,Sergio Busquets,4-3-3,Radu Petrescu,Match Report,,9.0,3.0,0,0,1.0,0,Spain,,,Georgia
+297,2021-03-31,20:45,WCQ,First round,Wed,Home,W,3,1,xk Kosovo,81.0,,Sergio Busquets,4-3-3,Jakob Kehlet,Match Report,,24.0,11.0,0,0,0.0,0,Spain,,,Kosovo
+298,2021-09-02,20:45,WCQ,First round,Thu,Away,L,1,2,se Sweden,75.0,16901.0,Sergio Busquets,4-3-3,Anthony Taylor,Match Report,,12.0,4.0,0,0,2.0,0,Spain,,,Sweden
+299,2021-09-05,20:45,WCQ,First round,Sun,Home,W,4,0,ge Georgia,75.0,8444.0,César Azpilicueta,4-3-3,Tiago Martins,Match Report,,14.0,8.0,0,0,2.0,2,Spain,,,Georgia
+300,2021-09-08,20:45,WCQ,First round,Wed,Away,W,2,0,xk Kosovo,73.0,1200.0,Sergio Busquets,4-3-3,Bobby Madden,Match Report,,19.0,4.0,0,0,3.0,1,Spain,,,Kosovo
+301,2021-11-11,21:45,WCQ,First round,Thu,Away,W,1,0,gr Greece,73.0,7825.0,Koke,4-3-3,Szymon Marciniak,Match Report,,12.0,3.0,1,1,1.0,1,Spain,,,Greece
+302,2021-11-14,20:45,WCQ,First round,Sun,Home,W,1,0,se Sweden,72.0,51844.0,Sergio Busquets,4-3-3,Felix Brych,Match Report,,12.0,4.0,0,0,0.0,1,Spain,,,Sweden
+305,2022-11-23,19:00,World Cup,Group stage,Wed,Neutral,W,7,0,cr Costa Rica,81.0,40013.0,Sergio Busquets,4-3-3,Mohammed Abdulla Hassan,Match Report,,16.0,7.0,1,1,0.0,1,Spain,3.5,0.0,Costa Rica
+306,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,D,1,1,de Germany,64.0,68895.0,Sergio Busquets,4-3-3,Danny Makkelie,Match Report,,7.0,3.0,0,0,3.0,0,Spain,0.6,1.3,Germany
+307,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,L,1,2,jp Japan,82.0,44851.0,Sergio Busquets,4-3-3,Victor Gomes,Match Report,,12.0,5.0,0,0,1.0,0,Spain,1.0,1.4,Japan
+308,2022-12-06,18:00,World Cup,Round of 16,Tue,Neutral,D,0 (0),0 (3),ma Morocco,76.0,44667.0,Sergio Busquets,4-3-3,Fernando Rapallini,Match Report,Morocco won on penalty kicks following extra time,13.0,1.0,0,0,2.0,1,Spain,1.0,0.7,Morocco
+309,2021-03-25,20:45,WCQ,First round,Thu,Away,D,3.0,3.0,hu Hungary,64.0,,Robert Lewandowski,4-4-2,Felix Brych,Match Report,,10.0,3.0,0,0,1.0,0,Poland,,,Hungary
+310,2021-03-28,20:45,WCQ,First round,Sun,Home,W,3.0,0.0,ad Andorra,85.0,,Robert Lewandowski,4-4-2◆,Erik Lambrechts,Match Report,,26.0,6.0,0,0,0.0,1,Poland,,,Andorra
+311,2021-03-31,19:45,WCQ,First round,Wed,Away,L,1.0,2.0,eng England,37.0,,Kamil Glik,3-4-3,Björn Kuipers,Match Report,,4.0,1.0,0,0,2.0,0,Poland,,,England
+312,2021-09-02,20:45,WCQ,First round,Thu,Home,W,4.0,1.0,al Albania,49.0,38254.0,Robert Lewandowski,4-4-2,Maurizio Mariani,Match Report,,6.0,4.0,0,0,3.0,0,Poland,,,Albania
+313,2021-09-05,20:45,WCQ,First round,Sun,Away,W,7.0,1.0,sm San Marino,76.0,500.0,Robert Lewandowski,4-4-2,Mattias Gestranius,Match Report,,24.0,11.0,0,0,2.0,0,Poland,,,San Marino
+314,2021-09-08,20:45,WCQ,First round,Wed,Home,D,1.0,1.0,eng England,37.0,56212.0,Robert Lewandowski,4-4-2,Daniel Siebert,Match Report,,11.0,4.0,0,0,1.0,0,Poland,,,England
+315,2021-10-09,20:45,WCQ,First round,Sat,Home,W,5.0,0.0,sm San Marino,83.0,56128.0,Robert Lewandowski,4-4-2,Fran Jović,Match Report,,31.0,12.0,0,0,1.0,2,Poland,,,San Marino
+316,2021-10-12,20:45,WCQ,First round,Tue,Away,W,1.0,0.0,al Albania,60.0,21000.0,Robert Lewandowski,4-4-2,Clément Turpin,Match Report,,5.0,2.0,0,0,1.0,1,Poland,,,Albania
+317,2021-11-12,20:45,WCQ,First round,Fri,Away,W,4.0,1.0,ad Andorra,79.0,1049.0,Robert Lewandowski,3-4-1-2,John Beaton,Match Report,,18.0,8.0,0,0,0.0,0,Poland,,,Andorra
+318,2021-11-15,20:45,WCQ,First round,Mon,Home,L,1.0,2.0,hu Hungary,63.0,,Wojciech Szczęsny,4-4-2,Tiago Martins,Match Report,,15.0,6.0,0,0,2.0,0,Poland,,,Hungary
+319,2022-03-24,20:00,WCQ,Semi-finals,Thu,Away,,,,ru Russia,,,,,,Match Report,Match Cancelled,,,1,1,,0,Poland,,,Russia
+321,2022-03-29,20:45,WCQ,Finals,Tue,Home,W,2.0,0.0,se Sweden,39.0,54078.0,Robert Lewandowski,3-4-3,Daniele Orsato,Match Report,,10.0,8.0,1,1,6.0,1,Poland,,,Sweden
+323,2022-11-22,19:00,World Cup,Group stage,Tue,Neutral,D,0.0,0.0,mx Mexico,40.0,39369.0,Robert Lewandowski,4-1-4-1,Chris Beath,Match Report,,5.0,1.0,0,1,4.0,1,Poland,0.9,0.7,Mexico
+324,2022-11-26,16:00,World Cup,Group stage,Sat,Neutral,W,2.0,0.0,sa Saudi Arabia,37.0,44259.0,Robert Lewandowski,4-4-2,Wilton Sampaio,Match Report,,9.0,3.0,0,0,4.0,1,Poland,1.6,1.7,Saudi Arabia
+325,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,L,0.0,2.0,ar Argentina,27.0,44089.0,Robert Lewandowski,4-4-2,Danny Makkelie,Match Report,,4.0,0.0,0,0,8.0,0,Poland,0.3,3.5,Argentina
+326,2022-12-04,18:00,World Cup,Round of 16,Sun,Neutral,L,1.0,3.0,fr France,45.0,40989.0,Robert Lewandowski,4-1-4-1,Jesús Valenzuela,Match Report,,11.0,1.0,1,1,5.0,0,Poland,1.7,1.4,France
+327,2021-03-25,20:45,WCQ,First round,Thu,Home,W,3,0,is Iceland,82.0,,Manuel Neuer,4-3-3,Srđan Jovanović,Match Report,,15.0,5.0,0,0,2.0,1,Germany,,,Iceland
+328,2021-03-28,21:45,WCQ,First round,Sun,Away,W,1,0,ro Romania,66.0,,Manuel Neuer,4-3-3,Clément Turpin,Match Report,,18.0,9.0,0,0,2.0,1,Germany,,,Romania
+329,2021-03-31,20:45,WCQ,First round,Wed,Home,L,1,2,mk N. Macedonia,70.0,,İlkay Gündoğan,4-3-3,Sergey Karasev,Match Report,,11.0,2.0,1,1,1.0,0,Germany,,,N. Macedonia
+330,2021-09-02,20:45,WCQ,First round,Thu,Away,W,2,0,li Liechtenstein,85.0,7958.0,Joshua Kimmich,4-2-3-1,Fábio Veríssimo,Match Report,,30.0,7.0,0,0,0.0,1,Germany,,,Liechtenstein
+331,2021-09-05,20:45,WCQ,First round,Sun,Home,W,6,0,am Armenia,76.0,18086.0,Manuel Neuer,4-2-3-1,William Collum,Match Report,,23.0,12.0,0,0,1.0,1,Germany,,,Armenia
+332,2021-09-08,18:45,WCQ,First round,Wed,Away,W,4,0,is Iceland,71.0,3505.0,Manuel Neuer,4-2-3-1,Andreas Ekberg,Match Report,,19.0,8.0,0,0,2.0,1,Germany,,,Iceland
+333,2021-10-08,20:45,WCQ,First round,Fri,Home,W,2,1,ro Romania,77.0,25000.0,Joshua Kimmich,4-2-3-1,Cüneyt Çakιr,Match Report,,22.0,6.0,0,0,0.0,0,Germany,,,Romania
+334,2021-10-11,20:45,WCQ,First round,Mon,Away,W,4,0,mk N. Macedonia,74.0,16182.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,24.0,10.0,0,0,1.0,1,Germany,,,N. Macedonia
+335,2021-11-11,20:45,WCQ,First round,Thu,Home,W,9,0,li Liechtenstein,82.0,25984.0,Manuel Neuer,4-2-3-1,Ivana Martinčić,Match Report,,42.0,23.0,1,1,0.0,1,Germany,,,Liechtenstein
+336,2021-11-14,21:00,WCQ,First round,Sun,Away,W,4,1,am Armenia,75.0,7200.0,Thomas Müller,3-5-2,François Letexier,Match Report,,20.0,9.0,1,1,0.0,0,Germany,,,Armenia
+340,2022-11-23,16:00,World Cup,Group stage,Wed,Neutral,L,1,2,jp Japan,74.0,42608.0,Manuel Neuer,4-2-3-1,Iván Barton,Match Report,,25.0,8.0,1,1,2.0,0,Germany,3.1,1.5,Japan
+341,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,D,1,1,es Spain,36.0,68895.0,Manuel Neuer,4-2-3-1,Danny Makkelie,Match Report,,11.0,4.0,0,0,2.0,0,Germany,1.3,0.6,Spain
+342,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,W,4,2,cr Costa Rica,68.0,67054.0,Manuel Neuer,4-2-3-1,Stéphanie Frappart,Match Report,,32.0,11.0,0,0,4.0,0,Germany,5.7,1.3,Costa Rica
+343,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,1,wls Wales,75.0,,Jan Vertonghen,3-4-3,Cüneyt Çakιr,Match Report,,12.0,4.0,1,1,0.0,0,Belgium,,,Wales
+344,2021-03-27,20:45,WCQ,First round,Sat,Away,D,1,1,cz Czechia,62.0,,Jan Vertonghen,3-4-3,William Collum,Match Report,,9.0,4.0,0,0,4.0,0,Belgium,,,Czechia
+345,2021-03-30,20:45,WCQ,First round,Tue,Home,W,8,0,by Belarus,68.0,,Jan Vertonghen,3-4-3,Donatas Rumšas,Match Report,,21.0,15.0,0,0,0.0,1,Belgium,,,Belarus
+346,2021-09-02,21:45,WCQ,First round,Thu,Away,W,5,2,ee Estonia,73.0,6685.0,Eden Hazard,3-4-3,Guillermo Cuadra,Match Report,,25.0,9.0,0,0,1.0,0,Belgium,,,Estonia
+347,2021-09-05,20:45,WCQ,First round,Sun,Home,W,3,0,cz Czechia,54.0,21416.0,Eden Hazard,3-4-3,Michael Oliver,Match Report,,16.0,6.0,0,0,4.0,1,Belgium,,,Czechia
+348,2021-09-08,21:45,WCQ,First round,Wed,Away,W,1,0,by Belarus,75.0,,Toby Alderweireld,3-4-3,Paweł Raczkowski,Match Report,,12.0,5.0,0,0,2.0,1,Belgium,,,Belarus
+349,2021-11-13,20:45,WCQ,First round,Sat,Home,W,3,1,ee Estonia,81.0,29895.0,Eden Hazard,3-4-3,Halil Umut Meler,Match Report,,20.0,10.0,0,0,4.0,0,Belgium,,,Estonia
+350,2021-11-16,19:45,WCQ,First round,Tue,Away,D,1,1,wls Wales,76.0,32343.0,Kevin De Bruyne,3-4-3,Artur Dias,Match Report,,16.0,4.0,0,0,2.0,0,Belgium,,,Wales
+354,2022-11-23,22:00,World Cup,Group stage,Wed,Neutral,W,1,0,ca Canada,53.0,40432.0,Eden Hazard,3-4-3,Janny Sikazwe,Match Report,,9.0,3.0,0,0,2.0,1,Belgium,0.8,2.4,Canada
+355,2022-11-27,16:00,World Cup,Group stage,Sun,Neutral,L,0,2,ma Morocco,67.0,43738.0,Eden Hazard,4-2-3-1,César Arturo Ramos,Match Report,,10.0,3.0,0,0,2.0,0,Belgium,1.0,1.5,Morocco
+356,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,D,0,0,hr Croatia,51.0,43984.0,Kevin De Bruyne,4-2-3-1,Anthony Taylor,Match Report,,16.0,3.0,0,0,4.0,1,Belgium,3.0,0.7,Croatia
+357,2021-03-25,19:00,WCQ,First round,Thu,Away,W,2,0,il Israel,50.0,5000.0,Simon Kjær,4-2-3-1,Craig Pawson,Match Report,,14.0,7.0,0,0,2.0,1,Denmark,,,Israel
+358,2021-03-28,18:00,WCQ,First round,Sun,Home,W,8,0,md Moldova,75.0,,Kasper Schmeichel,4-3-3,Aghayev Aliyev,Match Report,,18.0,11.0,1,1,2.0,1,Denmark,,,Moldova
+359,2021-03-31,20:45,WCQ,First round,Wed,Away,W,4,0,at Austria,48.0,,Simon Kjær,4-4-1-1,Artur Dias,Match Report,,11.0,6.0,0,0,0.0,1,Denmark,,,Austria
+360,2021-09-01,20:45,WCQ,First round,Wed,Home,W,2,0,sct Scotland,61.0,34562.0,Simon Kjær,4-3-3,Ovidiu Hațegan,Match Report,,11.0,5.0,0,0,2.0,1,Denmark,,,Scotland
+361,2021-09-04,19:45,WCQ,First round,Sat,Away,W,1,0,fo Faroe Islands,80.0,4620.0,Kasper Schmeichel,3-4-3,Fran Jović,Match Report,,19.0,8.0,0,0,3.0,1,Denmark,,,Faroe Islands
+362,2021-09-07,20:45,WCQ,First round,Tue,Home,W,5,0,il Israel,62.0,35158.0,Simon Kjær,4-3-3,Tobias Stieler,Match Report,,15.0,10.0,0,0,0.0,1,Denmark,,,Israel
+363,2021-10-09,21:45,WCQ,First round,Sat,Away,W,4,0,md Moldova,69.0,2642.0,Simon Kjær,3-4-3,João Pinheiro,Match Report,,21.0,10.0,1,1,0.0,1,Denmark,,,Moldova
+364,2021-10-12,20:45,WCQ,First round,Tue,Home,W,1,0,at Austria,49.0,35843.0,Simon Kjær,3-4-3,Ivan Kružliak,Match Report,,9.0,4.0,0,0,0.0,1,Denmark,,,Austria
+365,2021-11-12,20:45,WCQ,First round,Fri,Home,W,3,1,fo Faroe Islands,68.0,35531.0,Simon Kjær,3-4-3,Radu Petrescu,Match Report,,19.0,4.0,0,0,1.0,0,Denmark,,,Faroe Islands
+366,2021-11-15,19:45,WCQ,First round,Mon,Away,L,0,2,sct Scotland,59.0,,Simon Kjær,4-3-3,Alejandro Hernández,Match Report,,10.0,2.0,0,0,2.0,0,Denmark,,,Scotland
+369,2022-11-22,16:00,World Cup,Group stage,Tue,Neutral,D,0,0,tn Tunisia,61.0,42925.0,Simon Kjær,3-5-2,César Arturo Ramos,Match Report,,11.0,5.0,0,0,1.0,1,Denmark,1.4,0.9,Tunisia
+370,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,L,1,2,fr France,51.0,42860.0,Kasper Schmeichel,3-4-3,Szymon Marciniak,Match Report,,10.0,2.0,0,0,4.0,0,Denmark,0.6,2.4,France
+371,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,L,0,1,au Australia,68.0,41232.0,Christian Eriksen,4-3-3,Mustapha Ghorbal,Match Report,,13.0,3.0,0,0,3.0,0,Denmark,0.6,0.6,Australia
+372,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,2,ie Rep. of Ireland,56.0,,Dušan Tadić,3-4-3,Davide Massa,Match Report,,14.0,4.0,0,0,0.0,0,Serbia,,,Rep. of Ireland
+373,2021-03-27,20:45,WCQ,First round,Sat,Home,D,2,2,pt Portugal,44.0,,Dušan Tadić,3-4-1-2,Danny Makkelie,Match Report,,16.0,5.0,0,0,1.0,0,Serbia,,,Portugal
+374,2021-03-30,20:00,WCQ,First round,Tue,Away,W,2,1,az Azerbaijan,67.0,,Dušan Tadić,3-4-3,Roi Reinshreiber,Match Report,,18.0,7.0,0,0,1.0,0,Serbia,,,Azerbaijan
+375,2021-09-04,18:00,WCQ,First round,Sat,Home,W,4,1,lu Luxembourg,54.0,10078.0,Dušan Tadić,3-4-3,Halil Umut Meler,Match Report,,17.0,8.0,0,0,0.0,0,Serbia,,,Luxembourg
+376,2021-09-07,19:45,WCQ,First round,Tue,Away,D,1,1,ie Rep. of Ireland,58.0,25415.0,Dušan Tadić,3-5-2,José Sánchez,Match Report,,18.0,10.0,0,0,2.0,0,Serbia,,,Rep. of Ireland
+377,2021-10-09,20:45,WCQ,First round,Sat,Away,W,1,0,lu Luxembourg,48.0,2000.0,Dušan Tadić,3-4-1-2,William Collum,Match Report,,11.0,4.0,0,0,1.0,1,Serbia,,,Luxembourg
+378,2021-10-12,20:45,WCQ,First round,Tue,Home,W,3,1,az Azerbaijan,57.0,5890.0,Matija Nastasić,3-4-1-2,Erik Lambrechts,Match Report,,22.0,11.0,2,2,0.0,0,Serbia,,,Azerbaijan
+379,2021-11-14,19:45,WCQ,First round,Sun,Away,W,2,1,pt Portugal,57.0,58873.0,Dušan Tadić,3-5-1-1,Daniele Orsato,Match Report,,11.0,3.0,0,0,2.0,0,Serbia,,,Portugal
+383,2022-11-24,22:00,World Cup,Group stage,Thu,Neutral,L,0,2,br Brazil,41.0,88103.0,Dušan Tadić,3-4-3,Alireza Faghani,Match Report,,5.0,0.0,0,0,7.0,0,Serbia,0.2,2.4,Brazil
+384,2022-11-28,13:00,World Cup,Group stage,Mon,Neutral,D,3,3,cm Cameroon,59.0,39789.0,Dušan Tadić,3-4-3,Mohammed Abdulla Hassan,Match Report,,15.0,5.0,0,0,5.0,0,Serbia,1.9,2.2,Cameroon
+385,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,L,2,3,ch Switzerland,54.0,41378.0,Dušan Tadić,3-4-1-2,Fernando Rapallini,Match Report,,12.0,4.0,0,0,4.0,0,Serbia,1.3,2.7,Switzerland
+0,2023-03-25,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,3.0,0.0,no Norway,63.0,29214.0,Álvaro Morata,4-3-3,Benoît Bastien,Match Report,,13.0,7.0,0,0,2.0,1,Spain,,,Norway
+1,2023-03-28,19:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,0.0,2.0,sct Scotland,75.0,47976.0,Rodri,4-3-3,Sandro Schärer,Match Report,,8.0,3.0,0,0,1.0,0,Spain,,,Scotland
+2,2023-09-08,20:00,UEFA Euro Qualifying,Group stage,Fri,Away,W,7.0,1.0,ge Georgia,72.0,51694.0,Álvaro Morata,4-3-3,Daniel Siebert,Match Report,,33.0,12.0,0,0,1.0,0,Spain,,,Georgia
+3,2023-09-12,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,6.0,0.0,cy Cyprus,81.0,17311.0,Álvaro Morata,4-3-3,Simone Sozza,Match Report,,28.0,12.0,0,0,1.0,1,Spain,,,Cyprus
+4,2023-10-12,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,2.0,0.0,sct Scotland,74.0,45623.0,Álvaro Morata,4-3-3,Serdar Gözübüyük,Match Report,,18.0,5.0,0,0,1.0,1,Spain,,,Scotland
+5,2023-10-15,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,1.0,0.0,no Norway,67.0,25885.0,Álvaro Morata,4-3-3,Tobias Stieler,Match Report,,13.0,2.0,0,0,2.0,1,Spain,,,Norway
+6,2023-11-16,19:00,UEFA Euro Qualifying,Group stage,Thu,Away,W,3.0,1.0,cy Cyprus,77.0,9667.0,Jesús Navas,4-3-3,Mykola Balakin,Match Report,,14.0,5.0,0,0,2.0,0,Spain,,,Cyprus
+7,2023-11-19,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,W,3.0,1.0,ge Georgia,76.0,24146.0,Álvaro Morata,4-3-3,Ovidiu Hațegan,Match Report,,20.0,9.0,0,0,0.0,0,Spain,,,Georgia
+10,2023-03-25,14:00,UEFA Euro Qualifying,Group stage,Sat,Home,W,3.0,0.0,cy Cyprus,62.0,48195.0,Andrew Robertson,3-4-3,Duje Strukan,Match Report,,11.0,6.0,0,0,2.0,1,Scotland,,,Cyprus
+11,2023-03-28,19:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2.0,0.0,es Spain,25.0,47976.0,Andrew Robertson,3-4-3,Sandro Schärer,Match Report,,9.0,3.0,0,0,3.0,1,Scotland,,,Spain
+12,2023-06-17,18:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,2.0,1.0,no Norway,41.0,25791.0,Andrew Robertson,3-4-3,Matej Jug,Match Report,,5.0,3.0,0,0,2.0,0,Scotland,,,Norway
+13,2023-06-20,19:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2.0,0.0,ge Georgia,51.0,50062.0,Andrew Robertson,5-3-2,István Vad II,Match Report,,14.0,3.0,0,0,0.0,1,Scotland,,,Georgia
+14,2023-09-08,21:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,3.0,0.0,cy Cyprus,57.0,6633.0,Andrew Robertson,3-4-3,Balázs Berke,Match Report,,14.0,4.0,0,0,3.0,1,Scotland,,,Cyprus
+15,2023-10-12,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,L,0.0,2.0,es Spain,26.0,45623.0,Andrew Robertson,5-4-1,Serdar Gözübüyük,Match Report,,4.0,1.0,0,0,2.0,0,Scotland,,,Spain
+16,2023-11-16,21:00,UEFA Euro Qualifying,Group stage,Thu,Away,D,2.0,2.0,ge Georgia,64.0,44595.0,John McGinn,4-3-3,Aleksandar Stavrev,Match Report,,16.0,5.0,0,0,4.0,0,Scotland,,,Georgia
+17,2023-11-19,19:45,UEFA Euro Qualifying,Group stage,Sun,Home,D,3.0,3.0,no Norway,50.0,48138.0,John McGinn,4-2-3-1,Horațiu Fesnic,Match Report,,9.0,2.0,1,1,3.0,0,Scotland,,,Norway
+21,2023-03-28,20:00,UEFA Euro Qualifying,Group stage,Tue,Home,D,1,1,no Norway,34.0,20300.0,Guram Kashia,5-3-2,Andris Treimanis,Match Report,,15.0,3.0,0,0,5.0,0,Georgia,,,Norway
+22,2023-06-17,21:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,2,1,cy Cyprus,55.0,3763.0,Guram Kashia,3-5-2,Fábio Veríssimo,Match Report,,19.0,5.0,0,0,3.0,0,Georgia,,,Cyprus
+23,2023-06-20,19:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,0,2,sct Scotland,49.0,50062.0,Guram Kashia,4-4-1-1,István Vad II,Match Report,,9.0,0.0,0,1,1.0,0,Georgia,,,Scotland
+24,2023-09-08,20:00,UEFA Euro Qualifying,Group stage,Fri,Home,L,1,7,es Spain,28.0,51694.0,Guram Kashia,4-4-2,Daniel Siebert,Match Report,,5.0,2.0,0,0,6.0,0,Georgia,,,Spain
+25,2023-09-12,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,1,2,no Norway,38.0,23665.0,Guram Kashia,5-3-2,Nikola Dabanović,Match Report,,7.0,2.0,0,0,2.0,0,Georgia,,,Norway
+26,2023-10-15,17:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,4,0,cy Cyprus,60.0,15871.0,Guram Kashia,5-3-2,Robert Jones,Match Report,,12.0,5.0,1,1,5.0,1,Georgia,,,Cyprus
+27,2023-11-16,21:00,UEFA Euro Qualifying,Group stage,Thu,Home,D,2,2,sct Scotland,36.0,44595.0,Guram Kashia,5-3-2,Aleksandar Stavrev,Match Report,,8.0,6.0,0,0,3.0,0,Georgia,,,Scotland
+28,2023-11-19,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,L,1,3,es Spain,24.0,24146.0,Guram Kashia,5-3-2,Ovidiu Hațegan,Match Report,,8.0,1.0,0,0,7.0,0,Georgia,,,Spain
+29,2024-03-21,21:00,UEFA Euro Qualifying,Semi-finals,Thu,Home,W,2,0,lu Luxembourg,56.0,,Guram Kashia,5-3-2,José Sánchez,Match Report,,13.0,4.0,0,0,1.0,1,Georgia,,,Luxembourg
+30,2024-03-26,21:00,UEFA Euro Qualifying,Finals,Tue,Home,D,0 (4),0 (2),gr Greece,36.0,,Guram Kashia,3-1-4-2,Szymon Marciniak,Match Report,Georgia won on penalty kicks following extra time,16.0,3.0,0,0,2.0,1,Georgia,,,Greece
+31,2023-03-24,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,4.0,0.0,nl Netherlands,41.0,77328.0,Kylian Mbappé,4-2-3-1,Maurizio Mariani,Match Report,,12.0,8.0,0,0,4.0,1,France,,,Netherlands
+32,2023-03-27,19:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,1.0,0.0,ie Rep. of Ireland,65.0,50219.0,Kylian Mbappé,4-3-3,Artur Soares Dias,Match Report,,11.0,4.0,0,0,2.0,1,France,,,Rep. of Ireland
+33,2023-06-16,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,3.0,0.0,gi Gibraltar,82.0,4065.0,Kylian Mbappé,4-3-3,Yevhen Aranovskyi,Match Report,,31.0,9.0,1,1,0.0,1,France,,,Gibraltar
+34,2023-06-19,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,1.0,0.0,gr Greece,62.0,76500.0,Kylian Mbappé,4-2-3-1,Antonio Matéu,Match Report,,19.0,5.0,1,1,2.0,1,France,,,Greece
+35,2023-09-07,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,2.0,0.0,ie Rep. of Ireland,68.0,43995.0,Kylian Mbappé,4-2-3-1,Urs Schnyder,Match Report,,25.0,5.0,0,0,2.0,1,France,,,Rep. of Ireland
+36,2023-10-13,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,2.0,1.0,nl Netherlands,55.0,51310.0,Kylian Mbappé,4-3-3,Felix Zwayer,Match Report,,15.0,7.0,0,0,3.0,0,France,,,Netherlands
+37,2023-11-18,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,14.0,0.0,gi Gibraltar,73.0,32758.0,Kylian Mbappé,4-2-3-1,John Brooks,Match Report,,39.0,20.0,1,1,0.0,1,France,,,Gibraltar
+38,2023-11-21,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,D,2.0,2.0,gr Greece,67.0,24820.0,Antoine Griezmann,4-2-3-1,Daniel Siebert,Match Report,,15.0,7.0,0,0,0.0,0,France,,,Greece
+41,2023-03-24,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,L,0.0,4.0,fr France,59.0,77328.0,Virgil van Dijk,4-3-3,Maurizio Mariani,Match Report,,11.0,5.0,0,1,4.0,0,Netherlands,,,France
+42,2023-03-27,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,3.0,0.0,gi Gibraltar,87.0,36327.0,Virgil van Dijk,4-3-3,Morten Krogh,Match Report,,51.0,12.0,0,0,0.0,1,Netherlands,,,Gibraltar
+43,2023-09-07,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,3.0,0.0,gr Greece,53.0,32079.0,Virgil van Dijk,3-4-3,Michael Oliver,Match Report,,14.0,6.0,0,0,1.0,1,Netherlands,,,Greece
+44,2023-09-10,19:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,2.0,1.0,ie Rep. of Ireland,48.0,49807.0,Virgil van Dijk,3-4-3,Irfan Peljto,Match Report,,9.0,5.0,1,1,0.0,0,Netherlands,,,Rep. of Ireland
+45,2023-10-13,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,1.0,2.0,fr France,46.0,51310.0,Virgil van Dijk,4-2-3-1,Felix Zwayer,Match Report,,8.0,4.0,0,0,5.0,0,Netherlands,,,France
+46,2023-10-16,21:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,1.0,0.0,gr Greece,60.0,24967.0,Virgil van Dijk,4-2-3-1,Alejandro Hernández,Match Report,,11.0,6.0,1,2,2.0,1,Netherlands,,,Greece
+47,2023-11-18,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,1.0,0.0,ie Rep. of Ireland,55.0,51811.0,Virgil van Dijk,3-4-3,Marco Di Bello,Match Report,,19.0,5.0,0,0,1.0,1,Netherlands,,,Rep. of Ireland
+48,2023-11-21,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,6.0,0.0,gi Gibraltar,79.0,2280.0,Virgil van Dijk,4-3-3,Arda Kardeşler,Match Report,,23.0,9.0,0,0,0.0,1,Netherlands,,,Gibraltar
+51,2023-03-23,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,2.0,1.0,it Italy,42.0,44536.0,Harry Kane,4-3-3,Srđan Jovanović,Match Report,,7.0,4.0,1,1,0.0,0,England,,,Italy
+52,2023-03-26,17:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,2.0,0.0,ua Ukraine,58.0,83947.0,Harry Kane,4-3-3,Serdar Gözübüyük,Match Report,,18.0,8.0,0,0,0.0,1,England,,,Ukraine
+53,2023-06-16,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,4.0,0.0,mt Malta,66.0,16277.0,Harry Kane,4-3-3,Igor Pajač,Match Report,,16.0,8.0,2,2,0.0,1,England,,,Malta
+54,2023-06-19,19:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,7.0,0.0,mk N. Macedonia,67.0,70708.0,Harry Kane,4-3-3,István Kovács,Match Report,,14.0,10.0,1,1,0.0,1,England,,,N. Macedonia
+55,2023-09-09,19:00,UEFA Euro Qualifying,Group stage,Sat,Away,D,1.0,1.0,ua Ukraine,68.0,39000.0,Harry Kane,4-3-3,Georgi Kabakov,Match Report,,11.0,4.0,0,0,0.0,0,England,,,Ukraine
+56,2023-10-17,19:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,3.0,1.0,it Italy,51.0,83194.0,Harry Kane,4-2-3-1,Clément Turpin,Match Report,,9.0,6.0,1,1,3.0,0,England,,,Italy
+57,2023-11-17,19:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,2.0,0.0,mt Malta,75.0,81388.0,Harry Kane,4-3-3,Luís Godinho,Match Report,,11.0,3.0,0,0,0.0,1,England,,,Malta
+58,2023-11-20,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,D,1.0,1.0,mk N. Macedonia,75.0,27982.0,Kyle Walker,4-2-3-1,Filip Glova,Match Report,,16.0,2.0,0,0,1.0,0,England,,,N. Macedonia
+62,2023-03-23,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,L,1.0,2.0,eng England,58.0,44536.0,Marco Verratti,4-3-3,Srđan Jovanović,Match Report,,10.0,1.0,0,0,2.0,0,Italy,,,England
+63,2023-03-26,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,2.0,0.0,mt Malta,69.0,16015.0,Gianluigi Donnarumma,4-3-3,Georgi Kabakov,Match Report,,17.0,6.0,0,0,2.0,1,Italy,,,Malta
+64,2023-09-09,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,D,1.0,1.0,mk N. Macedonia,73.0,28126.0,Ciro Immobile,4-3-3,François Letexier,Match Report,,9.0,3.0,0,0,2.0,0,Italy,,,N. Macedonia
+65,2023-09-12,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2.0,1.0,ua Ukraine,64.0,58386.0,Gianluigi Donnarumma,4-3-3,Alejandro Hernández,Match Report,,22.0,5.0,0,0,2.0,0,Italy,,,Ukraine
+66,2023-10-14,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,4.0,0.0,mt Malta,67.0,56186.0,Gianluigi Donnarumma,4-3-3,Duje Strukan,Match Report,,18.0,4.0,0,0,0.0,1,Italy,,,Malta
+67,2023-10-17,19:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,1.0,3.0,eng England,49.0,83194.0,Gianluigi Donnarumma,4-3-3,Clément Turpin,Match Report,,15.0,4.0,0,0,3.0,0,Italy,,,England
+68,2023-11-17,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,5.0,2.0,mk N. Macedonia,64.0,56364.0,Gianluigi Donnarumma,4-3-3,Felix Zwayer,Match Report,,20.0,11.0,0,1,0.0,0,Italy,,,N. Macedonia
+69,2023-11-20,21:45,UEFA Euro Qualifying,Group stage,Mon,Away,D,0.0,0.0,ua Ukraine,59.0,26403.0,Gianluigi Donnarumma,4-3-3,Jesús Gil,Match Report,,17.0,2.0,0,0,4.0,1,Italy,,,Ukraine
+73,2023-03-26,17:00,UEFA Euro Qualifying,Group stage,Sun,Away,L,0.0,2.0,eng England,42.0,83947.0,Oleksandr Zinchenko,4-2-3-1,Serdar Gözübüyük,Match Report,,3.0,0.0,0,0,6.0,0,Ukraine,,,England
+74,2023-06-16,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,3.0,2.0,mk N. Macedonia,52.0,14370.0,Andriy Yarmolenko,4-4-2,Lukas Fähndrich,Match Report,,6.0,3.0,0,0,3.0,0,Ukraine,,,N. Macedonia
+75,2023-06-19,18:00,UEFA Euro Qualifying,Group stage,Mon,Home,W,1.0,0.0,mt Malta,64.0,7543.0,Andriy Yarmolenko,4-2-3-1,Ruddy Buquet,Match Report,,19.0,8.0,1,2,2.0,1,Ukraine,,,Malta
+76,2023-09-09,19:00,UEFA Euro Qualifying,Group stage,Sat,Home,D,1.0,1.0,eng England,32.0,39000.0,Taras Stepanenko,4-2-3-1,Georgi Kabakov,Match Report,,2.0,1.0,0,0,3.0,0,Ukraine,,,England
+77,2023-09-12,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,1.0,2.0,it Italy,36.0,58386.0,Andriy Yarmolenko,4-2-3-1,Alejandro Hernández,Match Report,,9.0,3.0,0,0,3.0,0,Ukraine,,,Italy
+78,2023-10-14,16:00,UEFA Euro Qualifying,Group stage,Sat,Home,W,2.0,0.0,mk N. Macedonia,45.0,12939.0,Taras Stepanenko,4-2-3-1,Slavko Vinčič,Match Report,,18.0,7.0,0,0,5.0,1,Ukraine,,,N. Macedonia
+79,2023-10-17,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,3.0,1.0,mt Malta,66.0,3547.0,Oleksandr Zinchenko,4-2-3-1,Morten Krogh,Match Report,,16.0,6.0,1,1,3.0,0,Ukraine,,,Malta
+80,2023-11-20,21:45,UEFA Euro Qualifying,Group stage,Mon,Home,D,0.0,0.0,it Italy,42.0,26403.0,Taras Stepanenko,4-1-4-1,Jesús Gil,Match Report,,7.0,4.0,0,0,2.0,1,Ukraine,,,Italy
+81,2024-03-21,20:45,UEFA Euro Qualifying,Semi-finals,Thu,Away,W,2.0,1.0,ba Bosnia & Herz'na,66.0,,Oleksandr Zinchenko,4-2-3-1,Felix Zwayer,Match Report,,12.0,4.0,0,0,1.0,0,Ukraine,,,Bosnia & Herz'na
+82,2024-03-26,20:45,UEFA Euro Qualifying,Finals,Tue,Home,W,2.0,1.0,is Iceland,60.0,,Mykola Matviyenko,4-3-3,Clément Turpin,Match Report,,13.0,5.0,0,0,2.0,0,Ukraine,,,Iceland
+84,2023-03-25,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,D,1.0,1.0,wls Wales,67.0,33474.0,Luka Modrić,4-3-3,João Pinheiro,Match Report,,19.0,8.0,0,0,0.0,0,Croatia,,,Wales
+85,2023-03-28,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,2.0,0.0,tr Türkiye,54.0,37750.0,Luka Modrić,4-3-3,Andreas Ekberg,Match Report,,9.0,5.0,0,0,5.0,1,Croatia,,,Türkiye
+86,2023-09-08,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,5.0,0.0,lv Latvia,75.0,8152.0,Luka Modrić,4-2-3-1,Philip Farrugia,Match Report,,28.0,14.0,0,0,3.0,1,Croatia,,,Latvia
+87,2023-09-11,20:00,UEFA Euro Qualifying,Group stage,Mon,Away,W,1.0,0.0,am Armenia,68.0,14233.0,Luka Modrić,4-3-3,Clément Turpin,Match Report,,26.0,8.0,0,0,2.0,1,Croatia,,,Armenia
+88,2023-10-12,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,L,0.0,1.0,tr Türkiye,63.0,12812.0,Luka Modrić,4-3-3,Anthony Taylor,Match Report,,17.0,6.0,0,0,6.0,0,Croatia,,,Türkiye
+89,2023-10-15,19:45,UEFA Euro Qualifying,Group stage,Sun,Away,L,1.0,2.0,wls Wales,72.0,31240.0,Luka Modrić,4-3-3,Davide Massa,Match Report,,10.0,3.0,0,0,3.0,0,Croatia,,,Wales
+90,2023-11-18,19:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,2.0,0.0,lv Latvia,69.0,6747.0,Luka Modrić,4-2-3-1,Urs Schnyder,Match Report,,14.0,6.0,0,0,0.0,1,Croatia,,,Latvia
+91,2023-11-21,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,1.0,0.0,am Armenia,67.0,20398.0,Luka Modrić,4-3-3,Ivan Kružliak,Match Report,,21.0,11.0,0,0,2.0,1,Croatia,,,Armenia
+93,2023-03-27,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,L,0.0,1.0,pl Poland,45.0,56227.0,Elseid Hysaj,4-1-4-1,Slavko Vinčič,Match Report,,7.0,3.0,0,0,3.0,0,Albania,,,Poland
+94,2023-06-17,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,2.0,0.0,md Moldova,72.0,20944.0,Elseid Hysaj,4-1-4-1,Dennis Higler,Match Report,,12.0,5.0,0,0,1.0,1,Albania,,,Moldova
+95,2023-06-20,19:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,3.0,1.0,fo Faroe Islands,49.0,2507.0,Elseid Hysaj,4-2-3-1,Chrysovalantis Theouli,Match Report,,19.0,6.0,0,1,1.0,0,Albania,,,Faroe Islands
+96,2023-09-07,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,D,1.0,1.0,cz Czechia,43.0,18641.0,Berat Djimsiti,4-2-3-1,Anthony Taylor,Match Report,,1.0,1.0,0,0,3.0,0,Albania,,,Czechia
+97,2023-09-10,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,W,2.0,0.0,pl Poland,39.0,21900.0,Berat Djimsiti,4-1-3-2,José Sánchez,Match Report,,7.0,3.0,0,0,2.0,1,Albania,,,Poland
+98,2023-10-12,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,3.0,0.0,cz Czechia,36.0,20917.0,Berat Djimsiti,4-2-3-1,Danny Makkelie,Match Report,,8.0,4.0,0,0,7.0,1,Albania,,,Czechia
+99,2023-11-17,19:00,UEFA Euro Qualifying,Group stage,Fri,Away,D,1.0,1.0,md Moldova,53.0,9537.0,Berat Djimsiti,4-3-3,William Collum,Match Report,,10.0,4.0,1,1,5.0,0,Albania,,,Moldova
+100,2023-11-20,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,D,0.0,0.0,fo Faroe Islands,64.0,21456.0,Berat Djimsiti,4-3-3,Sven Jablonski,Match Report,,8.0,4.0,0,0,0.0,1,Albania,,,Faroe Islands
+104,2023-03-24,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,L,1,3,cz Czechia,64.0,19045.0,Robert Lewandowski,4-2-3-1,Anastasios Sidiropoulos,Match Report,,11.0,4.0,0,0,3.0,0,Poland,,,Czechia
+105,2023-03-27,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,1,0,al Albania,55.0,56227.0,Robert Lewandowski,4-4-2,Slavko Vinčič,Match Report,,11.0,5.0,0,0,3.0,1,Poland,,,Albania
+106,2023-06-20,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,2,3,md Moldova,73.0,9442.0,Robert Lewandowski,5-3-2,Filip Glova,Match Report,,20.0,5.0,0,0,1.0,0,Poland,,,Moldova
+107,2023-09-07,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,2,0,fo Faroe Islands,72.0,54129.0,Robert Lewandowski,4-4-2,David Smajc,Match Report,,19.0,7.0,1,1,1.0,1,Poland,,,Faroe Islands
+108,2023-09-10,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,L,0,2,al Albania,61.0,21900.0,Robert Lewandowski,4-4-1-1,José Sánchez,Match Report,,12.0,2.0,0,0,1.0,0,Poland,,,Albania
+109,2023-10-12,19:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,2,0,fo Faroe Islands,66.0,3220.0,Piotr Zieliński,3-4-3,Allard Lindhout,Match Report,,13.0,4.0,0,0,0.0,1,Poland,,,Faroe Islands
+110,2023-10-15,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,D,1,1,md Moldova,72.0,51672.0,Piotr Zieliński,3-5-2,Artur Soares Dias,Match Report,,21.0,7.0,0,0,0.0,0,Poland,,,Moldova
+111,2023-11-17,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,D,1,1,cz Czechia,61.0,56310.0,Robert Lewandowski,3-5-2,Daniele Orsato,Match Report,,18.0,5.0,0,0,2.0,0,Poland,,,Czechia
+112,2024-03-21,20:45,UEFA Euro Qualifying,Semi-finals,Thu,Home,W,5,1,ee Estonia,85.0,,Robert Lewandowski,3-5-2,Slavko Vinčič,Match Report,,25.0,10.0,0,0,0.0,0,Poland,,,Estonia
+113,2024-03-26,19:45,UEFA Euro Qualifying,Finals,Tue,Away,D,0 (5),0 (4),wls Wales,58.0,,Robert Lewandowski,3-5-2,Daniele Orsato,Match Report,Poland won on penalty kicks following extra time,11.0,0.0,0,0,3.0,1,Poland,,,Wales
+114,2023-03-24,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,3.0,0.0,se Sweden,56.0,49296.0,Kevin De Bruyne,4-2-2-2,Orel Grinfeeld,Match Report,,14.0,5.0,0,0,3.0,1,Belgium,,,Sweden
+115,2023-06-17,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,D,1.0,1.0,at Austria,56.0,39237.0,Romelu Lukaku,3-5-2,Jérôme Brisard,Match Report,,17.0,2.0,0,0,2.0,0,Belgium,,,Austria
+116,2023-06-20,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,3.0,0.0,ee Estonia,67.0,11772.0,Romelu Lukaku,4-3-3,John Beaton,Match Report,,12.0,5.0,0,0,1.0,1,Belgium,,,Estonia
+117,2023-09-09,17:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,1.0,0.0,az Azerbaijan,54.0,4500.0,Romelu Lukaku,4-3-3,Nenad Minaković,Match Report,,16.0,6.0,0,0,4.0,1,Belgium,,,Azerbaijan
+118,2023-09-12,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,5.0,0.0,ee Estonia,75.0,24127.0,Romelu Lukaku,4-3-3,Bartosz Frankowski,Match Report,,22.0,11.0,0,0,0.0,1,Belgium,,,Estonia
+119,2023-10-13,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,3.0,2.0,at Austria,42.0,47000.0,Romelu Lukaku,4-3-3,Jesús Gil,Match Report,,8.0,5.0,0,0,2.0,0,Belgium,,,Austria
+120,2023-10-16,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,D,1.0,1.0,se Sweden,66.0,,Romelu Lukaku,4-4-2,Maurizio Mariani,Match Report,Match awarded to,9.0,3.0,1,1,5.0,0,Belgium,,,Sweden
+121,2023-11-19,18:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,5.0,0.0,az Azerbaijan,75.0,30276.0,Romelu Lukaku,4-2-3-1,Gergő Bogár,Match Report,,22.0,7.0,0,0,0.0,1,Belgium,,,Azerbaijan
+124,2023-03-24,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,4.0,1.0,az Azerbaijan,51.0,16500.0,Marcel Sabitzer,4-4-2,Bartosz Frankowski,Match Report,,25.0,12.0,0,0,2.0,0,Austria,,,Azerbaijan
+125,2023-03-27,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,2.0,1.0,ee Estonia,66.0,16500.0,Konrad Laimer,4-4-2,Enea Jorgji,Match Report,,19.0,8.0,0,1,2.0,0,Austria,,,Estonia
+126,2023-06-17,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,D,1.0,1.0,be Belgium,44.0,39237.0,David Alaba,4-4-2,Jérôme Brisard,Match Report,,10.0,2.0,0,0,1.0,0,Austria,,,Belgium
+127,2023-06-20,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2.0,0.0,se Sweden,63.0,46300.0,David Alaba,4-4-2,Marco Guida,Match Report,,21.0,14.0,0,0,3.0,1,Austria,,,Sweden
+128,2023-09-12,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,3.0,1.0,se Sweden,53.0,43228.0,David Alaba,4-4-2,Serdar Gözübüyük,Match Report,,12.0,6.0,1,1,3.0,0,Austria,,,Sweden
+129,2023-10-13,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,2.0,3.0,be Belgium,58.0,47000.0,Konrad Laimer,4-4-1-1,Jesús Gil,Match Report,,16.0,5.0,1,1,2.0,0,Austria,,,Belgium
+130,2023-10-16,20:00,UEFA Euro Qualifying,Group stage,Mon,Away,W,1.0,0.0,az Azerbaijan,46.0,4446.0,Konrad Laimer,4-1-4-1,Aristotelis Diamantopoulos,Match Report,,13.0,3.0,1,1,0.0,1,Austria,,,Azerbaijan
+131,2023-11-16,19:00,UEFA Euro Qualifying,Group stage,Thu,Away,W,2.0,0.0,ee Estonia,69.0,4488.0,David Alaba,4-3-3,Nikola Dabanović,Match Report,,16.0,4.0,0,0,0.0,1,Austria,,,Estonia
+135,2023-03-24,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,0.0,3.0,be Belgium,44.0,49296.0,Victor Lindelöf,4-4-2,Orel Grinfeeld,Match Report,,9.0,4.0,0,0,2.0,0,Sweden,,,Belgium
+136,2023-03-27,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,5.0,0.0,az Azerbaijan,42.0,23674.0,Victor Lindelöf,4-4-2,Stéphanie Frappart,Match Report,,15.0,6.0,0,0,1.0,1,Sweden,,,Azerbaijan
+137,2023-06-20,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,0.0,2.0,at Austria,37.0,46300.0,Victor Lindelöf,4-4-2,Marco Guida,Match Report,,4.0,3.0,0,0,12.0,0,Sweden,,,Austria
+138,2023-09-09,19:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,5.0,0.0,ee Estonia,67.0,11411.0,Victor Lindelöf,4-4-2,Horațiu Fesnic,Match Report,,19.0,10.0,0,0,0.0,1,Sweden,,,Estonia
+139,2023-09-12,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,L,1.0,3.0,at Austria,47.0,43228.0,Victor Lindelöf,4-4-2,Serdar Gözübüyük,Match Report,,17.0,4.0,0,0,3.0,0,Sweden,,,Austria
+140,2023-10-16,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,D,1.0,1.0,be Belgium,34.0,,Victor Lindelöf,4-4-2,Maurizio Mariani,Match Report,Match awarded to,13.0,6.0,0,0,3.0,0,Sweden,,,Belgium
+141,2023-11-16,21:00,UEFA Euro Qualifying,Group stage,Thu,Away,L,0.0,3.0,az Azerbaijan,64.0,5570.0,Victor Lindelöf,4-4-2,Esther Staubli,Match Report,,18.0,6.0,0,0,0.0,0,Sweden,,,Azerbaijan
+142,2023-11-19,18:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,2.0,0.0,ee Estonia,62.0,11201.0,Albin Ekdal,4-4-2,Fabio Maresca,Match Report,,15.0,4.0,0,0,0.0,1,Sweden,,,Estonia
+145,2023-03-27,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,3.0,0.0,bg Bulgaria,55.0,53000.0,Dominik Szoboszlai,3-4-3,Halil Umut Meler,Match Report,,14.0,9.0,0,0,2.0,1,Hungary,,,Bulgaria
+146,2023-06-17,18:00,UEFA Euro Qualifying,Group stage,Sat,Away,D,0.0,0.0,me Montenegro,72.0,6761.0,Dominik Szoboszlai,3-4-3,Jesús Gil,Match Report,,9.0,1.0,0,0,3.0,1,Hungary,,,Montenegro
+147,2023-06-20,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2.0,0.0,lt Lithuania,72.0,58274.0,Dominik Szoboszlai,3-4-3,António Nobre,Match Report,,27.0,10.0,0,0,2.0,1,Hungary,,,Lithuania
+148,2023-09-07,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,2.0,1.0,rs Serbia,46.0,6924.0,Dominik Szoboszlai,3-4-3,Juan Martínez,Match Report,,9.0,3.0,0,0,3.0,0,Hungary,,,Serbia
+149,2023-10-14,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,2.0,1.0,rs Serbia,36.0,58215.0,Dominik Szoboszlai,3-4-3,François Letexier,Match Report,,10.0,4.0,0,0,5.0,0,Hungary,,,Serbia
+150,2023-10-17,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,D,2.0,2.0,lt Lithuania,65.0,5349.0,Dominik Szoboszlai,3-4-3,Juxhin Xhaja,Match Report,,18.0,8.0,1,1,2.0,0,Hungary,,,Lithuania
+151,2023-11-16,19:00,UEFA Euro Qualifying,Group stage,Thu,Away,D,2.0,2.0,bg Bulgaria,59.0,230.0,Dominik Szoboszlai,3-4-1-2,Daniel Stefański,Match Report,,20.0,5.0,0,0,0.0,0,Hungary,,,Bulgaria
+152,2023-11-19,15:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,3.0,1.0,me Montenegro,62.0,59600.0,Dominik Szoboszlai,3-4-3,Danny Makkelie,Match Report,,14.0,5.0,0,0,5.0,0,Hungary,,,Montenegro
+156,2023-03-24,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,2.0,0.0,lt Lithuania,60.0,21125.0,Dušan Tadić,3-4-3,Lawrence Visser,Match Report,,15.0,4.0,0,0,3.0,1,Serbia,,,Lithuania
+157,2023-03-27,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,2.0,0.0,me Montenegro,65.0,9831.0,Dušan Tadić,3-4-3,Clément Turpin,Match Report,,10.0,2.0,0,0,2.0,1,Serbia,,,Montenegro
+158,2023-06-20,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,D,1.0,1.0,bg Bulgaria,68.0,6700.0,Dušan Tadić,3-4-3,Craig Pawson,Match Report,,10.0,2.0,0,0,1.0,0,Serbia,,,Bulgaria
+159,2023-09-07,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,L,1.0,2.0,hu Hungary,55.0,6924.0,Dušan Tadić,3-4-1-2,Juan Martínez,Match Report,,15.0,3.0,0,0,1.0,0,Serbia,,,Hungary
+160,2023-09-10,21:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,3.0,1.0,lt Lithuania,65.0,8586.0,Dušan Tadić,3-4-3,Sascha Stegemann,Match Report,,13.0,5.0,0,0,2.0,0,Serbia,,,Lithuania
+161,2023-10-14,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,L,1.0,2.0,hu Hungary,64.0,58215.0,Aleksandar Mitrović,3-4-3,François Letexier,Match Report,,16.0,6.0,0,0,2.0,0,Serbia,,,Hungary
+162,2023-10-17,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,3.0,1.0,me Montenegro,64.0,25884.0,Dušan Tadić,3-4-3,Szymon Marciniak,Match Report,,19.0,7.0,0,0,2.0,0,Serbia,,,Montenegro
+163,2023-11-19,15:00,UEFA Euro Qualifying,Group stage,Sun,Home,D,2.0,2.0,bg Bulgaria,58.0,7325.0,Dušan Tadić,3-4-3,Erik Lambrechts,Match Report,,18.0,8.0,0,0,0.0,0,Serbia,,,Bulgaria
+166,2023-03-23,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,3.0,1.0,fi Finland,58.0,35851.0,Simon Kjær,4-3-1-2,Daniel Siebert,Match Report,,18.0,10.0,0,0,1.0,0,Denmark,,,Finland
+167,2023-03-26,19:00,UEFA Euro Qualifying,Group stage,Sun,Away,L,2.0,3.0,kz Kazakhstan,61.0,28697.0,Simon Kjær,4-3-3,Novak Simović,Match Report,,14.0,7.0,0,0,5.0,0,Denmark,,,Kazakhstan
+168,2023-06-16,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,1.0,0.0,nir Northern Ireland,68.0,35701.0,Simon Kjær,4-2-3-1,Daniel Stefański,Match Report,,13.0,5.0,0,0,4.0,1,Denmark,,,Northern Ireland
+169,2023-06-19,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,D,1.0,1.0,si Slovenia,63.0,14382.0,Simon Kjær,3-4-3,François Letexier,Match Report,,10.0,2.0,0,0,1.0,0,Denmark,,,Slovenia
+170,2023-09-07,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,4.0,0.0,sm San Marino,85.0,36262.0,Simon Kjær,4-3-3,Vitālijs Spasjoņņikovs,Match Report,,32.0,6.0,0,0,0.0,1,Denmark,,,San Marino
+171,2023-09-10,19:00,UEFA Euro Qualifying,Group stage,Sun,Away,W,1.0,0.0,fi Finland,64.0,32571.0,Kasper Schmeichel,4-2-3-1,Szymon Marciniak,Match Report,,16.0,6.0,0,0,0.0,1,Denmark,,,Finland
+172,2023-10-14,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,3.0,1.0,kz Kazakhstan,64.0,35845.0,Simon Kjær,3-4-1-2,Michael Oliver,Match Report,,18.0,4.0,0,0,0.0,0,Denmark,,,Kazakhstan
+173,2023-10-17,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,2.0,1.0,sm San Marino,82.0,2984.0,Simon Kjær,4-3-3,Viktor Kopievskii,Match Report,,10.0,3.0,0,0,0.0,0,Denmark,,,San Marino
+174,2023-11-17,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,2.0,1.0,si Slovenia,66.0,35608.0,Kasper Schmeichel,5-3-2,Sánchez Santos,Match Report,,12.0,8.0,0,0,0.0,0,Denmark,,,Slovenia
+175,2023-11-20,19:45,UEFA Euro Qualifying,Group stage,Mon,Away,L,0.0,2.0,nir Northern Ireland,80.0,17366.0,Kasper Schmeichel,4-3-3,Jérôme Brisard,Match Report,,14.0,3.0,0,0,0.0,0,Denmark,,,Northern Ireland
+178,2023-03-25,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,2.0,0.0,ad Andorra,71.0,2927.0,Nicolae Stanciu,4-1-4-1,Dario Bel,Match Report,,12.0,4.0,0,0,1.0,1,Romania,,,Andorra
+179,2023-03-28,21:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2.0,1.0,by Belarus,52.0,27837.0,Nicolae Stanciu,4-3-3,Allard Lindhout,Match Report,,20.0,3.0,0,0,4.0,0,Romania,,,Belarus
+180,2023-06-16,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,D,0.0,0.0,xk Kosovo,40.0,11000.0,Nicolae Stanciu,4-3-3,Danny Makkelie,Match Report,,16.0,3.0,0,0,4.0,1,Romania,,,Kosovo
+181,2023-06-19,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,D,2.0,2.0,ch Switzerland,28.0,14400.0,Nicolae Stanciu,3-4-3,Daniele Orsato,Match Report,,6.0,3.0,0,0,4.0,0,Romania,,,Switzerland
+182,2023-09-09,21:45,UEFA Euro Qualifying,Group stage,Sat,Home,D,1.0,1.0,il Israel,38.0,49193.0,Nicolae Stanciu,4-2-3-1,Slavko Vinčič,Match Report,,8.0,3.0,0,0,4.0,0,Romania,,,Israel
+183,2023-09-12,21:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2.0,0.0,xk Kosovo,72.0,29982.0,Nicolae Stanciu,4-1-4-1,Willy Delajod,Match Report,,21.0,8.0,0,1,3.0,1,Romania,,,Kosovo
+184,2023-10-12,21:45,UEFA Euro Qualifying,Group stage,Thu,Away,D,0.0,0.0,by Belarus,68.0,,Nicolae Stanciu,4-1-4-1,Espen Eskås,Match Report,,19.0,5.0,0,0,2.0,1,Romania,,,Belarus
+185,2023-10-15,21:45,UEFA Euro Qualifying,Group stage,Sun,Home,W,4.0,0.0,ad Andorra,79.0,21723.0,Nicolae Stanciu,4-2-3-1,Kristo Tohver,Match Report,,17.0,9.0,1,1,0.0,1,Romania,,,Andorra
+186,2023-11-18,21:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,2.0,1.0,il Israel,35.0,2921.0,Nicolae Stanciu,4-2-3-1,François Letexier,Match Report,,18.0,8.0,0,0,4.0,0,Romania,,,Israel
+187,2023-11-21,21:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,1.0,0.0,ch Switzerland,36.0,50224.0,Nicolae Stanciu,4-1-4-1,Davide Massa,Match Report,,9.0,4.0,0,0,4.0,1,Romania,,,Switzerland
+191,2023-03-25,18:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,5.0,0.0,by Belarus,71.0,,Granit Xhaka,4-3-2-1,Alejandro Hernández,Match Report,,14.0,6.0,0,0,1.0,1,Switzerland,,,Belarus
+192,2023-03-28,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,3.0,0.0,il Israel,69.0,14819.0,Granit Xhaka,4-3-2-1,Nikola Dabanović,Match Report,,16.0,9.0,0,0,1.0,1,Switzerland,,,Israel
+193,2023-06-16,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,2.0,1.0,ad Andorra,85.0,2490.0,Granit Xhaka,4-3-3,Balázs Berke,Match Report,,13.0,8.0,0,0,1.0,0,Switzerland,,,Andorra
+194,2023-06-19,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,D,2.0,2.0,ro Romania,73.0,14400.0,Granit Xhaka,4-3-3,Daniele Orsato,Match Report,,17.0,6.0,0,0,1.0,0,Switzerland,,,Romania
+195,2023-09-09,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,D,2.0,2.0,xk Kosovo,66.0,12700.0,Granit Xhaka,4-3-3,Jakob Kehlet,Match Report,,13.0,4.0,0,0,3.0,0,Switzerland,,,Kosovo
+196,2023-09-12,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,3.0,0.0,ad Andorra,84.0,9000.0,Granit Xhaka,3-4-1-2,Elçin Məsiyev,Match Report,,22.0,3.0,1,1,0.0,1,Switzerland,,,Andorra
+197,2023-10-15,18:00,UEFA Euro Qualifying,Group stage,Sun,Home,D,3.0,3.0,by Belarus,78.0,17000.0,Granit Xhaka,4-2-3-1,João Pinheiro,Match Report,,24.0,7.0,0,0,0.0,0,Switzerland,,,Belarus
+198,2023-11-15,21:45,UEFA Euro Qualifying,Group stage,Wed,Away,D,1.0,1.0,il Israel,50.0,2024.0,Granit Xhaka,4-3-3,Anthony Taylor,Match Report,,16.0,8.0,0,0,1.0,0,Switzerland,,,Israel
+199,2023-11-18,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,D,1.0,1.0,xk Kosovo,77.0,33000.0,Granit Xhaka,4-3-3,António Nobre,Match Report,,17.0,5.0,0,0,2.0,0,Switzerland,,,Kosovo
+200,2023-11-21,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,0.0,1.0,ro Romania,64.0,50224.0,Granit Xhaka,4-3-3,Davide Massa,Match Report,,11.0,4.0,0,0,3.0,0,Switzerland,,,Romania
+204,2023-03-23,19:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,4.0,0.0,li Liechtenstein,82.0,45378.0,Cristiano Ronaldo,3-1-4-2,Espen Andreas Eskås,Match Report,,35.0,11.0,1,1,1.0,1,Portugal,,,Liechtenstein
+205,2023-03-26,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,6.0,0.0,lu Luxembourg,62.0,9231.0,Cristiano Ronaldo,3-4-3,Radu Petrescu,Match Report,,14.0,8.0,0,1,1.0,1,Portugal,,,Luxembourg
+206,2023-06-17,19:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,3.0,0.0,ba Bosnia & Herz'na,62.0,55058.0,Cristiano Ronaldo,3-4-3,Davide Massa,Match Report,,10.0,5.0,0,0,3.0,1,Portugal,,,Bosnia & Herz'na
+207,2023-06-20,18:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,1.0,0.0,is Iceland,72.0,9517.0,Cristiano Ronaldo,5-3-2,Daniel Siebert,Match Report,,11.0,3.0,0,0,1.0,1,Portugal,,,Iceland
+208,2023-09-08,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,1.0,0.0,sk Slovakia,56.0,21473.0,Cristiano Ronaldo,4-3-3,Glenn Nyberg,Match Report,,12.0,7.0,0,0,2.0,1,Portugal,,,Slovakia
+209,2023-09-11,19:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,9.0,0.0,lu Luxembourg,66.0,18932.0,Bernardo Silva,4-2-3-1,John Brooks,Match Report,,22.0,10.0,0,0,1.0,1,Portugal,,,Luxembourg
+210,2023-10-13,19:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,3.0,2.0,sk Slovakia,58.0,46601.0,Cristiano Ronaldo,4-1-3-2,Tasos Sidiropoulos,Match Report,,25.0,12.0,1,1,2.0,0,Portugal,,,Slovakia
+211,2023-10-16,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,5.0,0.0,ba Bosnia & Herz'na,68.0,13047.0,Cristiano Ronaldo,4-4-1-1,Halil Umut Meler,Match Report,,9.0,6.0,1,1,0.0,1,Portugal,,,Bosnia & Herz'na
+212,2023-11-16,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,2.0,0.0,li Liechtenstein,84.0,5749.0,Cristiano Ronaldo,3-4-3,Mohammed Al Hakim,Match Report,,29.0,8.0,0,0,1.0,1,Portugal,,,Liechtenstein
+213,2023-11-19,19:45,UEFA Euro Qualifying,Group stage,Sun,Home,W,2.0,0.0,is Iceland,74.0,45655.0,Cristiano Ronaldo,4-3-3,Anastasios Papapetrou,Match Report,,23.0,11.0,0,0,4.0,1,Portugal,,,Iceland
+217,2023-03-23,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,D,0.0,0.0,lu Luxembourg,52.0,3523.0,Juraj Kucka,4-3-3,Rade Obrenović,Match Report,,18.0,3.0,0,0,2.0,1,Slovakia,,,Luxembourg
+218,2023-03-26,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,W,2.0,0.0,ba Bosnia & Herz'na,45.0,6052.0,Juraj Kucka,4-3-3,Marco Di Bello,Match Report,,14.0,4.0,0,0,1.0,1,Slovakia,,,Bosnia & Herz'na
+219,2023-06-17,18:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,2.0,1.0,is Iceland,52.0,7555.0,Marek Hamšík,4-3-3,Don Robertson,Match Report,,14.0,4.0,0,0,2.0,0,Slovakia,,,Iceland
+220,2023-06-20,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,1.0,0.0,li Liechtenstein,76.0,2316.0,Marek Hamšík,4-3-3,Igal Frid,Match Report,,21.0,4.0,0,0,4.0,1,Slovakia,,,Liechtenstein
+221,2023-09-08,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,0.0,1.0,pt Portugal,44.0,21473.0,Milan Škriniar,4-3-3,Glenn Nyberg,Match Report,,10.0,2.0,0,0,6.0,0,Slovakia,,,Portugal
+222,2023-09-11,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,3.0,0.0,li Liechtenstein,80.0,13679.0,Milan Škriniar,4-3-3,Sander van der Eijk,Match Report,,13.0,5.0,0,0,0.0,1,Slovakia,,,Liechtenstein
+223,2023-10-13,19:45,UEFA Euro Qualifying,Group stage,Fri,Away,L,2.0,3.0,pt Portugal,42.0,46601.0,Milan Škriniar,4-3-3,Tasos Sidiropoulos,Match Report,,9.0,3.0,0,0,9.0,0,Slovakia,,,Portugal
+224,2023-10-16,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,1.0,0.0,lu Luxembourg,47.0,9386.0,Milan Škriniar,4-3-3,José Sánchez,Match Report,,8.0,2.0,0,0,3.0,1,Slovakia,,,Luxembourg
+225,2023-11-16,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,4.0,2.0,is Iceland,57.0,21548.0,Milan Škriniar,4-3-3,Craig Pawson,Match Report,,17.0,8.0,1,1,0.0,0,Slovakia,,,Iceland
+226,2023-11-19,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,2.0,1.0,ba Bosnia & Herz'na,57.0,3800.0,Milan Škriniar,4-3-3,Julian Weinberger,Match Report,,10.0,3.0,0,0,2.0,0,Slovakia,,,Bosnia & Herz'na
+0,2019-03-22,19:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,5,0,cz Czechia,66.0,82575.0,Harry Kane,4-3-3,Artur Dias,Match Report,,13.0,8.0,1,1,2.0,1,England,,,Czechia
+1,2019-03-25,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,5,1,me Montenegro,73.0,8329.0,Harry Kane,4-3-3,Aliaksei Kulbakou,Match Report,,12.0,6.0,0,0,1.0,0,England,,,Montenegro
+2,2019-09-07,17:00,UEFA Euro Qualifying,Group stage,Sat,Home,W,4,0,bg Bulgaria,68.0,82605.0,Harry Kane,4-3-1-2,Marco Guida,Match Report,,17.0,6.0,2,2,2.0,1,England,,,Bulgaria
+3,2019-09-10,19:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,5,3,xk Kosovo,58.0,30155.0,Harry Kane,4-2-3-1,Felix Zwayer,Match Report,,16.0,10.0,0,1,0.0,0,England,,,Kosovo
+4,2019-10-11,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,L,1,2,cz Czechia,56.0,18651.0,Harry Kane,4-2-3-1,Damir Skomina,Match Report,,7.0,4.0,1,1,6.0,0,England,,,Czechia
+5,2019-10-14,21:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,6,0,bg Bulgaria,72.0,17481.0,Harry Kane,4-3-3,Ivan Bebek,Match Report,,20.0,13.0,0,0,2.0,1,England,,,Bulgaria
+6,2019-11-14,19:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,7,0,me Montenegro,66.0,77277.0,Harry Kane,4-3-3,Antonio Matéu Lahoz,Match Report,,17.0,11.0,0,0,2.0,1,England,,,Montenegro
+7,2019-11-17,18:00,UEFA Euro Qualifying,Group stage,Sun,Away,W,4,0,xk Kosovo,55.0,12326.0,Harry Kane,4-3-3,Paweł Gil,Match Report,,13.0,7.0,0,0,3.0,1,England,,,Kosovo
+10,2021-06-13,14:00,UEFA Euro,Group stage,Sun,Neutral,W,1,0,hr Croatia,49.0,18497.0,Harry Kane,4-3-3,Daniele Orsato,Match Report,,8.0,2.0,0,0,2.0,1,England,1.5,0.4,Croatia
+11,2021-06-18,20:00,UEFA Euro,Group stage,Fri,Neutral,D,0,0,sct Scotland,60.0,20306.0,Harry Kane,4-3-3,Antonio Matéu Lahoz,Match Report,,9.0,1.0,0,0,1.0,1,England,1.4,0.6,Scotland
+12,2021-06-22,20:00,UEFA Euro,Group stage,Tue,Neutral,W,1,0,cz Czechia,56.0,19104.0,Harry Kane,4-2-3-1,Artur Soares Dias,Match Report,,5.0,3.0,0,0,1.0,1,England,1.5,0.3,Czechia
+13,2021-06-29,17:00,UEFA Euro,Round of 16,Tue,Neutral,W,2,0,de Germany,46.0,41973.0,Harry Kane,3-4-3,Danny Makkelie,Match Report,,5.0,4.0,0,0,3.0,1,England,1.3,1.4,Germany
+14,2021-07-03,21:00,UEFA Euro,Quarter-finals,Sat,Away,W,4,0,ua Ukraine,52.0,11880.0,Harry Kane,4-2-3-1,Felix Brych,Match Report,,10.0,6.0,0,0,2.0,1,England,2.0,0.3,Ukraine
+15,2021-07-07,20:00,UEFA Euro,Semi-finals,Wed,Home,W,2,1,dk Denmark,58.0,64950.0,Harry Kane,4-2-3-1,Danny Makkelie,Match Report,Required Extra Time,19.0,9.0,0,1,2.0,0,England,2.7,0.2,Denmark
+16,2021-07-11,20:00,UEFA Euro,Final,Sun,Neutral,D,1 (2),1 (3),it Italy,35.0,67173.0,Harry Kane,3-4-3,Björn Kuipers,Match Report,Italy won on penalty kicks following extra time,6.0,2.0,0,0,5.0,0,England,0.6,2.2,Italy
+17,2019-03-22,19:45,UEFA Euro Qualifying,Group stage,Fri,Away,D,0,0,pt Portugal,41.0,58355.0,Andriy Pyatov,4-1-4-1,Clément Turpin,Match Report,,6.0,1.0,0,0,6.0,1,Ukraine,,,Portugal
+18,2019-03-25,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,2,1,lu Luxembourg,62.0,4653.0,Andriy Pyatov,4-1-4-1,Mattias Gestranius,Match Report,,14.0,3.0,0,0,4.0,0,Ukraine,,,Luxembourg
+19,2019-06-07,21:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,5,0,rs Serbia,58.0,35000.0,Andriy Pyatov,4-2-3-1,Antonio Matéu Lahoz,Match Report,,21.0,9.0,0,0,1.0,1,Ukraine,,,Serbia
+20,2019-06-10,21:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,1,0,lu Luxembourg,57.0,34700.0,Andriy Pyatov,4-2-3-1,Peter Kráľovič,Match Report,,16.0,7.0,0,0,3.0,1,Ukraine,,,Luxembourg
+21,2019-09-07,19:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,3,0,lt Lithuania,69.0,5067.0,Andriy Pyatov,4-3-3,Irfan Peljto,Match Report,,18.0,8.0,0,0,1.0,1,Ukraine,,,Lithuania
+22,2019-10-11,21:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,2,0,lt Lithuania,68.0,32500.0,Andriy Pyatov,4-1-4-1,Harald Lechner,Match Report,,16.0,4.0,0,0,1.0,1,Ukraine,,,Lithuania
+23,2019-10-14,21:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,2,1,pt Portugal,41.0,65883.0,Andriy Pyatov,4-3-3,Anthony Taylor,Match Report,,5.0,4.0,0,0,9.0,0,Ukraine,,,Portugal
+24,2019-11-17,15:00,UEFA Euro Qualifying,Group stage,Sun,Away,D,2,2,rs Serbia,47.0,4457.0,Andriy Pyatov,4-1-4-1,Bobby Madden,Match Report,,13.0,5.0,0,0,4.0,0,Ukraine,,,Serbia
+28,2021-06-13,21:00,UEFA Euro,Group stage,Sun,Neutral,L,2,3,nl Netherlands,38.0,15837.0,Andriy Yarmolenko,4-3-3,Felix Brych,Match Report,,7.0,5.0,0,0,4.0,0,Ukraine,0.5,1.5,Netherlands
+29,2021-06-17,16:00,UEFA Euro,Group stage,Thu,Neutral,W,2,1,mk N. Macedonia,52.0,10001.0,Andriy Yarmolenko,4-3-3,Fernando Rapallini,Match Report,,16.0,7.0,0,1,3.0,0,Ukraine,3.4,1.3,N. Macedonia
+30,2021-06-21,19:00,UEFA Euro,Group stage,Mon,Neutral,L,0,1,at Austria,50.0,10472.0,Andriy Yarmolenko,4-3-3,Cüneyt Çakιr,Match Report,,5.0,1.0,0,0,3.0,0,Ukraine,0.3,1.6,Austria
+31,2021-06-29,20:00,UEFA Euro,Round of 16,Tue,Neutral,W,2,1,se Sweden,54.0,9221.0,Andriy Yarmolenko,3-5-2,Daniele Orsato,Match Report,Required Extra Time,15.0,4.0,0,0,2.0,0,Ukraine,1.8,1.2,Sweden
+32,2021-07-03,21:00,UEFA Euro,Quarter-finals,Sat,Home,L,0,4,eng England,48.0,11880.0,Andriy Yarmolenko,3-5-2,Felix Brych,Match Report,,7.0,2.0,0,0,2.0,0,Ukraine,0.3,2.0,England
+35,2019-03-22,19:45,UEFA Euro Qualifying,Group stage,Fri,Home,D,0,0,ua Ukraine,59.0,58355.0,Cristiano Ronaldo,4-1-4-1,Clément Turpin,Match Report,,18.0,7.0,0,0,1.0,1,Portugal,,,Ukraine
+36,2019-03-25,19:45,UEFA Euro Qualifying,Group stage,Mon,Home,D,1,1,rs Serbia,70.0,50342.0,Cristiano Ronaldo,4-3-3,Szymon Marciniak,Match Report,,28.0,6.0,0,0,2.0,0,Portugal,,,Serbia
+37,2019-09-07,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,4,2,rs Serbia,56.0,39839.0,Cristiano Ronaldo,4-3-3,Cüneyt Çakιr,Match Report,,14.0,4.0,0,0,4.0,0,Portugal,,,Serbia
+38,2019-09-10,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,5,1,lt Lithuania,66.0,5067.0,Cristiano Ronaldo,4-3-3,Scott Parker,Match Report,,29.0,14.0,1,1,2.0,0,Portugal,,,Lithuania
+39,2019-10-11,19:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,3,0,lu Luxembourg,61.0,47305.0,Cristiano Ronaldo,4-3-3,Daniel Stefański,Match Report,,22.0,10.0,0,0,2.0,1,Portugal,,,Luxembourg
+40,2019-10-14,21:45,UEFA Euro Qualifying,Group stage,Mon,Away,L,1,2,ua Ukraine,59.0,65883.0,Cristiano Ronaldo,4-1-4-1,Anthony Taylor,Match Report,,24.0,10.0,1,1,2.0,0,Portugal,,,Ukraine
+41,2019-11-14,19:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,6,0,lt Lithuania,71.0,18534.0,Cristiano Ronaldo,4-2-3-1,Ruddy Buquet,Match Report,,32.0,13.0,1,1,0.0,1,Portugal,,,Lithuania
+42,2019-11-17,15:00,UEFA Euro Qualifying,Group stage,Sun,Away,W,2,0,lu Luxembourg,62.0,8000.0,Rúben Dias,4-1-4-1,Jesús Gil,Match Report,,12.0,4.0,0,0,1.0,1,Portugal,,,Luxembourg
+45,2021-06-15,18:00,UEFA Euro,Group stage,Tue,Neutral,W,3,0,hu Hungary,69.0,55662.0,Cristiano Ronaldo,4-2-3-1,Cüneyt Çakιr,Match Report,,10.0,6.0,1,1,3.0,1,Portugal,2.5,0.2,Hungary
+46,2021-06-19,18:00,UEFA Euro,Group stage,Sat,Neutral,L,2,4,de Germany,43.0,12926.0,Cristiano Ronaldo,4-1-4-1,Anthony Taylor,Match Report,,7.0,2.0,0,0,5.0,0,Portugal,2.0,2.6,Germany
+47,2021-06-23,21:00,UEFA Euro,Group stage,Wed,Neutral,D,2,2,fr France,48.0,54886.0,Cristiano Ronaldo,4-1-4-1,Antonio Matéu Lahoz,Match Report,,8.0,3.0,2,2,3.0,0,Portugal,1.9,1.9,France
+48,2021-06-27,21:00,UEFA Euro,Round of 16,Sun,Neutral,L,0,1,be Belgium,57.0,11504.0,Cristiano Ronaldo,4-3-3,Felix Brych,Match Report,,23.0,4.0,0,0,0.0,0,Portugal,1.4,0.2,Belgium
+51,2019-03-25,19:45,UEFA Euro Qualifying,Group stage,Mon,Away,D,1,1,pt Portugal,30.0,50342.0,Dušan Tadić,4-2-3-1,Szymon Marciniak,Match Report,,10.0,3.0,1,1,4.0,0,Serbia,,,Portugal
+52,2019-06-07,21:45,UEFA Euro Qualifying,Group stage,Fri,Away,L,0,5,ua Ukraine,42.0,35000.0,Aleksandar Kolarov,3-5-2,Antonio Matéu Lahoz,Match Report,,6.0,1.0,0,0,4.0,0,Serbia,,,Ukraine
+53,2019-06-10,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,4,1,lt Lithuania,65.0,52.0,Aleksandar Kolarov,4-2-3-1,Adrien Jaccottet,Match Report,,23.0,11.0,0,0,0.0,0,Serbia,,,Lithuania
+54,2019-09-07,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,L,2,4,pt Portugal,44.0,39839.0,Aleksandar Kolarov,4-2-3-1,Cüneyt Çakιr,Match Report,,10.0,6.0,0,0,0.0,0,Serbia,,,Portugal
+55,2019-09-10,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,3,1,lu Luxembourg,61.0,6373.0,Aleksandar Kolarov,4-2-3-1,Orel Grinfeeld,Match Report,,14.0,4.0,0,0,6.0,0,Serbia,,,Luxembourg
+56,2019-10-14,21:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,2,1,lt Lithuania,59.0,2787.0,Aleksandar Kolarov,4-2-3-1,Paweł Raczkowski,Match Report,,17.0,8.0,0,0,2.0,0,Serbia,,,Lithuania
+57,2019-11-14,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,3,2,lu Luxembourg,68.0,1560.0,Aleksandar Kolarov,4-2-3-1,Serdar Gözübüyük,Match Report,,16.0,12.0,0,0,2.0,0,Serbia,,,Luxembourg
+58,2019-11-17,15:00,UEFA Euro Qualifying,Group stage,Sun,Home,D,2,2,ua Ukraine,53.0,4457.0,Aleksandar Kolarov,4-2-3-1,Bobby Madden,Match Report,,13.0,6.0,1,1,3.0,0,Serbia,,,Ukraine
+59,2020-10-08,20:45,UEFA Euro Qualifying,Semi-finals,Thu,Away,W,2,1,no Norway,49.0,200.0,Aleksandar Kolarov,3-5-2,Daniele Orsato,Match Report,Required Extra Time,18.0,9.0,0,0,2.0,0,Serbia,,,Norway
+60,2020-11-12,20:45,UEFA Euro Qualifying,Finals,Thu,Home,D,1 (4),1 (5),sct Scotland,58.0,,Dušan Tadić,3-4-3,Antonio Matéu Lahoz,Match Report,Scotland won on penalty kicks following extra time,16.0,4.0,0,0,3.0,0,Serbia,,,Scotland
+67,2019-03-24,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,3,2,nl Netherlands,46.0,51694.0,Manuel Neuer,3-5-2,Jesús Gil,Match Report,,11.0,7.0,0,0,4.0,0,Germany,,,Netherlands
+68,2019-06-08,21:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,2,0,by Belarus,75.0,12510.0,Manuel Neuer,4-4-1-1,Srđan Jovanović,Match Report,,23.0,5.0,0,0,1.0,1,Germany,,,Belarus
+69,2019-06-11,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,8,0,ee Estonia,82.0,26050.0,Manuel Neuer,4-1-4-1,Ali Palabıyık,Match Report,,27.0,17.0,1,1,2.0,1,Germany,,,Estonia
+70,2019-09-06,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,2,4,nl Netherlands,49.0,51299.0,Manuel Neuer,4-1-4-1,Artur Dias,Match Report,,12.0,5.0,1,1,6.0,0,Germany,,,Netherlands
+71,2019-09-09,19:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,2,0,nir Northern Ireland,75.0,18326.0,Manuel Neuer,4-3-3,Daniele Orsato,Match Report,,20.0,7.0,0,0,1.0,1,Germany,,,Northern Ireland
+72,2019-10-13,21:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,3,0,ee Estonia,70.0,12062.0,Manuel Neuer,4-2-3-1,Georgi Kabakov,Match Report,,13.0,6.0,0,0,2.0,1,Germany,,,Estonia
+73,2019-11-16,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,4,0,by Belarus,71.0,33164.0,Manuel Neuer,4-3-3,Orel Grinfeeld,Match Report,,31.0,10.0,0,0,4.0,1,Germany,,,Belarus
+74,2019-11-19,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,6,1,nir Northern Ireland,72.0,42855.0,Toni Kroos,4-2-3-1,Carlos del Cerro,Match Report,,22.0,11.0,0,0,0.0,0,Germany,,,Northern Ireland
+77,2021-06-15,21:00,UEFA Euro,Group stage,Tue,Neutral,L,0,1,fr France,61.0,13000.0,Manuel Neuer,3-4-3,Carlos del Cerro,Match Report,,10.0,1.0,0,0,1.0,0,Germany,0.9,0.3,France
+78,2021-06-19,18:00,UEFA Euro,Group stage,Sat,Neutral,W,4,2,pt Portugal,57.0,12926.0,Manuel Neuer,3-4-3,Anthony Taylor,Match Report,,12.0,7.0,0,0,0.0,0,Germany,2.6,2.0,Portugal
+79,2021-06-23,21:00,UEFA Euro,Group stage,Wed,Neutral,D,2,2,hu Hungary,75.0,12413.0,Manuel Neuer,3-4-3,Sergey Karasev,Match Report,,18.0,6.0,0,0,2.0,0,Germany,2.2,0.8,Hungary
+80,2021-06-29,17:00,UEFA Euro,Round of 16,Tue,Neutral,L,0,2,eng England,54.0,41973.0,Manuel Neuer,3-4-3,Danny Makkelie,Match Report,,9.0,3.0,0,0,2.0,0,Germany,1.4,1.3,England
+81,2019-03-21,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,4,0,by Belarus,62.0,38604.0,Virgil van Dijk,4-3-3,Davide Massa,Match Report,,10.0,6.0,1,1,1.0,1,Netherlands,,,Belarus
+82,2019-03-24,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,L,2,3,de Germany,54.0,51694.0,Virgil van Dijk,4-3-3,Jesús Gil,Match Report,,16.0,6.0,0,0,4.0,0,Netherlands,,,Germany
+83,2019-09-06,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,4,2,de Germany,51.0,51299.0,Virgil van Dijk,4-3-3,Artur Dias,Match Report,,16.0,9.0,0,0,3.0,0,Netherlands,,,Germany
+84,2019-09-09,21:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,4,0,ee Estonia,72.0,11006.0,Virgil van Dijk,4-3-3,Serhiy Boiko,Match Report,,20.0,10.0,0,0,1.0,1,Netherlands,,,Estonia
+85,2019-10-10,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,3,1,nir Northern Ireland,77.0,41348.0,Virgil van Dijk,4-3-3,Benoît Bastien,Match Report,,23.0,7.0,0,0,0.0,0,Netherlands,,,Northern Ireland
+86,2019-10-13,19:00,UEFA Euro Qualifying,Group stage,Sun,Away,W,2,1,by Belarus,76.0,21639.0,Virgil van Dijk,4-3-3,Anastasios Sidiropoulos,Match Report,,21.0,7.0,0,0,0.0,0,Netherlands,,,Belarus
+87,2019-11-16,19:45,UEFA Euro Qualifying,Group stage,Sat,Away,D,0,0,nir Northern Ireland,69.0,18404.0,Virgil van Dijk,4-2-3-1,Szymon Marciniak,Match Report,,14.0,3.0,0,0,0.0,1,Netherlands,,,Northern Ireland
+88,2019-11-19,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,5,0,ee Estonia,66.0,50386.0,Georginio Wijnaldum,4-2-3-1,Davide Massa,Match Report,,22.0,14.0,0,0,2.0,1,Netherlands,,,Estonia
+91,2021-06-13,21:00,UEFA Euro,Group stage,Sun,Neutral,W,3,2,ua Ukraine,62.0,15837.0,Georginio Wijnaldum,3-4-1-2,Felix Brych,Match Report,,15.0,7.0,0,0,3.0,0,Netherlands,1.5,0.5,Ukraine
+92,2021-06-17,21:00,UEFA Euro,Group stage,Thu,Neutral,W,2,0,at Austria,47.0,15243.0,Georginio Wijnaldum,3-4-1-2,Orel Grinfeeld,Match Report,,13.0,2.0,1,1,1.0,1,Netherlands,3.1,0.7,Austria
+93,2021-06-21,18:00,UEFA Euro,Group stage,Mon,Neutral,W,3,0,mk N. Macedonia,58.0,15227.0,Georginio Wijnaldum,3-4-1-2,István Kovács,Match Report,,17.0,6.0,0,0,1.0,1,Netherlands,3.1,1.1,N. Macedonia
+94,2021-06-27,18:00,UEFA Euro,Round of 16,Sun,Neutral,L,0,2,cz Czechia,52.0,52834.0,Georginio Wijnaldum,3-4-1-2,Sergey Karasev,Match Report,,6.0,0.0,0,0,3.0,0,Netherlands,0.9,1.6,Czechia
+95,2019-03-23,18:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,2,0,ge Georgia,64.0,49207.0,Stephan Lichtsteiner,4-4-1-1,Craig Pawson,Match Report,,25.0,8.0,0,0,1.0,1,Switzerland,,,Georgia
+96,2019-03-26,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,D,3,3,dk Denmark,55.0,18352.0,Granit Xhaka,4-3-3,Damir Skomina,Match Report,,11.0,3.0,0,0,4.0,0,Switzerland,,,Denmark
+97,2019-09-05,19:45,UEFA Euro Qualifying,Group stage,Thu,Away,D,1,1,ie Rep. of Ireland,59.0,44111.0,Granit Xhaka,3-4-3,Carlos del Cerro,Match Report,,14.0,3.0,0,0,1.0,0,Switzerland,,,Rep. of Ireland
+98,2019-09-08,18:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,4,0,gi Gibraltar,77.0,8318.0,Granit Xhaka,3-4-3,Pavel Orel,Match Report,,40.0,11.0,0,0,0.0,1,Switzerland,,,Gibraltar
+99,2019-10-12,18:00,UEFA Euro Qualifying,Group stage,Sat,Away,L,0,1,dk Denmark,53.0,35964.0,Stephan Lichtsteiner,3-4-3,Aliaksei Kulbakou,Match Report,,11.0,4.0,0,0,2.0,0,Switzerland,,,Denmark
+100,2019-10-15,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2,0,ie Rep. of Ireland,56.0,24766.0,Stephan Lichtsteiner,3-4-3,Szymon Marciniak,Match Report,,20.0,4.0,0,1,2.0,1,Switzerland,,,Rep. of Ireland
+101,2019-11-15,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,1,0,ge Georgia,68.0,16400.0,Stephan Lichtsteiner,5-4-1,Danny Makkelie,Match Report,,23.0,11.0,0,0,5.0,1,Switzerland,,,Georgia
+102,2019-11-18,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,6,1,gi Gibraltar,75.0,2079.0,Granit Xhaka,3-4-3,Benoît Millot,Match Report,,37.0,14.0,0,0,1.0,0,Switzerland,,,Gibraltar
+106,2021-06-12,17:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,wls Wales,64.0,8782.0,Granit Xhaka,3-4-1-2,Clément Turpin,Match Report,,18.0,4.0,0,0,1.0,0,Switzerland,2.1,0.4,Wales
+107,2021-06-16,21:00,UEFA Euro,Group stage,Wed,Neutral,L,0,3,it Italy,51.0,12445.0,Granit Xhaka,3-4-1-2,Sergey Karasev,Match Report,,6.0,1.0,0,0,0.0,0,Switzerland,0.2,2.7,Italy
+108,2021-06-20,20:00,UEFA Euro,Group stage,Sun,Neutral,W,3,1,tr Türkiye,51.0,17138.0,Granit Xhaka,3-4-1-2,Slavko Vinčič,Match Report,,23.0,10.0,0,0,5.0,0,Switzerland,2.1,1.2,Türkiye
+109,2021-06-28,22:00,UEFA Euro,Round of 16,Mon,Neutral,D,3 (5),3 (4),fr France,46.0,22642.0,Granit Xhaka,3-4-1-2,Fernando Rapallini,Match Report,Switzerland won on penalty kicks following extra time,11.0,4.0,0,1,5.0,0,Switzerland,1.9,3.4,France
+110,2021-07-02,19:00,UEFA Euro,Quarter-finals,Fri,Home,D,1 (1),1 (3),es Spain,28.0,24764.0,Xherdan Shaqiri,4-2-3-1,Michael Oliver,Match Report,Spain won on penalty kicks following extra time,8.0,2.0,0,0,10.0,0,Switzerland,0.8,2.9,Spain
+112,2019-03-26,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,D,3,3,ch Switzerland,45.0,18352.0,Simon Kjær,4-2-3-1,Damir Skomina,Match Report,,14.0,7.0,0,0,0.0,0,Denmark,,,Switzerland
+113,2019-06-07,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,D,1,1,ie Rep. of Ireland,62.0,34610.0,Simon Kjær,4-1-3-2,Cüneyt Çakιr,Match Report,,18.0,3.0,0,0,3.0,0,Denmark,,,Rep. of Ireland
+114,2019-06-10,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,5,1,ge Georgia,69.0,15387.0,Simon Kjær,4-3-1-2,Robert Schörgenhofer,Match Report,,31.0,9.0,1,1,1.0,0,Denmark,,,Georgia
+115,2019-09-05,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,6,0,gi Gibraltar,78.0,2076.0,Simon Kjær,4-1-4-1,Jonathan Lardot,Match Report,,21.0,10.0,2,2,2.0,1,Denmark,,,Gibraltar
+116,2019-09-08,20:00,UEFA Euro Qualifying,Group stage,Sun,Away,D,0,0,ge Georgia,61.0,21456.0,Simon Kjær,4-4-2◆,François Letexier,Match Report,,12.0,6.0,0,0,1.0,1,Denmark,,,Georgia
+117,2019-10-12,18:00,UEFA Euro Qualifying,Group stage,Sat,Home,W,1,0,ch Switzerland,47.0,35964.0,Simon Kjær,4-2-3-1,Aliaksei Kulbakou,Match Report,,12.0,3.0,0,0,4.0,1,Denmark,,,Switzerland
+118,2019-11-15,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,6,0,gi Gibraltar,80.0,24033.0,Simon Kjær,4-2-3-1,István Vad II,Match Report,,28.0,9.0,0,0,0.0,1,Denmark,,,Gibraltar
+119,2019-11-18,19:45,UEFA Euro Qualifying,Group stage,Mon,Away,D,1,1,ie Rep. of Ireland,48.0,50000.0,Simon Kjær,4-2-2-2,Felix Brych,Match Report,,3.0,2.0,0,0,2.0,0,Denmark,,,Rep. of Ireland
+122,2021-06-12,18:00,UEFA Euro,Group stage,Sat,Neutral,L,0,1,fi Finland,69.0,13790.0,Simon Kjær,4-3-3,Anthony Taylor,Match Report,,21.0,5.0,0,1,0.0,0,Denmark,1.8,0.3,Finland
+123,2021-06-17,18:00,UEFA Euro,Group stage,Thu,Neutral,L,1,2,be Belgium,47.0,23395.0,Simon Kjær,3-4-3,Björn Kuipers,Match Report,,21.0,5.0,0,0,2.0,0,Denmark,1.7,0.9,Belgium
+124,2021-06-21,21:00,UEFA Euro,Group stage,Mon,Neutral,W,4,1,ru Russia,64.0,23644.0,Simon Kjær,3-4-3,Clément Turpin,Match Report,,16.0,10.0,0,0,1.0,0,Denmark,2.1,1.1,Russia
+125,2021-06-26,18:00,UEFA Euro,Round of 16,Sat,Neutral,W,4,0,wls Wales,53.0,14645.0,Simon Kjær,3-4-3,Daniel Siebert,Match Report,,16.0,8.0,0,0,1.0,1,Denmark,2.7,0.6,Wales
+126,2021-07-03,20:00,UEFA Euro,Quarter-finals,Sat,Away,W,2,1,cz Czechia,45.0,16306.0,Simon Kjær,3-4-3,Björn Kuipers,Match Report,,11.0,6.0,0,0,4.0,0,Denmark,1.5,1.6,Czechia
+127,2021-07-07,20:00,UEFA Euro,Semi-finals,Wed,Away,L,1,2,eng England,42.0,64950.0,Simon Kjær,3-4-3,Danny Makkelie,Match Report,Required Extra Time,6.0,3.0,0,0,8.0,0,Denmark,0.2,2.7,England
+128,2019-03-23,18:00,UEFA Euro Qualifying,Group stage,Sat,Home,L,0,2,ch Switzerland,36.0,49207.0,Jaba Kankava,4-1-4-1,Craig Pawson,Match Report,,6.0,1.0,0,0,6.0,0,Georgia,,,Switzerland
+129,2019-03-26,19:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,0,1,ie Rep. of Ireland,51.0,40317.0,Jaba Kankava,4-1-4-1,Serdar Gözübüyük,Match Report,,14.0,1.0,0,0,1.0,0,Georgia,,,Rep. of Ireland
+130,2019-06-07,20:00,UEFA Euro Qualifying,Group stage,Fri,Home,W,3,0,gi Gibraltar,75.0,17357.0,Jaba Kankava,4-2-3-1,Antti Munukka,Match Report,,23.0,12.0,1,1,1.0,1,Georgia,,,Gibraltar
+131,2019-06-10,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,L,1,5,dk Denmark,31.0,15387.0,Jaba Kankava,4-3-1-2,Robert Schörgenhofer,Match Report,,9.0,2.0,0,0,4.0,0,Georgia,,,Denmark
+132,2019-09-08,20:00,UEFA Euro Qualifying,Group stage,Sun,Home,D,0,0,dk Denmark,40.0,21456.0,Guram Kashia,4-2-3-1,François Letexier,Match Report,,7.0,1.0,0,0,6.0,1,Georgia,,,Denmark
+133,2019-10-12,17:00,UEFA Euro Qualifying,Group stage,Sat,Home,D,0,0,ie Rep. of Ireland,56.0,24385.0,Jaba Kankava,4-2-3-1,Marco Guida,Match Report,,14.0,0.0,0,0,3.0,1,Georgia,,,Rep. of Ireland
+134,2019-10-15,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,3,2,gi Gibraltar,66.0,1455.0,Jaba Kankava,4-2-3-1,Paolo Valeri,Match Report,,19.0,6.0,0,0,3.0,0,Georgia,,,Gibraltar
+135,2019-11-15,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,L,0,1,ch Switzerland,32.0,16400.0,Jaba Kankava,4-2-3-1,Danny Makkelie,Match Report,,14.0,5.0,0,0,9.0,0,Georgia,,,Switzerland
+136,2020-10-08,20:00,UEFA Euro Qualifying,Semi-finals,Thu,Home,W,1,0,by Belarus,49.0,,Jaba Kankava,4-2-3-1,Cüneyt Çakιr,Match Report,,7.0,6.0,1,1,1.0,1,Georgia,,,Belarus
+137,2020-11-12,21:00,UEFA Euro Qualifying,Finals,Thu,Home,L,0,1,mk N. Macedonia,56.0,,Jaba Kankava,4-2-3-1,Anthony Taylor,Match Report,,11.0,2.0,0,0,1.0,0,Georgia,,,N. Macedonia
+142,2019-03-21,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,2,1,az Azerbaijan,74.0,23146.0,Luka Modrić,4-2-3-1,Georgi Kabakov,Match Report,,21.0,5.0,0,0,1.0,0,Croatia,,,Azerbaijan
+143,2019-03-24,18:00,UEFA Euro Qualifying,Group stage,Sun,Away,L,1,2,hu Hungary,64.0,19400.0,Luka Modrić,4-2-3-1,William Collum,Match Report,,11.0,3.0,0,0,5.0,0,Croatia,,,Hungary
+144,2019-06-08,15:00,UEFA Euro Qualifying,Group stage,Sat,Home,W,2,1,wls Wales,63.0,17061.0,Luka Modrić,4-2-3-1,István Kovács,Match Report,,10.0,3.0,0,0,6.0,0,Croatia,,,Wales
+145,2019-09-06,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,4,0,sk Slovakia,51.0,18098.0,Luka Modrić,4-2-3-1,Felix Brych,Match Report,,31.0,9.0,0,0,5.0,1,Croatia,,,Slovakia
+146,2019-09-09,20:00,UEFA Euro Qualifying,Group stage,Mon,Away,D,1,1,az Azerbaijan,63.0,9150.0,Luka Modrić,4-2-3-1,Sandro Schärer,Match Report,,21.0,7.0,1,1,2.0,0,Croatia,,,Azerbaijan
+147,2019-10-10,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,3,0,hu Hungary,69.0,32110.0,Luka Modrić,4-3-3,Daniele Orsato,Match Report,,17.0,8.0,0,1,1.0,1,Croatia,,,Hungary
+148,2019-10-13,19:45,UEFA Euro Qualifying,Group stage,Sun,Away,D,1,1,wls Wales,64.0,31745.0,Luka Modrić,4-2-3-1,Björn Kuipers,Match Report,,6.0,2.0,0,0,2.0,0,Croatia,,,Wales
+149,2019-11-16,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,3,1,sk Slovakia,67.0,8212.0,Luka Modrić,4-2-3-1,Clément Turpin,Match Report,,25.0,13.0,0,0,2.0,0,Croatia,,,Slovakia
+152,2021-06-13,14:00,UEFA Euro,Group stage,Sun,Neutral,L,0,1,eng England,51.0,18497.0,Luka Modrić,4-3-3,Daniele Orsato,Match Report,,8.0,2.0,0,0,1.0,0,Croatia,0.4,1.5,England
+153,2021-06-18,17:00,UEFA Euro,Group stage,Fri,Neutral,D,1,1,cz Czechia,49.0,5607.0,Luka Modrić,4-2-3-1,Carlos del Cerro,Match Report,,11.0,2.0,0,0,0.0,0,Croatia,0.9,1.6,Czechia
+154,2021-06-22,20:00,UEFA Euro,Group stage,Tue,Neutral,W,3,1,sct Scotland,66.0,9896.0,Luka Modrić,4-3-3,Fernando Rapallini,Match Report,,11.0,6.0,0,0,2.0,0,Croatia,1.0,1.4,Scotland
+155,2021-06-28,18:00,UEFA Euro,Round of 16,Mon,Neutral,L,3,5,es Spain,34.0,22771.0,Luka Modrić,4-3-3,Cüneyt Çakιr,Match Report,Required Extra Time,12.0,6.0,0,0,5.0,0,Croatia,3.2,3.6,Spain
+156,2019-03-21,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,2,0,hu Hungary,56.0,14235.0,Marek Hamšík,4-2-3-1,Vladislav Bezborodov,Match Report,,11.0,7.0,0,0,5.0,1,Slovakia,,,Hungary
+157,2019-03-24,14:00,UEFA Euro Qualifying,Group stage,Sun,Away,L,0,1,wls Wales,58.0,31617.0,Marek Hamšík,4-3-3,Felix Zwayer,Match Report,,13.0,4.0,0,0,3.0,0,Slovakia,,,Wales
+158,2019-06-11,20:00,UEFA Euro Qualifying,Group stage,Tue,Away,W,5,1,az Azerbaijan,63.0,8200.0,Marek Hamšík,4-3-3,John Beaton,Match Report,,21.0,10.0,0,0,1.0,0,Slovakia,,,Azerbaijan
+159,2019-09-06,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,0,4,hr Croatia,49.0,18098.0,Marek Hamšík,4-3-3,Felix Brych,Match Report,,9.0,5.0,0,0,5.0,0,Slovakia,,,Croatia
+160,2019-09-09,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,2,1,hu Hungary,51.0,21700.0,Marek Hamšík,4-3-3,Antonio Matéu Lahoz,Match Report,,14.0,5.0,0,0,6.0,0,Slovakia,,,Hungary
+161,2019-10-10,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,D,1,1,wls Wales,70.0,18071.0,Marek Hamšík,4-3-3,Carlos del Cerro,Match Report,,13.0,4.0,0,0,5.0,0,Slovakia,,,Wales
+162,2019-11-16,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,L,1,3,hr Croatia,33.0,8212.0,Marek Hamšík,4-3-3,Clément Turpin,Match Report,,6.0,3.0,0,0,10.0,0,Slovakia,,,Croatia
+163,2019-11-19,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2,0,az Azerbaijan,65.0,7825.0,Marek Hamšík,4-3-3,Sergiy Boyko,Match Report,,16.0,8.0,0,0,1.0,1,Slovakia,,,Azerbaijan
+164,2020-10-08,20:45,UEFA Euro Qualifying,Semi-finals,Thu,Home,D,0 (4),0 (2),ie Rep. of Ireland,54.0,,Marek Hamšík,4-3-3,Clément Turpin,Match Report,Slovakia won on penalty kicks following extra time,12.0,3.0,0,0,2.0,1,Slovakia,,,Rep. of Ireland
+165,2020-11-12,19:45,UEFA Euro Qualifying,Finals,Thu,Away,W,2,1,nir Northern Ireland,54.0,,Marek Hamšík,4-1-4-1,Felix Brych,Match Report,Required Extra Time,8.0,3.0,0,0,3.0,0,Slovakia,,,Northern Ireland
+168,2021-06-14,17:00,UEFA Euro,Group stage,Mon,Neutral,W,2,1,pl Poland,42.0,12862.0,Marek Hamšík,4-2-3-1,Ovidiu Hațegan,Match Report,,11.0,2.0,0,0,2.0,0,Slovakia,0.4,1.4,Poland
+169,2021-06-18,14:00,UEFA Euro,Group stage,Fri,Neutral,L,0,1,se Sweden,58.0,11525.0,Marek Hamšík,4-2-3-1,Daniel Siebert,Match Report,,10.0,0.0,0,0,3.0,0,Slovakia,0.5,1.7,Sweden
+170,2021-06-23,18:00,UEFA Euro,Group stage,Wed,Neutral,L,0,5,es Spain,35.0,11204.0,Marek Hamšík,4-2-3-1,Björn Kuipers,Match Report,,3.0,0.0,0,0,5.0,0,Slovakia,0.1,3.4,Spain
+171,2019-03-21,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,L,0,2,sk Slovakia,44.0,14235.0,Ádám Szalai,4-2-3-1,Vladislav Bezborodov,Match Report,,16.0,5.0,0,0,5.0,0,Hungary,,,Slovakia
+172,2019-03-24,18:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,2,1,hr Croatia,36.0,19400.0,Balázs Dzsudzsák,4-2-3-1,William Collum,Match Report,,12.0,8.0,0,0,1.0,0,Hungary,,,Croatia
+173,2019-06-08,20:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,3,1,az Azerbaijan,46.0,10450.0,Balázs Dzsudzsák,4-2-3-1,Kevin Blom,Match Report,,15.0,7.0,0,0,1.0,0,Hungary,,,Azerbaijan
+174,2019-06-11,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,1,0,wls Wales,54.0,18350.0,Balázs Dzsudzsák,4-2-3-1,Matej Jug,Match Report,,11.0,3.0,0,0,4.0,1,Hungary,,,Wales
+175,2019-09-09,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,L,1,2,sk Slovakia,49.0,21700.0,Balázs Dzsudzsák,4-2-3-1,Antonio Matéu Lahoz,Match Report,,18.0,7.0,0,0,3.0,0,Hungary,,,Slovakia
+176,2019-10-10,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,L,0,3,hr Croatia,32.0,32110.0,Balázs Dzsudzsák,4-5-1,Daniele Orsato,Match Report,,5.0,1.0,0,0,4.0,0,Hungary,,,Croatia
+177,2019-10-13,18:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,1,0,az Azerbaijan,52.0,11300.0,Balázs Dzsudzsák,4-2-3-1,Dennis Higler,Match Report,,23.0,6.0,0,0,2.0,1,Hungary,,,Azerbaijan
+178,2019-11-19,19:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,0,2,wls Wales,59.0,31762.0,Balázs Dzsudzsák,4-2-3-1,Ovidiu Hațegan,Match Report,,5.0,2.0,0,0,3.0,0,Hungary,,,Wales
+179,2020-10-08,21:45,UEFA Euro Qualifying,Semi-finals,Thu,Away,W,3,1,bg Bulgaria,53.0,1929.0,Ádám Szalai,3-4-3,Szymon Marciniak,Match Report,,9.0,4.0,0,0,4.0,0,Hungary,,,Bulgaria
+180,2020-11-12,20:45,UEFA Euro Qualifying,Finals,Thu,Home,W,2,1,is Iceland,73.0,,Ádám Szalai,3-5-2,Björn Kuipers,Match Report,,17.0,7.0,0,0,5.0,0,Hungary,,,Iceland
+183,2021-06-15,18:00,UEFA Euro,Group stage,Tue,Neutral,L,0,3,pt Portugal,31.0,55662.0,Ádám Szalai,3-5-2,Cüneyt Çakιr,Match Report,,5.0,3.0,0,0,4.0,0,Hungary,0.2,2.5,Portugal
+184,2021-06-19,15:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,fr France,34.0,55998.0,Ádám Szalai,3-5-2,Michael Oliver,Match Report,,5.0,3.0,0,0,3.0,0,Hungary,0.4,2.0,France
+185,2021-06-23,21:00,UEFA Euro,Group stage,Wed,Neutral,D,2,2,de Germany,25.0,12413.0,Ádám Szalai,5-3-2,Sergey Karasev,Match Report,,9.0,4.0,0,0,4.0,0,Hungary,0.8,2.2,Germany
+186,2019-03-23,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,2,1,no Norway,75.0,39752.0,Sergio Ramos,4-3-3,Andris Treimanis,Match Report,,26.0,11.0,1,1,1.0,0,Spain,,,Norway
+187,2019-03-26,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,2,0,mt Malta,84.0,16542.0,Sergio Ramos,4-3-3,Andrew Dallas,Match Report,,24.0,7.0,0,0,1.0,1,Spain,,,Malta
+188,2019-06-07,19:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,4,1,fo Faroe Islands,77.0,3226.0,Sergio Ramos,4-3-3,Enea Jorgji,Match Report,,22.0,12.0,0,0,1.0,0,Spain,,,Faroe Islands
+189,2019-06-10,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,3,0,se Sweden,74.0,72205.0,Sergio Ramos,4-3-3,William Collum,Match Report,,23.0,7.0,2,2,1.0,1,Spain,,,Sweden
+190,2019-09-05,21:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,2,1,ro Romania,74.0,50024.0,Sergio Ramos,4-3-3,Deniz Aytekin,Match Report,,21.0,10.0,1,1,2.0,0,Spain,,,Romania
+191,2019-09-08,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,W,4,0,fo Faroe Islands,71.0,23644.0,Sergio Ramos,4-3-3,Krzysztof Jakubik,Match Report,,30.0,9.0,0,0,2.0,1,Spain,,,Faroe Islands
+192,2019-10-12,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,D,1,1,no Norway,62.0,25200.0,Sergio Ramos,4-3-3,Michael Oliver,Match Report,,12.0,3.0,0,0,2.0,0,Spain,,,Norway
+193,2019-10-15,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,D,1,1,se Sweden,75.0,49712.0,Raúl Albiol,4-4-2◆,Clément Turpin,Match Report,,15.0,6.0,0,0,6.0,0,Spain,,,Sweden
+194,2019-11-15,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,7,0,mt Malta,80.0,19773.0,Sergio Ramos,4-3-3,Viktor Kassai,Match Report,,32.0,15.0,0,0,0.0,1,Spain,,,Malta
+195,2019-11-18,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,5,0,ro Romania,74.0,36198.0,Sergio Ramos,4-3-3,Aliaksei Kulbakou,Match Report,,21.0,6.0,0,0,2.0,1,Spain,,,Romania
+198,2021-06-14,21:00,UEFA Euro,Group stage,Mon,Neutral,D,0,0,se Sweden,84.0,10559.0,Jordi Alba,4-3-3,Slavko Vinčič,Match Report,,17.0,5.0,0,0,0.0,1,Spain,2.3,1.2,Sweden
+199,2021-06-19,21:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,pl Poland,76.0,11742.0,Jordi Alba,4-3-3,Daniele Orsato,Match Report,,11.0,5.0,0,1,1.0,0,Spain,2.9,1.3,Poland
+200,2021-06-23,18:00,UEFA Euro,Group stage,Wed,Neutral,W,5,0,sk Slovakia,65.0,11204.0,Sergio Busquets,4-3-3,Björn Kuipers,Match Report,,18.0,8.0,0,1,0.0,1,Spain,3.4,0.1,Slovakia
+201,2021-06-28,18:00,UEFA Euro,Round of 16,Mon,Neutral,W,5,3,hr Croatia,66.0,22771.0,Sergio Busquets,4-3-3,Cüneyt Çakιr,Match Report,Required Extra Time,23.0,10.0,0,0,4.0,0,Spain,3.6,3.2,Croatia
+202,2021-07-02,19:00,UEFA Euro,Quarter-finals,Fri,Away,D,1 (3),1 (1),ch Switzerland,72.0,24764.0,Sergio Busquets,4-3-3,Michael Oliver,Match Report,Spain won on penalty kicks following extra time,28.0,10.0,0,0,1.0,0,Spain,2.9,0.8,Switzerland
+203,2021-07-06,20:00,UEFA Euro,Semi-finals,Tue,Away,D,1 (2),1 (4),it Italy,69.0,57811.0,Sergio Busquets,4-3-3,Felix Brych,Match Report,Italy won on penalty kicks following extra time,16.0,4.0,0,0,3.0,0,Spain,1.5,0.8,Italy
+204,2019-03-23,18:00,UEFA Euro Qualifying,Group stage,Sat,Home,W,2,1,ro Romania,50.0,30115.0,Andreas Granqvist,4-4-2,Michael Oliver,Match Report,,17.0,6.0,0,0,4.0,0,Sweden,,,Romania
+205,2019-03-26,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,D,3,3,no Norway,61.0,23459.0,Andreas Granqvist,4-2-2-2,Gianluca Rocchi,Match Report,,20.0,10.0,0,1,0.0,0,Sweden,,,Norway
+206,2019-06-07,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,3,0,mt Malta,64.0,26421.0,Albin Ekdal,4-4-1-1,Robert Harvey,Match Report,,26.0,14.0,0,0,1.0,1,Sweden,,,Malta
+207,2019-06-10,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,L,0,3,es Spain,26.0,72205.0,Albin Ekdal,4-4-2,William Collum,Match Report,,5.0,1.0,0,0,4.0,0,Sweden,,,Spain
+208,2019-09-05,19:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,4,0,fo Faroe Islands,60.0,3108.0,Andreas Granqvist,4-4-2,Tiago Martins,Match Report,,12.0,8.0,0,0,0.0,1,Sweden,,,Faroe Islands
+209,2019-09-08,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,D,1,1,no Norway,54.0,38372.0,Andreas Granqvist,4-4-2,Slavko Vinčič,Match Report,,5.0,1.0,0,0,1.0,0,Sweden,,,Norway
+210,2019-10-12,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,4,0,mt Malta,60.0,10702.0,Andreas Granqvist,4-4-2,Sergey Ivanov,Match Report,,21.0,9.0,2,2,1.0,1,Sweden,,,Malta
+211,2019-10-15,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,D,1,1,es Spain,25.0,49712.0,Andreas Granqvist,4-4-2,Clément Turpin,Match Report,,11.0,7.0,0,0,5.0,0,Sweden,,,Spain
+212,2019-11-15,21:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,2,0,ro Romania,47.0,49678.0,Andreas Granqvist,4-4-2,Daniele Orsato,Match Report,,10.0,3.0,0,0,3.0,1,Sweden,,,Romania
+213,2019-11-18,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,3,0,fo Faroe Islands,65.0,19737.0,Pontus Jansson,4-4-2,Matej Jug,Match Report,,20.0,9.0,0,0,2.0,1,Sweden,,,Faroe Islands
+217,2021-06-14,21:00,UEFA Euro,Group stage,Mon,Neutral,D,0,0,es Spain,16.0,10559.0,Sebastian Larsson,4-4-2,Slavko Vinčič,Match Report,,4.0,0.0,0,0,5.0,1,Sweden,1.2,2.3,Spain
+218,2021-06-18,14:00,UEFA Euro,Group stage,Fri,Neutral,W,1,0,sk Slovakia,42.0,11525.0,Sebastian Larsson,4-4-2,Daniel Siebert,Match Report,,12.0,3.0,1,1,0.0,1,Sweden,1.7,0.5,Slovakia
+219,2021-06-23,17:00,UEFA Euro,Group stage,Wed,Neutral,W,3,2,pl Poland,34.0,14252.0,Sebastian Larsson,4-4-2,Michael Oliver,Match Report,,11.0,4.0,0,0,4.0,0,Sweden,1.1,1.9,Poland
+220,2021-06-29,20:00,UEFA Euro,Round of 16,Tue,Neutral,L,1,2,ua Ukraine,46.0,9221.0,Sebastian Larsson,4-4-2,Daniele Orsato,Match Report,Required Extra Time,13.0,3.0,0,0,2.0,0,Sweden,1.2,1.8,Ukraine
+222,2019-03-23,18:00,UEFA Euro Qualifying,Group stage,Sat,Away,L,1,2,se Sweden,50.0,30115.0,Cristian Săpunaru,4-2-3-1,Michael Oliver,Match Report,,14.0,5.0,0,0,4.0,0,Romania,,,Sweden
+223,2019-03-26,21:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,4,1,fo Faroe Islands,62.0,10502.0,Ciprian Tătărușanu,4-2-2-2,Halil Umut Meler,Match Report,,18.0,8.0,0,0,3.0,0,Romania,,,Faroe Islands
+224,2019-06-07,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,D,2,2,no Norway,46.0,17664.0,Cristian Săpunaru,4-2-3-1,Sergey Karasev,Match Report,,15.0,7.0,0,0,2.0,0,Romania,,,Norway
+225,2019-06-10,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,4,0,mt Malta,57.0,6471.0,Ciprian Tătărușanu,4-4-2,Dennis Higler,Match Report,,19.0,7.0,0,0,1.0,1,Romania,,,Malta
+226,2019-09-05,21:45,UEFA Euro Qualifying,Group stage,Thu,Home,L,1,2,es Spain,26.0,50024.0,Vlad Chiricheș,5-3-2,Deniz Aytekin,Match Report,,10.0,3.0,0,0,8.0,0,Romania,,,Spain
+227,2019-09-08,19:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,1,0,mt Malta,63.0,13376.0,Vlad Chiricheș,4-4-2,Duje Strukan,Match Report,,22.0,6.0,0,0,2.0,1,Romania,,,Malta
+228,2019-10-12,17:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,3,0,fo Faroe Islands,68.0,2381.0,Vlad Chiricheș,4-4-2,Əliyar Ağayev,Match Report,,28.0,11.0,0,0,3.0,1,Romania,,,Faroe Islands
+229,2019-10-15,21:45,UEFA Euro Qualifying,Group stage,Tue,Home,D,1,1,no Norway,36.0,29854.0,Ciprian Tătărușanu,4-2-3-1,Bobby Madden,Match Report,,15.0,6.0,0,1,3.0,0,Romania,,,Norway
+230,2019-11-15,21:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,0,2,se Sweden,53.0,49678.0,Ciprian Tătărușanu,4-4-2,Daniele Orsato,Match Report,,14.0,3.0,0,0,1.0,0,Romania,,,Sweden
+231,2019-11-18,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,L,0,5,es Spain,26.0,36198.0,Ciprian Tătărușanu,4-2-3-1,Aliaksei Kulbakou,Match Report,,6.0,2.0,0,0,2.0,0,Romania,,,Spain
+232,2020-10-08,18:45,UEFA Euro Qualifying,Semi-finals,Thu,Away,L,1,2,is Iceland,61.0,60.0,Ciprian Tătărușanu,4-3-3,Damir Skomina,Match Report,,7.0,1.0,1,1,1.0,0,Romania,,,Iceland
+235,2019-03-21,20:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,1,0,at Austria,42.0,40400.0,Robert Lewandowski,4-4-2,Anastasios Sidiropoulos,Match Report,,11.0,5.0,0,0,2.0,1,Poland,,,Austria
+236,2019-03-24,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,W,2,0,lv Latvia,72.0,51112.0,Robert Lewandowski,4-4-2,Aghayev Aliyev,Match Report,,23.0,8.0,0,0,4.0,1,Poland,,,Latvia
+237,2019-06-07,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,1,0,mk N. Macedonia,52.0,22000.0,Robert Lewandowski,4-2-3-1,Gianluca Rocchi,Match Report,,7.0,2.0,0,0,3.0,1,Poland,,,N. Macedonia
+238,2019-06-10,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,4,0,il Israel,48.0,57229.0,Robert Lewandowski,4-4-2,Tobias Stieler,Match Report,,14.0,4.0,1,1,4.0,1,Poland,,,Israel
+239,2019-09-06,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,L,0,2,si Slovenia,65.0,15231.0,Robert Lewandowski,4-4-2,Sergey Karasev,Match Report,,7.0,1.0,0,0,4.0,0,Poland,,,Slovenia
+240,2019-09-09,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,D,0,0,at Austria,35.0,56788.0,Robert Lewandowski,4-4-2,Viktor Kassai,Match Report,,7.0,2.0,0,0,6.0,1,Poland,,,Austria
+241,2019-10-10,21:45,UEFA Euro Qualifying,Group stage,Thu,Away,W,3,0,lv Latvia,65.0,7107.0,Robert Lewandowski,4-2-3-1,Halis Özkahya,Match Report,,14.0,7.0,0,0,0.0,1,Poland,,,Latvia
+242,2019-10-13,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,W,2,0,mk N. Macedonia,64.0,52894.0,Robert Lewandowski,4-2-3-1,Antonio Matéu Lahoz,Match Report,,20.0,4.0,0,0,2.0,1,Poland,,,N. Macedonia
+243,2019-11-16,21:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,2,1,il Israel,48.0,16700.0,Kamil Glik,4-2-3-1,Mattias Gestranius,Match Report,,20.0,11.0,0,0,1.0,0,Poland,,,Israel
+244,2019-11-19,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,3,2,si Slovenia,59.0,53946.0,Robert Lewandowski,4-2-3-1,Daniel Siebert,Match Report,,20.0,7.0,0,0,1.0,0,Poland,,,Slovenia
+247,2021-06-14,17:00,UEFA Euro,Group stage,Mon,Neutral,L,1,2,sk Slovakia,58.0,12862.0,Robert Lewandowski,3-1-4-2,Ovidiu Hațegan,Match Report,,17.0,3.0,0,0,1.0,0,Poland,1.4,0.4,Slovakia
+248,2021-06-19,21:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,es Spain,24.0,11742.0,Robert Lewandowski,3-5-2,Daniele Orsato,Match Report,,5.0,2.0,0,0,4.0,0,Poland,1.3,2.9,Spain
+249,2021-06-23,17:00,UEFA Euro,Group stage,Wed,Neutral,L,2,3,se Sweden,66.0,14252.0,Robert Lewandowski,3-4-1-2,Michael Oliver,Match Report,,18.0,6.0,0,0,1.0,0,Poland,1.9,1.1,Sweden
+250,2019-03-21,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,L,0,1,pl Poland,58.0,40400.0,Julian Baumgartlinger,4-2-3-1,Anastasios Sidiropoulos,Match Report,,16.0,2.0,0,0,4.0,0,Austria,,,Poland
+251,2019-03-24,19:00,UEFA Euro Qualifying,Group stage,Sun,Away,L,2,4,il Israel,57.0,16180.0,Julian Baumgartlinger,4-4-1-1,Yevhen Aranovskyi,Match Report,,20.0,8.0,0,0,1.0,0,Austria,,,Israel
+252,2019-06-07,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,1,0,si Slovenia,55.0,19200.0,David Alaba,4-1-4-1,Aliaksei Kulbakou,Match Report,,18.0,8.0,0,0,2.0,1,Austria,,,Slovenia
+253,2019-06-10,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,4,1,mk N. Macedonia,61.0,10501.0,Marko Arnautović,4-5-1,Aleksey Eskov,Match Report,,20.0,8.0,1,1,0.0,0,Austria,,,N. Macedonia
+254,2019-09-06,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,W,6,0,lv Latvia,77.0,16300.0,Julian Baumgartlinger,4-2-3-1,Robert Hennessy,Match Report,,31.0,11.0,1,1,1.0,1,Austria,,,Latvia
+255,2019-09-09,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,D,0,0,pl Poland,65.0,56788.0,Julian Baumgartlinger,4-2-3-1,Viktor Kassai,Match Report,,22.0,6.0,0,0,2.0,1,Austria,,,Poland
+256,2019-10-10,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,3,1,il Israel,54.0,26200.0,Julian Baumgartlinger,4-2-3-1,William Collum,Match Report,,16.0,7.0,0,0,3.0,0,Austria,,,Israel
+257,2019-10-13,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,1,0,si Slovenia,55.0,15108.0,Julian Baumgartlinger,4-2-3-1,Cüneyt Çakιr,Match Report,,12.0,4.0,0,0,2.0,1,Austria,,,Slovenia
+258,2019-11-16,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,2,1,mk N. Macedonia,53.0,41100.0,Julian Baumgartlinger,4-2-3-1,Michael Oliver,Match Report,,17.0,8.0,0,0,3.0,0,Austria,,,N. Macedonia
+259,2019-11-19,21:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,0,1,lv Latvia,75.0,2781.0,Julian Baumgartlinger,4-2-3-1,Alejandro Hernández,Match Report,,21.0,3.0,0,0,2.0,0,Austria,,,Latvia
+262,2021-06-13,19:00,UEFA Euro,Group stage,Sun,Neutral,W,3,1,mk N. Macedonia,62.0,9082.0,David Alaba,3-1-4-2,Andreas Ekberg,Match Report,,10.0,6.0,0,0,1.0,0,Austria,2.0,0.6,N. Macedonia
+263,2021-06-17,21:00,UEFA Euro,Group stage,Thu,Neutral,L,0,2,nl Netherlands,53.0,15243.0,David Alaba,3-1-4-2,Orel Grinfeeld,Match Report,,9.0,1.0,0,0,1.0,0,Austria,0.7,3.1,Netherlands
+264,2021-06-21,19:00,UEFA Euro,Group stage,Mon,Neutral,W,1,0,ua Ukraine,50.0,10472.0,David Alaba,4-2-3-1,Cüneyt Çakιr,Match Report,,18.0,4.0,0,0,1.0,1,Austria,1.6,0.3,Ukraine
+265,2021-06-26,20:00,UEFA Euro,Round of 16,Sat,Neutral,L,1,2,it Italy,49.0,18910.0,David Alaba,4-2-3-1,Anthony Taylor,Match Report,Required Extra Time,16.0,3.0,0,0,4.0,0,Austria,0.8,1.9,Italy
+266,2019-03-22,21:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,4,1,md Moldova,67.0,10042.0,Hugo Lloris,4-5-1,Aleksandar Stavrev,Match Report,,17.0,10.0,0,0,0.0,0,France,,,Moldova
+267,2019-03-25,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,4,0,is Iceland,75.0,64538.0,Hugo Lloris,4-2-3-1,István Kovács,Match Report,,15.0,5.0,0,0,4.0,1,France,,,Iceland
+268,2019-06-08,21:45,UEFA Euro Qualifying,Group stage,Sat,Away,L,0,2,tr Türkiye,63.0,36783.0,Hugo Lloris,4-3-3,Damir Skomina,Match Report,,4.0,0.0,0,0,4.0,0,France,,,Türkiye
+269,2019-06-11,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,4,0,ad Andorra,86.0,3187.0,Hugo Lloris,4-2-3-1,Fran Jović,Match Report,,21.0,10.0,0,0,1.0,1,France,,,Andorra
+270,2019-09-07,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,4,1,al Albania,72.0,77655.0,Hugo Lloris,4-2-3-1,Jesús Gil,Match Report,,13.0,5.0,0,1,0.0,0,France,,,Albania
+271,2019-09-10,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,3,0,ad Andorra,84.0,55383.0,Hugo Lloris,4-2-3-1,Mykola Balakin,Match Report,,31.0,12.0,0,1,0.0,1,France,,,Andorra
+272,2019-10-11,18:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,1,0,is Iceland,71.0,9719.0,Raphaël Varane,4-3-3,Gianluca Rocchi,Match Report,,22.0,6.0,1,1,1.0,1,France,,,Iceland
+273,2019-10-14,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,D,1,1,tr Türkiye,64.0,72154.0,Raphaël Varane,4-2-3-1,Felix Brych,Match Report,,23.0,9.0,0,0,0.0,0,France,,,Türkiye
+274,2019-11-14,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,2,1,md Moldova,77.0,64367.0,Raphaël Varane,4-2-3-1,Gediminas Mažeika,Match Report,,17.0,5.0,1,1,0.0,0,France,,,Moldova
+275,2019-11-17,20:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,2,0,al Albania,57.0,19228.0,Raphaël Varane,3-4-1-2,Slavko Vinčič,Match Report,,9.0,5.0,0,0,0.0,1,France,,,Albania
+278,2021-06-15,21:00,UEFA Euro,Group stage,Tue,Neutral,W,1,0,de Germany,39.0,13000.0,Hugo Lloris,4-3-3,Carlos del Cerro,Match Report,,4.0,1.0,0,0,1.0,1,France,0.3,0.9,Germany
+279,2021-06-19,15:00,UEFA Euro,Group stage,Sat,Neutral,D,1,1,hu Hungary,66.0,55998.0,Hugo Lloris,4-3-3,Michael Oliver,Match Report,,15.0,4.0,0,0,2.0,0,France,2.0,0.4,Hungary
+280,2021-06-23,21:00,UEFA Euro,Group stage,Wed,Neutral,D,2,2,pt Portugal,52.0,54886.0,Hugo Lloris,4-2-3-1,Antonio Matéu Lahoz,Match Report,,10.0,4.0,1,1,3.0,0,France,1.9,1.9,Portugal
+281,2021-06-28,22:00,UEFA Euro,Round of 16,Mon,Neutral,D,3 (4),3 (5),ch Switzerland,54.0,22642.0,Hugo Lloris,3-5-2,Fernando Rapallini,Match Report,Switzerland won on penalty kicks following extra time,26.0,8.0,0,0,1.0,0,France,3.4,1.9,Switzerland
+282,2019-03-22,20:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,0,2,tr Türkiye,54.0,11730.0,Elseid Hysaj,3-4-1-2,Tobias Stieler,Match Report,,12.0,3.0,0,0,0.0,0,Albania,,,Türkiye
+283,2019-03-25,20:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,3,0,ad Andorra,77.0,1373.0,Elseid Hysaj,4-4-2,Filip Glova,Match Report,,12.0,4.0,0,0,0.0,1,Albania,,,Andorra
+284,2019-06-08,13:00,UEFA Euro Qualifying,Group stage,Sat,Away,L,0,1,is Iceland,54.0,8968.0,Elseid Hysaj,4-3-3,Bobby Madden,Match Report,,8.0,2.0,0,0,2.0,0,Albania,,,Iceland
+285,2019-06-11,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2,0,md Moldova,58.0,5004.0,Mërgim Mavraj,4-3-3,Ville Nevalainen,Match Report,,15.0,4.0,0,0,0.0,1,Albania,,,Moldova
+286,2019-09-07,20:45,UEFA Euro Qualifying,Group stage,Sat,Away,L,1,4,fr France,28.0,77655.0,Mërgim Mavraj,3-4-1-2,Jesús Gil,Match Report,,3.0,1.0,1,1,1.0,0,Albania,,,France
+287,2019-09-10,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,4,2,is Iceland,60.0,8652.0,Elseid Hysaj,4-3-1-2,Ivan Kružliak,Match Report,,17.0,5.0,0,0,2.0,0,Albania,,,Iceland
+288,2019-10-11,21:45,UEFA Euro Qualifying,Group stage,Fri,Away,L,0,1,tr Türkiye,41.0,41438.0,Ledian Memushaj,3-1-4-2,Ovidiu Hațegan,Match Report,,8.0,4.0,0,0,5.0,0,Albania,,,Türkiye
+289,2019-10-14,21:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,4,0,md Moldova,69.0,4367.0,Amir Abrashi,4-3-3,Chris Kavanagh,Match Report,,15.0,7.0,0,0,1.0,1,Albania,,,Moldova
+290,2019-11-14,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,D,2,2,ad Andorra,79.0,4260.0,Ledian Memushaj,3-1-4-2,Kristo Tohver,Match Report,,18.0,5.0,0,0,0.0,0,Albania,,,Andorra
+291,2019-11-17,20:45,UEFA Euro Qualifying,Group stage,Sun,Home,L,0,2,fr France,43.0,19228.0,Elseid Hysaj,5-3-2,Slavko Vinčič,Match Report,,9.0,0.0,0,0,3.0,0,Albania,,,France
+294,2019-03-21,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,3,1,ru Russia,61.0,34245.0,Eden Hazard,3-4-3,Ovidiu Hațegan,Match Report,,15.0,6.0,1,1,1.0,0,Belgium,,,Russia
+295,2019-03-24,21:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,2,0,cy Cyprus,60.0,8728.0,Eden Hazard,3-4-3,François Letexier,Match Report,,13.0,6.0,0,0,1.0,1,Belgium,,,Cyprus
+296,2019-06-08,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,3,0,kz Kazakhstan,70.0,37155.0,Eden Hazard,3-4-3,Irfan Peljto,Match Report,,27.0,12.0,0,0,1.0,1,Belgium,,,Kazakhstan
+297,2019-06-11,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,3,0,sct Scotland,71.0,32482.0,Eden Hazard,3-4-3,Petr Ardeleánu,Match Report,,25.0,11.0,0,0,2.0,1,Belgium,,,Scotland
+298,2019-09-06,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,4,0,sm San Marino,81.0,2523.0,Kevin De Bruyne,3-4-3,Horațiu Fesnic,Match Report,,29.0,11.0,1,1,3.0,1,Belgium,,,San Marino
+299,2019-09-09,19:45,UEFA Euro Qualifying,Group stage,Mon,Away,W,4,0,sct Scotland,52.0,25524.0,Kevin De Bruyne,3-4-3,Paweł Gil,Match Report,,15.0,8.0,0,0,3.0,1,Belgium,,,Scotland
+300,2019-10-10,20:45,UEFA Euro Qualifying,Group stage,Thu,Home,W,9,0,sm San Marino,84.0,34504.0,Eden Hazard,3-4-3,Anastasios Papapetrou,Match Report,,43.0,16.0,1,1,0.0,1,Belgium,,,San Marino
+301,2019-10-13,19:00,UEFA Euro Qualifying,Group stage,Sun,Away,W,2,0,kz Kazakhstan,66.0,26801.0,Eden Hazard,3-4-3,Gediminas Mažeika,Match Report,,11.0,3.0,0,0,1.0,1,Belgium,,,Kazakhstan
+302,2019-11-16,20:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,4,1,ru Russia,47.0,53317.0,Eden Hazard,3-4-3,Artur Soares Dias,Match Report,,11.0,8.0,0,0,3.0,0,Belgium,,,Russia
+303,2019-11-19,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,6,1,cy Cyprus,62.0,40568.0,Eden Hazard,3-4-3,Jørgen Burchardt,Match Report,,18.0,12.0,0,0,0.0,0,Belgium,,,Cyprus
+306,2021-06-12,22:00,UEFA Euro,Group stage,Sat,Neutral,W,3,0,ru Russia,66.0,26264.0,Jan Vertonghen,3-4-3,Antonio Matéu Lahoz,Match Report,,9.0,4.0,0,0,1.0,1,Belgium,1.4,0.3,Russia
+307,2021-06-17,18:00,UEFA Euro,Group stage,Thu,Neutral,W,2,1,dk Denmark,53.0,23395.0,Jan Vertonghen,3-4-3,Björn Kuipers,Match Report,,6.0,4.0,0,0,4.0,0,Belgium,0.9,1.7,Denmark
+308,2021-06-21,22:00,UEFA Euro,Group stage,Mon,Neutral,W,2,0,fi Finland,61.0,18545.0,Eden Hazard,3-4-3,Felix Brych,Match Report,,17.0,7.0,0,0,1.0,1,Belgium,1.6,0.4,Finland
+309,2021-06-27,21:00,UEFA Euro,Round of 16,Sun,Neutral,W,1,0,pt Portugal,43.0,11504.0,Eden Hazard,3-4-3,Felix Brych,Match Report,,6.0,1.0,0,0,4.0,1,Belgium,0.2,1.4,Portugal
+310,2021-07-02,21:00,UEFA Euro,Quarter-finals,Fri,Home,L,1,2,it Italy,46.0,12984.0,Jan Vertonghen,3-4-3,Slavko Vinčič,Match Report,,9.0,2.0,1,1,1.0,0,Belgium,1.8,1.7,Italy
+311,2019-03-21,21:00,UEFA Euro Qualifying,Group stage,Thu,Away,L,0,3,kz Kazakhstan,59.0,27641.0,Callum McGregor,4-3-3,Srđan Jovanović,Match Report,,10.0,2.0,0,0,3.0,0,Scotland,,,Kazakhstan
+312,2019-03-24,18:00,UEFA Euro Qualifying,Group stage,Sun,Away,W,2,0,sm San Marino,77.0,4077.0,Andrew Robertson,4-2-2-2,Manuel Schüttengruber,Match Report,,21.0,6.0,0,0,0.0,1,Scotland,,,San Marino
+313,2019-06-08,19:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,2,1,cy Cyprus,53.0,31277.0,Andrew Robertson,4-3-2-1,Ola Nilsen,Match Report,,16.0,6.0,0,0,5.0,0,Scotland,,,Cyprus
+314,2019-06-11,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,L,0,3,be Belgium,29.0,32482.0,Charlie Mulgrew,4-2-3-1,Petr Ardeleánu,Match Report,,4.0,2.0,0,0,8.0,0,Scotland,,,Belgium
+315,2019-09-06,19:45,UEFA Euro Qualifying,Group stage,Fri,Home,L,1,2,ru Russia,46.0,32432.0,Andrew Robertson,4-3-3,Anastasios Sidiropoulos,Match Report,,14.0,5.0,0,0,4.0,0,Scotland,,,Russia
+316,2019-09-09,19:45,UEFA Euro Qualifying,Group stage,Mon,Home,L,0,4,be Belgium,48.0,25524.0,Andrew Robertson,4-3-3,Paweł Gil,Match Report,,10.0,3.0,0,0,5.0,0,Scotland,,,Belgium
+317,2019-10-10,21:45,UEFA Euro Qualifying,Group stage,Thu,Away,L,0,4,ru Russia,36.0,55703.0,Andrew Robertson,4-2-3-1,Jakob Kehlet,Match Report,,4.0,2.0,0,0,1.0,0,Scotland,,,Russia
+318,2019-10-13,17:00,UEFA Euro Qualifying,Group stage,Sun,Home,W,6,0,sm San Marino,75.0,20699.0,Andrew Robertson,4-2-3-1,Jérôme Brisard,Match Report,,31.0,13.0,0,0,2.0,1,Scotland,,,San Marino
+319,2019-11-16,16:00,UEFA Euro Qualifying,Group stage,Sat,Away,W,2,1,cy Cyprus,42.0,7595.0,Steven Naismith,4-4-1-1,Harald Lechner,Match Report,,8.0,4.0,0,0,2.0,0,Scotland,,,Cyprus
+320,2019-11-19,19:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,3,1,kz Kazakhstan,62.0,19515.0,Steven Naismith,4-2-3-1,Bas Nijhuis,Match Report,,22.0,9.0,0,0,2.0,0,Scotland,,,Kazakhstan
+321,2020-10-08,19:45,UEFA Euro Qualifying,Semi-finals,Thu,Home,D,0 (5),0 (3),il Israel,42.0,,Andrew Robertson,3-4-1-2,Ovidiu Hațegan,Match Report,Scotland won on penalty kicks following extra time,17.0,1.0,0,0,1.0,1,Scotland,,,Israel
+322,2020-11-12,20:45,UEFA Euro Qualifying,Finals,Thu,Away,D,1 (5),1 (4),rs Serbia,42.0,,Andrew Robertson,3-4-1-2,Antonio Matéu Lahoz,Match Report,Scotland won on penalty kicks following extra time,10.0,4.0,0,0,3.0,0,Scotland,,,Serbia
+325,2021-06-14,14:00,UEFA Euro,Group stage,Mon,Neutral,L,0,2,cz Czechia,57.0,9847.0,Andrew Robertson,3-5-2,Daniel Siebert,Match Report,,19.0,4.0,0,0,5.0,0,Scotland,1.9,1.1,Czechia
+326,2021-06-18,20:00,UEFA Euro,Group stage,Fri,Neutral,D,0,0,eng England,40.0,20306.0,Andrew Robertson,3-4-1-2,Antonio Matéu Lahoz,Match Report,,11.0,1.0,0,0,1.0,1,Scotland,0.6,1.4,England
+327,2021-06-22,20:00,UEFA Euro,Group stage,Tue,Neutral,L,1,3,hr Croatia,34.0,9896.0,Andrew Robertson,3-5-2,Fernando Rapallini,Match Report,,11.0,3.0,0,0,3.0,0,Scotland,1.4,1.0,Croatia
+328,2019-03-23,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,2,0,fi Finland,58.0,24000.0,Giorgio Chiellini,4-3-3,Orel Grinfeeld,Match Report,,11.0,3.0,0,0,1.0,1,Italy,,,Finland
+329,2019-03-26,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,6,0,li Liechtenstein,78.0,19834.0,Leonardo Bonucci,4-3-3,Kirill Levnikov,Match Report,,41.0,12.0,2,2,1.0,1,Italy,,,Liechtenstein
+330,2019-06-08,21:45,UEFA Euro Qualifying,Group stage,Sat,Away,W,3,0,gr Greece,70.0,19828.0,Giorgio Chiellini,4-3-3,Anthony Taylor,Match Report,,16.0,10.0,0,0,2.0,1,Italy,,,Greece
+331,2019-06-11,20:45,UEFA Euro Qualifying,Group stage,Tue,Home,W,2,1,ba Bosnia & Herz'na,65.0,29100.0,Giorgio Chiellini,4-3-3,Javier Estrada,Match Report,,17.0,8.0,0,0,2.0,0,Italy,,,Bosnia & Herz'na
+332,2019-09-05,20:00,UEFA Euro Qualifying,Group stage,Thu,Away,W,3,1,am Armenia,74.0,13680.0,Leonardo Bonucci,4-3-3,Daniel Siebert,Match Report,,18.0,7.0,0,0,2.0,0,Italy,,,Armenia
+333,2019-09-08,21:45,UEFA Euro Qualifying,Group stage,Sun,Away,W,2,1,fi Finland,60.0,16292.0,Leonardo Bonucci,4-3-3,Bobby Madden,Match Report,,25.0,9.0,1,1,0.0,0,Italy,,,Finland
+334,2019-10-12,20:45,UEFA Euro Qualifying,Group stage,Sat,Home,W,2,0,gr Greece,71.0,56274.0,Leonardo Bonucci,4-3-3,Sergey Karasev,Match Report,,20.0,4.0,1,1,1.0,1,Italy,,,Greece
+335,2019-10-15,20:45,UEFA Euro Qualifying,Group stage,Tue,Away,W,5,0,li Liechtenstein,80.0,5087.0,Marco Verratti,4-3-3,Andris Treimanis,Match Report,,25.0,11.0,0,0,3.0,1,Italy,,,Liechtenstein
+336,2019-11-15,20:45,UEFA Euro Qualifying,Group stage,Fri,Away,W,3,0,ba Bosnia & Herz'na,55.0,8355.0,Leonardo Bonucci,4-3-3,Sandro Schärer,Match Report,,12.0,7.0,0,0,4.0,2,Italy,,,Bosnia & Herz'na
+337,2019-11-18,20:45,UEFA Euro Qualifying,Group stage,Mon,Home,W,9,1,am Armenia,71.0,27752.0,Leonardo Bonucci,4-3-3,Tiago Martins,Match Report,,24.0,12.0,1,1,4.0,0,Italy,,,Armenia
+340,2021-06-11,21:00,UEFA Euro,Group stage,Fri,Neutral,W,3,0,tr Türkiye,64.0,12916.0,Giorgio Chiellini,4-3-3,Danny Makkelie,Match Report,,24.0,8.0,0,0,0.0,1,Italy,1.9,0.6,Türkiye
+341,2021-06-16,21:00,UEFA Euro,Group stage,Wed,Neutral,W,3,0,ch Switzerland,49.0,12445.0,Giorgio Chiellini,4-3-3,Sergey Karasev,Match Report,,13.0,3.0,0,0,1.0,1,Italy,2.7,0.2,Switzerland
+342,2021-06-20,18:00,UEFA Euro,Group stage,Sun,Neutral,W,1,0,wls Wales,69.0,11541.0,Leonardo Bonucci,4-3-3,Ovidiu Hațegan,Match Report,,23.0,6.0,0,0,1.0,1,Italy,2.0,0.4,Wales
+343,2021-06-26,20:00,UEFA Euro,Round of 16,Sat,Neutral,W,2,1,at Austria,51.0,18910.0,Leonardo Bonucci,4-3-3,Anthony Taylor,Match Report,Required Extra Time,27.0,6.0,0,0,2.0,0,Italy,1.9,0.8,Austria
+344,2021-07-02,21:00,UEFA Euro,Quarter-finals,Fri,Away,W,2,1,be Belgium,54.0,12984.0,Giorgio Chiellini,4-3-3,Slavko Vinčič,Match Report,,14.0,3.0,0,0,2.0,0,Italy,1.7,1.8,Belgium
+345,2021-07-06,20:00,UEFA Euro,Semi-finals,Tue,Home,D,1 (4),1 (2),es Spain,31.0,57811.0,Giorgio Chiellini,4-3-3,Felix Brych,Match Report,Italy won on penalty kicks following extra time,7.0,4.0,0,0,3.0,0,Italy,0.8,1.5,Spain
+346,2021-07-11,20:00,UEFA Euro,Final,Sun,Neutral,D,1 (3),1 (2),eng England,65.0,67173.0,Giorgio Chiellini,4-3-3,Björn Kuipers,Match Report,Italy won on penalty kicks following extra time,19.0,6.0,0,0,1.0,0,Italy,2.2,0.6,England
