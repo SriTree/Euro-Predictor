@@ -20,7 +20,7 @@ Additionally I chose to deploy this backend to [render](https://render.com/), bu
 ## Acknowledgements
 
  - [How to predict NFL Winners with Python](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
- - [Predict Football Match Winners With Machine Learning And Python](How to predict NFL Winners with Python)
+ - [Predict Football Match Winners With Machine Learning And Python](https://youtu.be/0irmDBWLrco?si=akJ9l1t_8cKI2Mcj)
 
 ## Tech Stack
 
