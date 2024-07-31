@@ -17,11 +17,11 @@ accuracy = 0
 precision = 0
 
 # Loading datasets
-nations_one = pd.read_csv("nations_league_1.csv", index_col=0)
-nations_two = pd.read_csv("nations_league_2.csv", index_col=0)
-world_cup = pd.read_csv("world_cup.csv", index_col=0)
-euro_qual = pd.read_csv("euro_qual.csv", index_col=0)
-euro_2022 = pd.read_csv("euro_2022.csv", index_col=0)
+nations_one = pd.read_csv("data/nations_league_1.csv", index_col=0)
+nations_two = pd.read_csv("data/nations_league_2.csv", index_col=0)
+world_cup = pd.read_csv("data/world_cup.csv", index_col=0)
+euro_qual = pd.read_csv("data/euro_qual.csv", index_col=0)
+euro_2022 = pd.read_csv("data/euro_2022.csv", index_col=0)
 
 # Function to predict match outcomes
 def predict_match_outcomes(match_data, model, features):
